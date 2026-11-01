@@ -41,11 +41,11 @@ body{background:var(--bs-tertiary-bg)}
 <span class="opacity-75 ms-lg-auto"><i class="bi bi-check2-circle"></i> checked 2026-11-01</span></div>
 </div></div>
 <main class="container">
-<div class="topbar d-flex flex-wrap align-items-center gap-2 py-2 mb-2">
-<button type="button" class="btn btn-sm btn-outline-secondary" id="share"><i class="bi bi-share"></i> <span>Share</span></button>
-<button type="button" class="btn btn-sm btn-outline-secondary" id="save" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Save these filters: the page opens with them next time. Click again to forget them"><i class="bi bi-bookmark"></i> <span>Save filters</span></button>
-<button type="button" class="btn btn-sm btn-outline-warning" id="favtop" aria-pressed="false"><i class="bi bi-star-fill"></i> Favorites <span class="badge rounded-pill text-bg-warning d-none" id="favtopcount">0</span></button>
-<button type="button" class="btn btn-sm btn-outline-warning" id="newtop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Added to the list in the last 7 days"><i class="bi bi-stars"></i> New <span class="badge rounded-pill text-bg-warning d-none" id="newtopcount">0</span></button>
+<div class="topbar d-flex flex-wrap align-items-center column-gap-3 column-gap-md-4 row-gap-2 py-2 mb-2">
+<div class="d-flex gap-2"><button type="button" class="btn btn-sm btn-outline-secondary" id="share"><i class="bi bi-share"></i> <span>Share</span></button>
+<button type="button" class="btn btn-sm btn-outline-secondary" id="save" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Save these filters: the page opens with them next time. Click again to forget them"><i class="bi bi-bookmark"></i> <span>Save filters</span></button></div>
+<div class="d-flex gap-2"><button type="button" class="btn btn-sm btn-outline-warning" id="favtop" aria-pressed="false"><i class="bi bi-star-fill"></i> Favorites <span class="badge rounded-pill text-bg-warning d-none" id="favtopcount">0</span></button>
+<button type="button" class="btn btn-sm btn-outline-warning" id="newtop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Added to the list in the last 7 days"><i class="bi bi-stars"></i> New <span class="badge rounded-pill text-bg-warning d-none" id="newtopcount">0</span></button></div>
 <div class="input-group input-group-sm" style="width:16rem"><span class="input-group-text"><i class="bi bi-search"></i></span><input type="search" class="form-control" id="txt" placeholder="Search name, band, place…" aria-label="Search events" autocomplete="off"></div>
 <button type="button" class="btn btn-sm btn-outline-danger d-none" id="reset"><i class="bi bi-x-circle"></i> Reset all <span class="badge rounded-pill text-bg-danger" id="fcount">0</span></button>
 <span class="ms-auto small text-body-secondary"><i class="bi bi-funnel"></i> <span id="total">218</span> events · click one for details</span></div>
@@ -2267,7 +2267,7 @@ body{background:var(--bs-tertiary-bg)}
 </div></div>
 <div class="list-group-item text-center text-body-secondary py-4 empty d-none"><i class="bi bi-funnel"></i> No events match the filters.</div>
 </div></div></section>
-<p class="small text-body-secondary mb-5 d-flex flex-wrap align-items-baseline column-gap-3 row-gap-1"><span><i class="bi bi-info-circle"></i> "unconfirmed" = <span class="d-none d-sm-inline">seen on an </span>aggregator only<span class="d-none d-sm-inline">, check the event page before going</span>.</span><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none text-nowrap" id="cookieset"><i class="bi bi-cookie"></i> <span class="d-sm-none">Cookies</span><span class="d-none d-sm-inline">Cookie settings</span></button></p>
+<p class="small text-body-secondary mb-5 d-flex flex-wrap align-items-baseline column-gap-3 row-gap-1"><span><i class="bi bi-info-circle"></i> "unconfirmed" = <span class="d-none d-sm-inline">seen on an </span>aggregator only<span class="d-none d-sm-inline">, check the event page before going</span>.</span><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none text-nowrap ms-auto" id="cookieset"><i class="bi bi-cookie"></i> <span class="d-sm-none">Cookies</span><span class="d-none d-sm-inline">Cookie settings</span></button></p>
 </main>
 <script>
 const $=id=>document.getElementById(id), F={from:$('from'),to:$('to'),city:$('city'),free:$('free'),min:$('min'),max:$('max'),unk:$('unk'),nw:$('newonly'),fav:$('favonly'),txt:$('txt')};
