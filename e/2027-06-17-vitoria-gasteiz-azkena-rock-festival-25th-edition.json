@@ -1,0 +1,39 @@
+{
+ "id": "2027-06-17-vitoria-gasteiz-azkena-rock-festival-25th-edition",
+ "name": "Azkena Rock Festival (25th edition)",
+ "description": "Rock festival in the Basque Country, 25th anniversary",
+ "start": "2027-06-17",
+ "end": "2027-06-19",
+ "hours": "n/a",
+ "place": "Mendizabala",
+ "address": "n/a",
+ "city": "Vitoria-Gasteiz",
+ "country": "Spain",
+ "price": "promo pass on sale (price n/a)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.azkenarockfestival.com/",
+ "source": "official",
+ "details": "Marilyn Manson is one of five headliners with Patti Smith, Bad Religion, Slash and Wilco; about 60 artists expected. His day is not announced yet.",
+ "tags": [
+  "marilyn-manson",
+  "rock",
+  "metal",
+  "music-festival",
+  "open-air"
+ ],
+ "note": "MARILYN MANSON (day TBA)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.295Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Azkena+Rock+Festival+%2825th+edition%29&dates=20270617%2F20270620&details=Rock+festival+in+the+Basque+Country%2C+25th+anniversary%0AMARILYN+MANSON+%28day+TBA%29%0AHours%3A+n%2Fa%0APrice%3A+promo+pass+on+sale+%28price+n%2Fa%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.azkenarockfestival.com%2F&location=Mendizabala%2C+Vitoria-Gasteiz&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Mendizabala%2C%20Vitoria-Gasteiz",
+ "priceValue": null
+}

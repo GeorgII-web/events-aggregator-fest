@@ -1,0 +1,36 @@
+{
+ "id": "2027-06-29-haro-batalla-del-vino-de-haro",
+ "name": "Batalla del Vino de Haro",
+ "description": "Wine-throwing battle in the Rioja hills",
+ "start": "2027-06-29",
+ "end": "2027-06-29",
+ "hours": "from about 8:00",
+ "place": "Riscos de Bilibio, outside Haro",
+ "address": "n/a",
+ "city": "Haro",
+ "country": "Spain",
+ "price": "free",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://www.spain.info/en/que-quieres/agenda/fiestas/rioja_la/batalla_del_vino.html",
+ "source": "spain.info",
+ "details": "Participants douse each other with Rioja wine on San Pedro's day, then the fiesta continues in Haro. A Fiesta of National Tourist Interest.",
+ "tags": [
+  "wine",
+  "city-festival"
+ ],
+ "note": "Fixed date: 29 June",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Batalla+del+Vino+de+Haro&dates=20270629T080000%2F20270629T100000&details=Wine-throwing+battle+in+the+Rioja+hills%0AFixed+date%3A+29+June%0AHours%3A+from+about+8%3A00%0APrice%3A+free%0AStatus%3A+unconfirmed+%28spain.info%29%0Ahttps%3A%2F%2Fwww.spain.info%2Fen%2Fque-quieres%2Fagenda%2Ffiestas%2Frioja_la%2Fbatalla_del_vino.html&location=Riscos+de+Bilibio%2C+outside+Haro%2C+Haro&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Riscos%20de%20Bilibio%2C%20outside%20Haro%2C%20Haro",
+ "priceValue": 0
+}

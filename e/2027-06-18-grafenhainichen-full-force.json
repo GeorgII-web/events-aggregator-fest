@@ -1,0 +1,39 @@
+{
+ "id": "2027-06-18-grafenhainichen-full-force",
+ "name": "Full Force",
+ "description": "Metal/hardcore festival on the Ferropolis industrial peninsula",
+ "start": "2027-06-18",
+ "end": "2027-06-20",
+ "hours": "n/a",
+ "place": "Ferropolis",
+ "address": "n/a",
+ "city": "Gräfenhainichen",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://full-force.de/",
+ "source": "official",
+ "details": "Formerly With Full Force, held at Ferropolis since 2017 for 25,000-30,000 visitors. Cancelled in 2025; 2026 unclear. The official site still shows only 2024.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "punk"
+ ],
+ "note": "Edition uncertain",
+ "dateNote": "no 2026/2027 info; guess: mid/late-June weekend",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Full+Force&dates=20270618%2F20270621&details=Metal%2Fhardcore+festival+on+the+Ferropolis+industrial+peninsula%0AEdition+uncertain%0ADates%3A+no+2026%2F2027+info%3B+guess%3A+mid%2Flate-June+weekend%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Ffull-force.de%2F&location=Ferropolis%2C+Gr%C3%A4fenhainichen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ferropolis%2C%20Gr%C3%A4fenhainichen",
+ "priceValue": null
+}

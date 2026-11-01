@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-30-gdynia-open-er-festival",
+ "name": "Open'er Festival",
+ "description": "Poland's biggest pop/rock/indie festival",
+ "start": "2027-06-30",
+ "end": "2027-07-03",
+ "hours": "n/a",
+ "place": "Gdynia-Kosakowo Airfield",
+ "address": "n/a",
+ "city": "Gdynia",
+ "country": "Poland",
+ "price": "4-day 1185 zł (about 275 EUR); day 565 zł",
+ "size": "big",
+ "status": "ok",
+ "link": "https://opener.pl/en",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Four-day festival: Tame Impala, sombr, The Chemical Brothers, 5 Seconds of Summer, RAYE, Ellie Goulding, Patti Smith Quartet. Regular tier on sale; 4-day + camping 1455 zł.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "rock",
+  "indie",
+  "electronic"
+ ],
+ "note": "Chemical Brothers, Tame Impala",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Open%27er+Festival&dates=20270630%2F20270704&details=Poland%27s+biggest+pop%2Frock%2Findie+festival%0AChemical+Brothers%2C+Tame+Impala%0AHours%3A+n%2Fa%0APrice%3A+4-day+1185+z%C5%82+%28about+275+EUR%29%3B+day+565+z%C5%82%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fopener.pl%2Fen&location=Gdynia-Kosakowo+Airfield%2C+Gdynia&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gdynia-Kosakowo%20Airfield%2C%20Gdynia",
+ "priceValue": 4
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-18-landgraaf-pinkpop",
+ "name": "Pinkpop",
+ "description": "Oldest Dutch pop/rock festival, The Prodigy on Friday",
+ "start": "2027-06-18",
+ "end": "2027-06-20",
+ "hours": "n/a",
+ "place": "Megaland",
+ "address": "n/a",
+ "city": "Landgraaf",
+ "country": "Netherlands",
+ "price": "weekend incl. camping 315 EUR; day 155 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.pinkpop.nl/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Three days of pop and rock. Headliners blink-182, Mumford & Sons and RAYE; THE PRODIGY play Friday 18 June with RAYE, Royal Blood and Bastille. Also Sting, Foals, Turnstile, 5SOS. Regular sale opened 31 Oct 2026.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "rock",
+  "electronic",
+  "prodigy"
+ ],
+ "note": "THE PRODIGY (Fri 18 June)",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pinkpop&dates=20270618%2F20270621&details=Oldest+Dutch+pop%2Frock+festival%2C+The+Prodigy+on+Friday%0ATHE+PRODIGY+%28Fri+18+June%29%0AHours%3A+n%2Fa%0APrice%3A+weekend+incl.+camping+315+EUR%3B+day+155+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.pinkpop.nl%2F&location=Megaland%2C+Landgraaf&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Megaland%2C%20Landgraaf",
+ "priceValue": 315
+}

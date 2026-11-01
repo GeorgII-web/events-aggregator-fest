@@ -1,0 +1,37 @@
+{
+ "id": "2027-07-09-split-ultra-europe",
+ "name": "Ultra Europe",
+ "description": "Ultra's EDM festival in Split",
+ "start": "2027-07-09",
+ "end": "2027-07-11",
+ "hours": "n/a",
+ "place": "Park Mladeži",
+ "address": "n/a",
+ "city": "Split",
+ "country": "Croatia",
+ "price": "3-day GA 235 EUR; VIP from 459 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://ultraeurope.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Three-day EDM festival, 18+. Tickets on sale with a deposit payment plan; no 2027 line-up.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "edm"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ultra+Europe&dates=20270709%2F20270712&details=Ultra%27s+EDM+festival+in+Split%0AHours%3A+n%2Fa%0APrice%3A+3-day+GA+235+EUR%3B+VIP+from+459+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fultraeurope.com%2F&location=Park+Mlade%C5%BEi%2C+Split&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Park%20Mlade%C5%BEi%2C%20Split",
+ "priceValue": 3
+}

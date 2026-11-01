@@ -1,0 +1,38 @@
+{
+ "id": "2027-09-24-neuchatel-fete-des-vendanges-de-neuchatel-100th",
+ "name": "Fête des Vendanges de Neuchâtel (100th)",
+ "description": "Swiss grape-harvest festival, centenary edition",
+ "start": "2027-09-24",
+ "end": "2027-09-26",
+ "hours": "n/a",
+ "place": "Neuchâtel city centre",
+ "address": "n/a",
+ "city": "Neuchâtel",
+ "country": "Switzerland",
+ "price": "n/a (support bracelet)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.fete-des-vendanges.ch",
+ "source": "official",
+ "details": "More than 300 stands run by local clubs and businesses serve drinks and food. The programme includes the Corso fleuri (flower parade) and a children's parade; 2027 is the 100th edition.",
+ "tags": [
+  "wine",
+  "city-festival",
+  "food-festival"
+ ],
+ "note": "100th edition",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F%C3%AAte+des+Vendanges+de+Neuch%C3%A2tel+%28100th%29&dates=20270924%2F20270927&details=Swiss+grape-harvest+festival%2C+centenary+edition%0A100th+edition%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%28support+bracelet%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.fete-des-vendanges.ch&location=Neuch%C3%A2tel+city+centre%2C+Neuch%C3%A2tel&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Neuch%C3%A2tel%20city%20centre%2C%20Neuch%C3%A2tel",
+ "priceValue": null
+}

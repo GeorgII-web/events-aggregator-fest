@@ -1,0 +1,39 @@
+{
+ "id": "2027-06-10-interlaken-greenfield-festival",
+ "name": "Greenfield Festival",
+ "description": "Switzerland's biggest rock/metal open air",
+ "start": "2027-06-10",
+ "end": "2027-06-12",
+ "hours": "n/a",
+ "place": "Flugplatz Interlaken",
+ "address": "n/a",
+ "city": "Interlaken",
+ "country": "Switzerland",
+ "price": "on sale (price n/a)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.greenfieldfestival.ch/",
+ "source": "official",
+ "details": "Three-day rock and metal festival on an airfield in the Alps, with camping. Announced: Parkway Drive, Evanescence, Billy Talent, Lorna Shore, Dropkick Murphys, Arch Enemy, Kreator, Enter Shikari.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "metal",
+  "punk"
+ ],
+ "note": "Parkway Drive, Evanescence, Billy Talent",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Greenfield+Festival&dates=20270610%2F20270613&details=Switzerland%27s+biggest+rock%2Fmetal+open+air%0AParkway+Drive%2C+Evanescence%2C+Billy+Talent%0AHours%3A+n%2Fa%0APrice%3A+on+sale+%28price+n%2Fa%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.greenfieldfestival.ch%2F&location=Flugplatz+Interlaken%2C+Interlaken&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Flugplatz%20Interlaken%2C%20Interlaken",
+ "priceValue": null
+}

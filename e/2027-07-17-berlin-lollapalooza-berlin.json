@@ -1,0 +1,39 @@
+{
+ "id": "2027-07-17-berlin-lollapalooza-berlin",
+ "name": "Lollapalooza Berlin",
+ "description": "Pop/indie/electronic city festival at the Olympic Park",
+ "start": "2027-07-17",
+ "end": "2027-07-18",
+ "hours": "n/a",
+ "place": "Olympiastadion & Olympiapark",
+ "address": "n/a",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "weekend 179 EUR (Comfort 259, VIP 399)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.lollapaloozade.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Two-day festival; Robbie Williams headlines, with The Neighbourhood and sombr. Last Phase II and VIP tickets on sale.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "indie",
+  "electronic"
+ ],
+ "note": "Robbie Williams",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lollapalooza+Berlin&dates=20270717%2F20270719&details=Pop%2Findie%2Felectronic+city+festival+at+the+Olympic+Park%0ARobbie+Williams%0AHours%3A+n%2Fa%0APrice%3A+weekend+179+EUR+%28Comfort+259%2C+VIP+399%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.lollapaloozade.com%2F&location=Olympiastadion+%26+Olympiapark%2C+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Olympiastadion%20%26%20Olympiapark%2C%20Berlin",
+ "priceValue": 179
+}

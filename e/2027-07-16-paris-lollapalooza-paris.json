@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-16-paris-lollapalooza-paris",
+ "name": "Lollapalooza Paris",
+ "description": "Paris edition of Lollapalooza at Longchamp",
+ "start": "2027-07-16",
+ "end": "2027-07-18",
+ "hours": "n/a",
+ "place": "Hippodrome ParisLongchamp",
+ "address": "n/a",
+ "city": "Paris",
+ "country": "France",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://www.lollaparis.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Skipped 2026 and returns to Longchamp in 2027; programming announcement on 4 November at noon. Ticketing not open.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "indie"
+ ],
+ "note": "Reveal 4 Nov",
+ "dateNote": "2027 not announced; 2025: 18-20 Jul",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lollapalooza+Paris&dates=20270716%2F20270719&details=Paris+edition+of+Lollapalooza+at+Longchamp%0AReveal+4+Nov%0ADates%3A+2027+not+announced%3B+2025%3A+18-20+Jul%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.lollaparis.com%2F&location=Hippodrome+ParisLongchamp%2C+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hippodrome%20ParisLongchamp%2C%20Paris",
+ "priceValue": null
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-25-athens-release-athens",
+ "name": "Release Athens",
+ "description": "Athens summer concert series, moving to Markopoulo",
+ "start": "2027-06-25",
+ "end": "2027-07-14",
+ "hours": "n/a",
+ "place": "Markopoulo Olympic Complex / Ergostasio 35",
+ "address": "n/a",
+ "city": "Athens",
+ "country": "Greece",
+ "price": "per-concert tickets (presale since Oct 2026)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.releaseathens.gr/",
+ "source": "official",
+ "details": "A series of single-day concerts, not a camping festival. Announced: The Neighbourhood (25 Jun), Tokio Hotel (7 Jul), Fontaines D.C. (11 Jul), Judas Priest (14 Jul).",
+ "tags": [
+  "music-festival",
+  "rock",
+  "metal"
+ ],
+ "note": "Judas Priest 14 July",
+ "dateNote": "end = last concert announced so far",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Release+Athens&dates=20270625%2F20270715&details=Athens+summer+concert+series%2C+moving+to+Markopoulo%0AJudas+Priest+14+July%0ADates%3A+end+%3D+last+concert+announced+so+far%0AHours%3A+n%2Fa%0APrice%3A+per-concert+tickets+%28presale+since+Oct+2026%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.releaseathens.gr%2F&location=Markopoulo+Olympic+Complex+%2F+Ergostasio+35%2C+Athens&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Markopoulo%20Olympic%20Complex%20%2F%20Ergostasio%2035%2C%20Athens",
+ "priceValue": 2026
+}

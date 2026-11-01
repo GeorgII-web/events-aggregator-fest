@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-30-viveiro-resurrection-fest",
+ "name": "Resurrection Fest",
+ "description": "Spain's biggest metal/hardcore festival in Galicia",
+ "start": "2027-06-30",
+ "end": "2027-07-03",
+ "hours": "n/a",
+ "place": "Resurrection Fest site, Celeiro",
+ "address": "n/a",
+ "city": "Viveiro",
+ "country": "Spain",
+ "price": "early bird (from 195 EUR) sold out; next phase n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.resurrectionfest.es/en/",
+ "source": "official",
+ "details": "Four-day metal, hardcore and punk festival with camping. Early-bird passes sold out; no line-up announced yet.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "punk"
+ ],
+ "note": "No bands yet",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Resurrection+Fest&dates=20270630%2F20270704&details=Spain%27s+biggest+metal%2Fhardcore+festival+in+Galicia%0ANo+bands+yet%0AHours%3A+n%2Fa%0APrice%3A+early+bird+%28from+195+EUR%29+sold+out%3B+next+phase+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.resurrectionfest.es%2Fen%2F&location=Resurrection+Fest+site%2C+Celeiro%2C+Viveiro&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Resurrection%20Fest%20site%2C%20Celeiro%2C%20Viveiro",
+ "priceValue": 195
+}

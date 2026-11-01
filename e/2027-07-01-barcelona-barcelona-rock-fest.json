@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-01-barcelona-barcelona-rock-fest",
+ "name": "Barcelona Rock Fest",
+ "description": "Hard rock/metal festival near Barcelona",
+ "start": "2027-07-01",
+ "end": "2027-07-04",
+ "hours": "n/a",
+ "place": "Parc de Can Zam (recent editions)",
+ "address": "n/a",
+ "city": "Barcelona",
+ "country": "Spain",
+ "price": "on sale (price n/a)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.barcelonarockfest.com/",
+ "source": "official",
+ "details": "Hard rock and metal festival; the official site lists 1-4 July 2027 with tickets on sale. No line-up announced; venue not stated (Badalona per Frontstage).",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "metal"
+ ],
+ "note": "No bands yet",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Barcelona+Rock+Fest&dates=20270701%2F20270705&details=Hard+rock%2Fmetal+festival+near+Barcelona%0ANo+bands+yet%0AHours%3A+n%2Fa%0APrice%3A+on+sale+%28price+n%2Fa%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.barcelonarockfest.com%2F&location=Parc+de+Can+Zam+%28recent+editions%29%2C+Barcelona&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Parc%20de%20Can%20Zam%20(recent%20editions)%2C%20Barcelona",
+ "priceValue": null
+}

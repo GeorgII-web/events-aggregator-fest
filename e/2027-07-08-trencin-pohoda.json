@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-08-trencin-pohoda",
+ "name": "Pohoda",
+ "description": "Slovakia's multi-genre festival at Trenčín airport",
+ "start": "2027-07-08",
+ "end": "2027-07-10",
+ "hours": "n/a",
+ "place": "Trenčín Airport",
+ "address": "n/a",
+ "city": "Trenčín",
+ "country": "Slovakia",
+ "price": "n/a (2027 tickets on sale)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.pohodafestival.sk/en",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Three-day festival with indie, electronic and rock; Massive Attack (Thu 8 July) and The Chemical Brothers announced. Tickets include free tent camping.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "indie",
+  "electronic"
+ ],
+ "note": "Massive Attack, Chemical Brothers",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pohoda&dates=20270708%2F20270711&details=Slovakia%27s+multi-genre+festival+at+Tren%C4%8D%C3%ADn+airport%0AMassive+Attack%2C+Chemical+Brothers%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282027+tickets+on+sale%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.pohodafestival.sk%2Fen&location=Tren%C4%8D%C3%ADn+Airport%2C+Tren%C4%8D%C3%ADn&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tren%C4%8D%C3%ADn%20Airport%2C%20Tren%C4%8D%C3%ADn",
+ "priceValue": 2027
+}

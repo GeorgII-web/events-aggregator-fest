@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-28-wacken-wacken-open-air",
+ "name": "Wacken Open Air",
+ "description": "World's biggest metal festival, village field in Schleswig-Holstein",
+ "start": "2027-07-28",
+ "end": "2027-07-31",
+ "hours": "n/a",
+ "place": "Festivalgelände Wacken",
+ "address": "Norderstraße, 25596 Wacken",
+ "city": "Wacken",
+ "country": "Germany",
+ "price": "Faster/Harder tiers sold out; ~351-366 EUR; youth (≤25) 279 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.wacken.com/en/",
+ "source": "official",
+ "details": "Four-day metal festival with about 85,000 visitors and camping. Sale opened 2 Aug 2026; on wacken.com the Loyalty, Faster and Harder tiers are sold out, only the Louder tier is still listed. Announced so far: Five Finger Death Punch, Electric Callboy, Helloween, Kanonenfieber, Knocked Loose, Heaven Shall Burn, Children of Bodom, Halestorm.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal"
+ ],
+ "note": "FFDP, Electric Callboy, Helloween; main tiers sold out",
+ "dateNote": "dates from festivalinfo.nl and Hamburg tourism",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wacken+Open+Air&dates=20270728%2F20270801&details=World%27s+biggest+metal+festival%2C+village+field+in+Schleswig-Holstein%0AFFDP%2C+Electric+Callboy%2C+Helloween%3B+main+tiers+sold+out%0ADates%3A+dates+from+festivalinfo.nl+and+Hamburg+tourism%0AHours%3A+n%2Fa%0APrice%3A+Faster%2FHarder+tiers+sold+out%3B+%7E351-366+EUR%3B+youth+%28%E2%89%A425%29+279+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.wacken.com%2Fen%2F&location=Festivalgel%C3%A4nde+Wacken%2C+Norderstra%C3%9Fe%2C+25596+Wacken&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Norderstra%C3%9Fe%2C%2025596%20Wacken",
+ "priceValue": 351
+}

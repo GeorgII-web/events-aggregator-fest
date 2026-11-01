@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-13-perugia-eurochocolate",
+ "name": "Eurochocolate",
+ "description": "Chocolate festival across Perugia's historic centre",
+ "start": "2026-11-13",
+ "end": "2026-11-22",
+ "hours": "n/a",
+ "place": "Historic centre of Perugia",
+ "address": "n/a",
+ "city": "Perugia",
+ "country": "Italy",
+ "price": "free entry (paid workshops and tastings)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.eurochocolate.com",
+ "source": "official",
+ "details": "The 32nd edition fills the old town with chocolate stands, a Chocolate Experience area with master chocolatiers and the Città del Cioccolato museum. Calabria is the guest region.",
+ "tags": [
+  "food-festival",
+  "city-festival"
+ ],
+ "note": "Guest region Calabria",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eurochocolate&dates=20261113%2F20261123&details=Chocolate+festival+across+Perugia%27s+historic+centre%0AGuest+region+Calabria%0AHours%3A+n%2Fa%0APrice%3A+free+entry+%28paid+workshops+and+tastings%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.eurochocolate.com&location=Historic+centre+of+Perugia%2C+Perugia&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Historic%20centre%20of%20Perugia%2C%20Perugia",
+ "priceValue": 0
+}

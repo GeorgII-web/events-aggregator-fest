@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-15-carhaix-les-vieilles-charrues",
+ "name": "Les Vieilles Charrues",
+ "description": "France's biggest music festival, Brittany",
+ "start": "2027-07-15",
+ "end": "2027-07-18",
+ "hours": "n/a",
+ "place": "Site de Kerampuilh",
+ "address": "n/a",
+ "city": "Carhaix",
+ "country": "France",
+ "price": "day tickets from 53 EUR (press)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.vieillescharrues.asso.fr/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Four-day non-profit festival. Muse play Thursday 15 July (sold out), Angèle Friday 16 July; general sale for the other days to open.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "rock"
+ ],
+ "note": "Thursday (Muse) sold out",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Vieilles+Charrues&dates=20270715%2F20270719&details=France%27s+biggest+music+festival%2C+Brittany%0AThursday+%28Muse%29+sold+out%0AHours%3A+n%2Fa%0APrice%3A+day+tickets+from+53+EUR+%28press%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.vieillescharrues.asso.fr%2F&location=Site+de+Kerampuilh%2C+Carhaix&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Site%20de%20Kerampuilh%2C%20Carhaix",
+ "priceValue": 53
+}

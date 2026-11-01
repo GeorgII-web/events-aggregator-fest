@@ -1,0 +1,40 @@
+{
+ "id": "2027-06-04-nancy-heavy-week-end-nancy-open-air",
+ "name": "Heavy Week-End (Nancy Open Air)",
+ "description": "Three-night open-air metal festival, one stage",
+ "start": "2027-06-04",
+ "end": "2027-06-06",
+ "hours": "n/a",
+ "place": "Nancy Open Air (Zénith de Nancy site)",
+ "address": "Rue du Zénith, 54320 Maxéville",
+ "city": "Nancy",
+ "country": "France",
+ "price": "3-day pass 199 EUR (under 30: 149 EUR)",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.heavyweekend.live/",
+ "source": "official",
+ "details": "Marilyn Manson headlines Sunday 6 June with Slash feat. Myles Kennedy, The Cult and Jayler. Friday: Helloween, Amon Amarth, Kreator; Saturday: Falling in Reverse. 3-day passes on sale, day tickets coming.",
+ "tags": [
+  "marilyn-manson",
+  "metal",
+  "rock",
+  "industrial",
+  "music-festival",
+  "open-air"
+ ],
+ "note": "MARILYN MANSON (Sun 6 June)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.295Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Heavy+Week-End+%28Nancy+Open+Air%29&dates=20270604%2F20270607&details=Three-night+open-air+metal+festival%2C+one+stage%0AMARILYN+MANSON+%28Sun+6+June%29%0AHours%3A+n%2Fa%0APrice%3A+3-day+pass+199+EUR+%28under+30%3A+149+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.heavyweekend.live%2F&location=Nancy+Open+Air+%28Z%C3%A9nith+de+Nancy+site%29%2C+Rue+du+Z%C3%A9nith%2C+54320+Max%C3%A9ville&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rue%20du%20Z%C3%A9nith%2C%2054320%20Max%C3%A9ville",
+ "priceValue": 3
+}

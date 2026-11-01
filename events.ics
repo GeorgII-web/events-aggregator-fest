@@ -23,4 +23,649 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2027-09-03-brussels-belgian-beer-weekend@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
+SUMMARY:Belgian Beer Weekend
+DESCRIPTION:Belgian brewers take over Brussels' Grand-Place\nAlways on the
+  first weekend of September\nHours: n/a\nPrice: free entry; tasting token
+ s 2 EUR each\nStatus: ok (official)\nhttps://www.belgianbeerweekend.be
+LOCATION:Grand-Place\, 1000 Brussels
+URL:https://www.belgianbeerweekend.be
+CATEGORIES:beer-festival,craft-beer,city-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-24-kortrijk-zythos-beer-festival-zbf@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:Zythos Beer Festival (ZBF) (no dates yet)
+DESCRIPTION:Large festival of Belgian beers\, now in Kortrijk\nOfficial si
+ te is a placeholder\nDates: guess: usual late-April weekend; no 2026 edit
+ ion found\nHours: n/a\nPrice: n/a\nStatus: no dates yet (official)\nhttps
+ ://www.zbf.be
+LOCATION:Kortrijk (since 2023)\, Kortrijk
+URL:https://www.zbf.be
+CATEGORIES:beer-festival,craft-beer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-02-plzen-pilsner-fest@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:Pilsner Fest (no dates yet)
+DESCRIPTION:Pilsner Urquell's birthday festival at the brewery\nBrewery bi
+ rthday\, early October\nDates: 2027 not announced; guess: first Saturday 
+ of October\nHours: n/a\nPrice: n/a\nStatus: no dates yet (official)\nhttp
+ s://www.prazdrojvisit.cz/en/events
+LOCATION:Pilsner Urquell brewery\, U Prazdroje 7\, Plzeň
+URL:https://www.prazdrojvisit.cz/en/events
+CATEGORIES:beer-festival,city-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-07-copenhagen-mikkeller-beer-celebration-copenhagen-mbcc@event
+ s-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270509
+SUMMARY:Mikkeller Beer Celebration Copenhagen (MBCC)
+DESCRIPTION:Top international craft-beer festival hosted by Mikkeller\nTic
+ kets sell out\nHours: n/a (session tickets)\nPrice: 2027 n/a; 2026 sessio
+ ns from DKK 550\nStatus: ok (official)\nhttps://mbcc.mikkeller.com
+LOCATION:Øksnehallen\, Halmtorvet 11\, 1700 København
+URL:https://mbcc.mikkeller.com
+CATEGORIES:beer-festival,craft-beer
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-12-amsterdam-rollende-keukens@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+SUMMARY:Rollende Keukens (unconfirmed)
+DESCRIPTION:Food-truck festival in Amsterdam's Westerpark\n80 food trucks\
+ , 100 live acts\nDates: provisional dates (city tourism listing)\nHours: 
+ Wed 13:00-23:00\, Thu 12:00-23:00\, Fri 13:00-23:00\nPrice: free entry\nS
+ tatus: unconfirmed (iamsterdam.com)\nhttps://www.rollendekeukens.nl
+LOCATION:Westerpark / Westergas\, Westerpark\, 1014 DA Amsterdam
+URL:https://www.rollendekeukens.nl
+CATEGORIES:street-food,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-25-bunol-la-tomatina@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270825T120000
+DTEND;TZID=Europe/Berlin:20270825T140000
+SUMMARY:La Tomatina (no dates yet)
+DESCRIPTION:Mass tomato fight in Buñol\nTicket required\nDates: last Wedn
+ esday of August; 2026: 26 Aug\nHours: 12:00-13:00 (2026)\nPrice: 2027 n/a
+ ; 2026 15 EUR (22\,000 tickets)\nStatus: no dates yet (official)\nhttps:/
+ /latomatina.info
+LOCATION:Town centre of Buñol\, Buñol
+URL:https://latomatina.info
+CATEGORIES:food-festival,city-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-25-vienna-wiener-weinwandertag@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270927
+SUMMARY:Wiener Weinwandertag (no dates yet)
+DESCRIPTION:Free wine-hiking weekend through Vienna's vineyards\nSeptember
+  2027\nDates: 2027 not announced; 2026: 26-27 Sep\nHours: 10:00-18:00 (20
+ 26)\nPrice: free\nStatus: no dates yet (official)\nhttps://www.wien.gv.at
+ /veranstaltungen/weinwandertag
+LOCATION:Vienna vineyards (Nussberg\, Stammersdorf and others)\, Vienna
+URL:https://www.wien.gv.at/veranstaltungen/weinwandertag
+CATEGORIES:wine,city-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-24-neuchatel-fete-des-vendanges-de-neuchatel-100th@events-sear
+ ch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+SUMMARY:Fête des Vendanges de Neuchâtel (100th)
+DESCRIPTION:Swiss grape-harvest festival\, centenary edition\n100th editio
+ n\nHours: n/a\nPrice: n/a (support bracelet)\nStatus: ok (official)\nhttp
+ s://www.fete-des-vendanges.ch
+LOCATION:Neuchâtel city centre\, Neuchâtel
+URL:https://www.fete-des-vendanges.ch
+CATEGORIES:wine,city-festival,food-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-san-sebastian-feria-de-santo-tomas@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261221T100000
+DTEND;TZID=Europe/Berlin:20261221T120000
+SUMMARY:Feria de Santo Tomás (unconfirmed)
+DESCRIPTION:San Sebastián's one-day rural market with txistorra\nAlways o
+ n 21 December\nDates: 2026 programme not published yet\nHours: 10:00-20:0
+ 0\nPrice: free\nStatus: unconfirmed (sansebastianturismoa.eus)\nhttps://s
+ ansebastianturismoa.eus/agenda/feria-de-santo-tomas-2/
+LOCATION:Old town and city centre\, San Sebastián
+URL:https://sansebastianturismoa.eus/agenda/feria-de-santo-tomas-2/
+CATEGORIES:food-festival,street-food,city-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-29-haro-batalla-del-vino-de-haro@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270629T080000
+DTEND;TZID=Europe/Berlin:20270629T100000
+SUMMARY:Batalla del Vino de Haro (unconfirmed)
+DESCRIPTION:Wine-throwing battle in the Rioja hills\nFixed date: 29 June\n
+ Hours: from about 8:00\nPrice: free\nStatus: unconfirmed (spain.info)\nht
+ tps://www.spain.info/en/que-quieres/agenda/fiestas/rioja_la/batalla_del_v
+ ino.html
+LOCATION:Riscos de Bilibio\, outside Haro\, Haro
+URL:https://www.spain.info/en/que-quieres/agenda/fiestas/rioja_la/batalla_
+ del_vino.html
+CATEGORIES:wine,city-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-04-nurburg-rock-am-ring@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:Rock am Ring
+DESCRIPTION:Germany's biggest rock festival at the Nürburgring race track
+ \nTHE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182\, Die Toten Hosen\n
+ Hours: n/a\nPrice: weekend about 269 EUR excl. camping; weekend tickets o
+ nly\nStatus: ok (official)\nhttps://www.rock-am-ring.com/
+LOCATION:Nürburgring\, 53520 Nürburg
+URL:https://www.rock-am-ring.com/
+CATEGORIES:music-festival,open-air,rock,metal,punk,prodigy,bring-me-the-ho
+ rizon
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-04-nuremberg-rock-im-park@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:Rock im Park
+DESCRIPTION:Twin festival of Rock am Ring at Nuremberg Zeppelinfeld\nTHE P
+ RODIGY (Sun) + BRING ME THE HORIZON (Sat); day tickets\nHours: n/a\nPrice
+ : weekend + camping 258/288 EUR sold out; limited day tickets\nStatus: ok
+  (official)\nhttps://www.rock-im-park.com/
+LOCATION:Zeppelinfeld\, Nürnberg
+URL:https://www.rock-im-park.com/
+CATEGORIES:music-festival,open-air,rock,metal,punk,prodigy,bring-me-the-ho
+ rizon
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-18-scheessel-hurricane-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:Hurricane Festival
+DESCRIPTION:Big rock/indie festival on the Eichenring race track\nMuse\, P
+ lacebo\, MGK\nHours: n/a\nPrice: festival ticket from 199 EUR\nStatus: ok
+  (official)\nhttps://www.hurricane.de/
+LOCATION:Eichenring\, Scheeßel
+URL:https://www.hurricane.de/
+CATEGORIES:music-festival,open-air,rock,indie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-18-neuhausen-ob-eck-southside-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:Southside Festival
+DESCRIPTION:Hurricane's southern twin on an airfield business park\nMuse\,
+  Phoebe Bridgers\, MGK\nHours: n/a\nPrice: festival ticket 189 EUR (curre
+ nt phase)\nStatus: ok (official)\nhttps://www.southside.de/
+LOCATION:take-off GewerbePark (airfield)\, Neuhausen ob Eck
+URL:https://www.southside.de/
+CATEGORIES:music-festival,open-air,rock,indie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-18-grafenhainichen-full-force@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:Full Force (no dates yet)
+DESCRIPTION:Metal/hardcore festival on the Ferropolis industrial peninsula
+ \nEdition uncertain\nDates: no 2026/2027 info; guess: mid/late-June weeke
+ nd\nHours: n/a\nPrice: n/a\nStatus: no dates yet (official)\nhttps://full
+ -force.de/
+LOCATION:Ferropolis\, Gräfenhainichen
+URL:https://full-force.de/
+CATEGORIES:music-festival,open-air,metal,punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-29-czaplinek-pol-and-rock-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270801
+SUMMARY:Pol'and'Rock Festival (unconfirmed)
+DESCRIPTION:Huge free rock festival by Jurek Owsiak\, 33rd edition\nKula S
+ haker\, Halestorm; venue TBA\nHours: n/a\nPrice: free\nStatus: unconfirme
+ d (ebilet.pl)\nhttps://polandrockfestival.pl/
+LOCATION:Venue TBA (2025-26: Czaplinek-Broczyno airfield)\, Czaplinek
+URL:https://polandrockfestival.pl/
+CATEGORIES:music-festival,open-air,rock,punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-10-gdansk-mystic-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+SUMMARY:Mystic Festival
+DESCRIPTION:Polish metal festival moving to new Letnica site\nMARILYN MANS
+ ON (11 June); Faith No More\, Helloween\nHours: n/a\nPrice: early bird so
+ ld out; 3-day pass on sale\nStatus: ok (official)\nhttps://www.mysticfest
+ ival.pl/en/
+LOCATION:Letnica (Polsat Plus Arena grounds)\, Gdańsk
+URL:https://www.mysticfestival.pl/en/
+CATEGORIES:music-festival,open-air,metal,marilyn-manson
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-13-eindhoven-dynamo-metalfest@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270816
+SUMMARY:Dynamo Metalfest (unconfirmed)
+DESCRIPTION:Revived Dutch metal festival in Eindhoven\nArchitects\, Mercyf
+ ul Fate\nDates: official site unreachable; data from festivalinfo.nl\nHou
+ rs: n/a\nPrice: 99-259 EUR; early-bird weekend 189 EUR\nStatus: unconfirm
+ ed (festivalinfo.nl)\nhttps://www.dynamometalfest.com/
+LOCATION:IJssportcentrum Eindhoven\, Antoon Coolenlaan 3\, Eindhoven
+URL:https://www.dynamometalfest.com/
+CATEGORIES:music-festival,open-air,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-10-interlaken-greenfield-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+SUMMARY:Greenfield Festival
+DESCRIPTION:Switzerland's biggest rock/metal open air\nParkway Drive\, Eva
+ nescence\, Billy Talent\nHours: n/a\nPrice: on sale (price n/a)\nStatus: 
+ ok (official)\nhttps://www.greenfieldfestival.ch/
+LOCATION:Flugplatz Interlaken\, Interlaken
+URL:https://www.greenfieldfestival.ch/
+CATEGORIES:music-festival,open-air,rock,metal,punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-19-st-polten-fm4-frequency-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270822
+SUMMARY:FM4 Frequency Festival
+DESCRIPTION:Austrian alternative/pop festival in St. Pölten\nLight on roc
+ k\nHours: n/a\nPrice: festival pass about 279 EUR\nStatus: ok (official)\
+ nhttps://www.frequency.at/
+LOCATION:Green Park\, St. Pölten
+URL:https://www.frequency.at/
+CATEGORIES:music-festival,open-air,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-oslo-the-prodigy-european-tour-2026-oslo@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T180000
+DTEND;TZID=Europe/Berlin:20261114T200000
+SUMMARY:The Prodigy – European Tour 2026: Oslo
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: 18:00\nPrice: n/a\nStatus: ok (official)\nhttps://unityarena.
+ no/en/arrangementer/the-prodigy/
+LOCATION:Unity Arena\, Oslo
+URL:https://unityarena.no/en/arrangementer/the-prodigy/
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-stockholm-the-prodigy-european-tour-2026-stockholm@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261115T193000
+DTEND;TZID=Europe/Berlin:20261115T213000
+SUMMARY:The Prodigy – European Tour 2026: Stockholm
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: 19:30\nPrice: 550-895 SEK + fees\nStatus: ok (official)\nhttp
+ s://aviciiarena.se/en/events/music-show/the-prodigy/
+LOCATION:Avicii Arena\, Globentorget 2\, 121 77 Johanneshov\, Stockholm
+URL:https://aviciiarena.se/en/events/music-show/the-prodigy/
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-copenhagen-the-prodigy-european-tour-2026-copenhagen@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T200000
+DTEND;TZID=Europe/Berlin:20261117T220000
+SUMMARY:The Prodigy – European Tour 2026: Copenhagen
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: 20:00\nPrice: n/a\nStatus: ok (official)\nhttps://www.royalar
+ ena.dk/en/all-events/the-prodigy-tickets-ae8441
+LOCATION:Royal Arena\, Hannemanns Allé 18\, 2300 København S
+URL:https://www.royalarena.dk/en/all-events/the-prodigy-tickets-ae8441
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-dusseldorf-the-prodigy-european-tour-2026-dusseldorf@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:The Prodigy – European Tour 2026: Düsseldorf
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: n/a\nPrice: from about 61 EUR (aggregator)\nStatus: ok (offic
+ ial)\nhttps://www.eventim.de/event/the-prodigy-mitsubishi-electric-halle-
+ 21495202/
+LOCATION:Mitsubishi Electric Halle\, Siegburger Str. 15\, 40591 Düsseldor
+ f
+URL:https://www.eventim.de/event/the-prodigy-mitsubishi-electric-halle-214
+ 95202/
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-stuttgart-the-prodigy-european-tour-2026-stuttgart@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Prodigy – European Tour 2026: Stuttgart
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: n/a\nPrice: from about 61 EUR (aggregator)\nStatus: ok (offic
+ ial)\nhttps://www.eventim.de/event/the-prodigy-hanns-martin-schleyer-hall
+ e-21497078/
+LOCATION:Hanns-Martin-Schleyer-Halle\, Mercedesstraße 69\, 70372 Stuttgar
+ t
+URL:https://www.eventim.de/event/the-prodigy-hanns-martin-schleyer-halle-2
+ 1497078/
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-berlin-the-prodigy-european-tour-2026-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261121T220000
+SUMMARY:The Prodigy – European Tour 2026: Berlin
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: 20:00\nPrice: from 79.80 EUR\nStatus: ok (official)\nhttps://
+ www.berlin.de/en/tickets/electronic-dance/the-prodigy-the-european-tour-2
+ 026-14456dcf-cd6b-4bcb-9fb6-b2339fb34f06/
+LOCATION:Velodrom\, Paul-Heyse-Straße 26\, 10407 Berlin
+URL:https://www.berlin.de/en/tickets/electronic-dance/the-prodigy-the-euro
+ pean-tour-2026-14456dcf-cd6b-4bcb-9fb6-b2339fb34f06/
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-prague-the-prodigy-european-tour-2026-prague@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:The Prodigy – European Tour 2026: Prague
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.livenatio
+ n.cz/event/the-prodigy-prague-tickets-edp1663140
+LOCATION:O2 arena\, Českomoravská 2345/17a\, 190 00 Praha 9
+URL:https://www.livenation.cz/event/the-prodigy-prague-tickets-edp1663140
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-vienna-the-prodigy-european-tour-2026-vienna@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261124T193000
+DTEND;TZID=Europe/Berlin:20261124T213000
+SUMMARY:The Prodigy – European Tour 2026: Vienna
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: doors 18:30\, start 19:30\nPrice: n/a\nStatus: ok (official)\
+ nhttps://www.barracudamusic.at/71498/
+LOCATION:Wiener Stadthalle\, Halle D\, Roland-Rainer-Platz 1\, 1150 Wien
+URL:https://www.barracudamusic.at/71498/
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-brussels-the-prodigy-european-tour-2026-brussels@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T183000
+DTEND;TZID=Europe/Berlin:20261127T203000
+SUMMARY:The Prodigy – European Tour 2026: Brussels
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: doors 18:30\nPrice: n/a\nStatus: ok (official)\nhttps://www.l
+ ivenation.be/the-prodigy-brussels-edp1663290
+LOCATION:Forest National / Vorst Nationaal\, Avenue Victor Rousseau 208\, 
+ 1190 Forest (Brussels)
+URL:https://www.livenation.be/the-prodigy-brussels-edp1663290
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-amsterdam-the-prodigy-european-tour-2026-amsterdam@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:The Prodigy – European Tour 2026: Amsterdam
+DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
+ IGY\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.ticketmas
+ ter.nl/event/2090976842
+LOCATION:Ziggo Dome\, De Passage 100\, 1101 AX Amsterdam
+URL:https://www.ticketmaster.nl/event/2090976842
+CATEGORIES:prodigy,electronic,big-beat
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-04-nancy-heavy-week-end-nancy-open-air@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:Heavy Week-End (Nancy Open Air)
+DESCRIPTION:Three-night open-air metal festival\, one stage\nMARILYN MANSO
+ N (Sun 6 June)\nHours: n/a\nPrice: 3-day pass 199 EUR (under 30: 149 EUR)
+ \nStatus: ok (official)\nhttps://www.heavyweekend.live/
+LOCATION:Nancy Open Air (Zénith de Nancy site)\, Rue du Zénith\, 54320 M
+ axéville
+URL:https://www.heavyweekend.live/
+CATEGORIES:marilyn-manson,metal,rock,industrial,music-festival,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-17-vitoria-gasteiz-azkena-rock-festival-25th-edition@events-se
+ arch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270620
+SUMMARY:Azkena Rock Festival (25th edition)
+DESCRIPTION:Rock festival in the Basque Country\, 25th anniversary\nMARILY
+ N MANSON (day TBA)\nHours: n/a\nPrice: promo pass on sale (price n/a)\nSt
+ atus: ok (official)\nhttps://www.azkenarockfestival.com/
+LOCATION:Mendizabala\, Vitoria-Gasteiz
+URL:https://www.azkenarockfestival.com/
+CATEGORIES:marilyn-manson,rock,metal,music-festival,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-17-barcelona-sonar-barcelona@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270620
+SUMMARY:Sónar Barcelona (unconfirmed)
+DESCRIPTION:Advanced music and electronic arts festival\nFuture unclear\nH
+ ours: n/a\nPrice: n/a\nStatus: unconfirmed (technoairlines.com)\nhttps://
+ sonar.es
+LOCATION:TBA (2026: Fira Gran Via)\, Barcelona
+URL:https://sonar.es
+CATEGORIES:music-festival,open-air,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-03-barcelona-primavera-sound-barcelona@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+SUMMARY:Primavera Sound Barcelona (unconfirmed)
+DESCRIPTION:25th-anniversary indie/pop/electronic mega festival\nChemical 
+ Brothers\, Massive Attack\nDates: full run 2-6 Jun\nHours: n/a\nPrice: we
+ ekend about 285 EUR (VIP 495) + fees (press)\nStatus: unconfirmed (catala
+ nnews.com)\nhttps://www.primaverasound.com/en/barcelona
+LOCATION:Parc del Fòrum\, Barcelona
+URL:https://www.primaverasound.com/en/barcelona
+CATEGORIES:music-festival,open-air,indie,pop,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-bilbao-bilbao-bbk-live@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270711
+SUMMARY:Bilbao BBK Live
+DESCRIPTION:Indie/pop/electronic festival on Kobetamendi hill\nPresale sig
+ n-up\nHours: n/a\nPrice: about 135-150 EUR + fees (unverified)\nStatus: o
+ k (official)\nhttps://www.bilbaobbklive.com/en/
+LOCATION:Kobetamendi\, Bilbao
+URL:https://www.bilbaobbklive.com/en/
+CATEGORIES:music-festival,open-air,indie,pop,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-15-benicassim-fib-benicassim@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270718
+SUMMARY:FIB Benicàssim
+DESCRIPTION:Beach-town indie/pop/electronic festival\nNo line-up yet\nHour
+ s: n/a\nPrice: general price n/a (residents' presale from 44.99 EUR)\nSta
+ tus: ok (official)\nhttps://fiberfib.com/en/
+LOCATION:Recinto de Festivales\, Benicàssim
+URL:https://fiberfib.com/en/
+CATEGORIES:music-festival,open-air,indie,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-oeiras-lisbon-nos-alive@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270711
+SUMMARY:NOS Alive
+DESCRIPTION:Lisbon riverside rock/pop/indie festival\nFaith No More\, The 
+ xx\nHours: n/a\nPrice: day 89 EUR\, 3-day 210 EUR\nStatus: ok (official)\
+ nhttps://www.nosalive.com/en/
+LOCATION:Passeio Marítimo de Algés\, Oeiras (Lisbon)
+URL:https://www.nosalive.com/en/
+CATEGORIES:music-festival,open-air,rock,indie,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-20-biddinghuizen-lowlands@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+SUMMARY:Lowlands
+DESCRIPTION:Dutch alternative/indie/electronic festival with camping\nTick
+ ets not on sale yet\nHours: n/a\nPrice: n/a (2026 weekend 365 EUR)\nStatu
+ s: ok (official)\nhttps://lowlands.nl/
+LOCATION:Evenemententerrein Walibi Holland\, Biddinghuizen
+URL:https://lowlands.nl/
+CATEGORIES:music-festival,open-air,indie,electronic,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-18-landgraaf-pinkpop@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:Pinkpop
+DESCRIPTION:Oldest Dutch pop/rock festival\, The Prodigy on Friday\nTHE PR
+ ODIGY (Fri 18 June)\nHours: n/a\nPrice: weekend incl. camping 315 EUR; da
+ y 155 EUR\nStatus: ok (official)\nhttps://www.pinkpop.nl/
+LOCATION:Megaland\, Landgraaf
+URL:https://www.pinkpop.nl/
+CATEGORIES:music-festival,open-air,pop,rock,electronic,prodigy
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-17-berlin-lollapalooza-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270719
+SUMMARY:Lollapalooza Berlin
+DESCRIPTION:Pop/indie/electronic city festival at the Olympic Park\nRobbie
+  Williams\nHours: n/a\nPrice: weekend 179 EUR (Comfort 259\, VIP 399)\nSt
+ atus: ok (official)\nhttps://www.lollapaloozade.com/
+LOCATION:Olympiastadion & Olympiapark\, Berlin
+URL:https://www.lollapaloozade.com/
+CATEGORIES:music-festival,open-air,pop,indie,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-16-paris-lollapalooza-paris@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270719
+SUMMARY:Lollapalooza Paris (no dates yet)
+DESCRIPTION:Paris edition of Lollapalooza at Longchamp\nReveal 4 Nov\nDate
+ s: 2027 not announced; 2025: 18-20 Jul\nHours: n/a\nPrice: n/a\nStatus: n
+ o dates yet (official)\nhttps://www.lollaparis.com/
+LOCATION:Hippodrome ParisLongchamp\, Paris
+URL:https://www.lollaparis.com/
+CATEGORIES:music-festival,open-air,pop,indie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-16-weeze-parookaville@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270719
+SUMMARY:Parookaville
+DESCRIPTION:Germany's biggest EDM festival on an airport\nLost Frequencies
+ \, Steve Aoki\nHours: n/a\nPrice: n/a (day tickets available)\nStatus: ok
+  (official)\nhttps://parookaville.com/en
+LOCATION:Airport Weeze\, Weeze
+URL:https://parookaville.com/en
+CATEGORIES:music-festival,open-air,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-trencin-pohoda@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270711
+SUMMARY:Pohoda
+DESCRIPTION:Slovakia's multi-genre festival at Trenčín airport\nMassive 
+ Attack\, Chemical Brothers\nHours: n/a\nPrice: n/a (2027 tickets on sale)
+ \nStatus: ok (official)\nhttps://www.pohodafestival.sk/en
+LOCATION:Trenčín Airport\, Trenčín
+URL:https://www.pohodafestival.sk/en
+CATEGORIES:music-festival,open-air,indie,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-13-helsinki-flow-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270816
+SUMMARY:Flow Festival
+DESCRIPTION:Helsinki urban indie/electronic festival\nHours: n/a\nPrice: E
+ arly Bird on sale (price n/a)\nStatus: ok (official)\nhttps://www.flowfes
+ tival.com/en/
+LOCATION:Suvilahti\, Helsinki
+URL:https://www.flowfestival.com/en/
+CATEGORIES:music-festival,open-air,indie,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-12-gothenburg-way-out-west@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270815
+SUMMARY:Way Out West
+DESCRIPTION:Gothenburg indie/pop festival in Slottsskogen\n3-day sold out\
+ nHours: n/a\nPrice: 2-day 2\,795 SEK (3-day sold out)\nStatus: ok (offici
+ al)\nhttps://www.wayoutwest.se/
+LOCATION:Slottsskogen\, Gothenburg
+URL:https://www.wayoutwest.se/
+CATEGORIES:music-festival,open-air,indie,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-27-zagreb-inmusic-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270630
+SUMMARY:INmusic Festival (unconfirmed)
+DESCRIPTION:Croatia's biggest rock/indie festival on Lake Jarun\nDates unv
+ erified\nHours: n/a\nPrice: n/a (2026: 3-day 139 EUR)\nStatus: unconfirme
+ d (rockthenight.eu)\nhttps://www.inmusicfestival.com/en
+LOCATION:Youth Island\, Lake Jarun\, Zagreb
+URL:https://www.inmusicfestival.com/en
+CATEGORIES:music-festival,open-air,rock,indie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-09-split-ultra-europe@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:Ultra Europe
+DESCRIPTION:Ultra's EDM festival in Split\nHours: n/a\nPrice: 3-day GA 235
+  EUR; VIP from 459 EUR\nStatus: ok (official)\nhttps://ultraeurope.com/
+LOCATION:Park Mladeži\, Split
+URL:https://ultraeurope.com/
+CATEGORIES:music-festival,open-air,electronic,edm
+END:VEVENT
 END:VCALENDAR

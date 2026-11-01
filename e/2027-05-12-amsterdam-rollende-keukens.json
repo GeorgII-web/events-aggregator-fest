@@ -1,0 +1,36 @@
+{
+ "id": "2027-05-12-amsterdam-rollende-keukens",
+ "name": "Rollende Keukens",
+ "description": "Food-truck festival in Amsterdam's Westerpark",
+ "start": "2027-05-12",
+ "end": "2027-05-14",
+ "hours": "Wed 13:00-23:00, Thu 12:00-23:00, Fri 13:00-23:00",
+ "place": "Westerpark / Westergas",
+ "address": "Westerpark, 1014 DA Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "free entry",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://www.rollendekeukens.nl",
+ "source": "iamsterdam.com",
+ "details": "The 19th edition plans 80 mobile kitchens and 100 live acts. Entry is free, and you pay per dish.",
+ "tags": [
+  "street-food",
+  "food-festival"
+ ],
+ "note": "80 food trucks, 100 live acts",
+ "dateNote": "provisional dates (city tourism listing)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "food"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rollende+Keukens&dates=20270512%2F20270515&details=Food-truck+festival+in+Amsterdam%27s+Westerpark%0A80+food+trucks%2C+100+live+acts%0ADates%3A+provisional+dates+%28city+tourism+listing%29%0AHours%3A+Wed+13%3A00-23%3A00%2C+Thu+12%3A00-23%3A00%2C+Fri+13%3A00-23%3A00%0APrice%3A+free+entry%0AStatus%3A+unconfirmed+%28iamsterdam.com%29%0Ahttps%3A%2F%2Fwww.rollendekeukens.nl&location=Westerpark+%2F+Westergas%2C+Westerpark%2C+1014+DA+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Westerpark%2C%201014%20DA%20Amsterdam",
+ "priceValue": 0
+}

@@ -1,0 +1,36 @@
+{
+ "id": "2027-08-20-copenhagen-copenhagen-cooking-food-festival",
+ "name": "Copenhagen Cooking & Food Festival",
+ "description": "Ten-day citywide food festival in Copenhagen",
+ "start": "2027-08-20",
+ "end": "2027-08-29",
+ "hours": "n/a",
+ "place": "Citywide; festival site in Kødbyen",
+ "address": "n/a",
+ "city": "Copenhagen",
+ "country": "Denmark",
+ "price": "n/a (mix of free and paid events)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.copenhagencooking.dk",
+ "source": "official",
+ "details": "The 2026 edition had about 100 food experiences from Frederiksberg to the bridge districts. Highlights were long tables on Frederiksberg Allé for 1,500 diners and a three-day festival site in Kødbyen.",
+ "tags": [
+  "food-festival",
+  "city-festival"
+ ],
+ "note": "About 100 food experiences",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Copenhagen+Cooking+%26+Food+Festival&dates=20270820%2F20270830&details=Ten-day+citywide+food+festival+in+Copenhagen%0AAbout+100+food+experiences%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%28mix+of+free+and+paid+events%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.copenhagencooking.dk&location=Citywide%3B+festival+site+in+K%C3%B8dbyen%2C+Copenhagen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Citywide%3B%20festival%20site%20in%20K%C3%B8dbyen%2C%20Copenhagen",
+ "priceValue": 0
+}

@@ -1,0 +1,36 @@
+{
+ "id": "2027-09-18-munich-oktoberfest",
+ "name": "Oktoberfest",
+ "description": "World's largest beer festival on Munich's Theresienwiese",
+ "start": "2027-09-18",
+ "end": "2027-10-03",
+ "hours": "Mon-Thu 10:00-23:30, Fri 10:00-24:00, Sat 9:00-24:00, Sun 9:00-23:30; last beer in large tents 22:30",
+ "place": "Theresienwiese",
+ "address": "Theresienwiese, Munich",
+ "city": "Munich",
+ "country": "Germany",
+ "price": "free entry",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.oktoberfest.de/en",
+ "source": "official",
+ "details": "Oktoberfest.de lists 18 Sep - 3 Oct 2027. Munich breweries serve Wiesn beer by the litre in large and small tents, and the opening day starts with the mayor tapping the first keg at Schottenhamel at noon. Tents open at 9:00 on weekends, and some seats are kept free for walk-ins.",
+ "tags": [
+  "beer-festival",
+  "city-festival"
+ ],
+ "note": "Book a tent table early for evenings and weekends",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "beer",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oktoberfest&dates=20270918%2F20271004&details=World%27s+largest+beer+festival+on+Munich%27s+Theresienwiese%0ABook+a+tent+table+early+for+evenings+and+weekends%0AHours%3A+Mon-Thu+10%3A00-23%3A30%2C+Fri+10%3A00-24%3A00%2C+Sat+9%3A00-24%3A00%2C+Sun+9%3A00-23%3A30%3B+last+beer+in+large+tents+22%3A30%0APrice%3A+free+entry%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.oktoberfest.de%2Fen&location=Theresienwiese%2C+Munich&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theresienwiese%2C%20Munich",
+ "priceValue": 0
+}

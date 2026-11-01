@@ -1,0 +1,39 @@
+{
+ "id": "2027-07-08-oeiras-lisbon-nos-alive",
+ "name": "NOS Alive",
+ "description": "Lisbon riverside rock/pop/indie festival",
+ "start": "2027-07-08",
+ "end": "2027-07-10",
+ "hours": "n/a",
+ "place": "Passeio Marítimo de Algés",
+ "address": "n/a",
+ "city": "Oeiras (Lisbon)",
+ "country": "Portugal",
+ "price": "day 89 EUR, 3-day 210 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.nosalive.com/en/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "19th edition. Announced: The xx, Jungle, James Blake, Faith No More; press reports Tame Impala on 10 July. Tickets on sale since 21 Aug 2026.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "indie",
+  "pop"
+ ],
+ "note": "Faith No More, The xx",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NOS+Alive&dates=20270708%2F20270711&details=Lisbon+riverside+rock%2Fpop%2Findie+festival%0AFaith+No+More%2C+The+xx%0AHours%3A+n%2Fa%0APrice%3A+day+89+EUR%2C+3-day+210+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.nosalive.com%2Fen%2F&location=Passeio+Mar%C3%ADtimo+de+Alg%C3%A9s%2C+Oeiras+%28Lisbon%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Passeio%20Mar%C3%ADtimo%20de%20Alg%C3%A9s%2C%20Oeiras%20(Lisbon)",
+ "priceValue": 89
+}

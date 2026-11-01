@@ -1,0 +1,39 @@
+{
+ "id": "2027-06-09-nickelsdorf-nova-rock",
+ "name": "Nova Rock",
+ "description": "Austria's biggest rock festival on Pannonia Fields",
+ "start": "2027-06-09",
+ "end": "2027-06-12",
+ "hours": "n/a",
+ "place": "Pannonia Fields",
+ "address": "n/a",
+ "city": "Nickelsdorf",
+ "country": "Austria",
+ "price": "festival pass 279.99 EUR incl. camping; day 144.99-149.99 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.novarock.at/",
+ "source": "official",
+ "details": "Rock festival with camping, about 200,000 visitors in total. All ticket categories on sale since 1 Oct 2026. Announced: Die Toten Hosen, Die Ärzte, The Smashing Pumpkins, Faith No More, Evanescence, Billy Talent.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "punk",
+  "metal"
+ ],
+ "note": "Die Ärzte, Die Toten Hosen, Smashing Pumpkins",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nova+Rock&dates=20270609%2F20270613&details=Austria%27s+biggest+rock+festival+on+Pannonia+Fields%0ADie+%C3%84rzte%2C+Die+Toten+Hosen%2C+Smashing+Pumpkins%0AHours%3A+n%2Fa%0APrice%3A+festival+pass+279.99+EUR+incl.+camping%3B+day+144.99-149.99+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.novarock.at%2F&location=Pannonia+Fields%2C+Nickelsdorf&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pannonia%20Fields%2C%20Nickelsdorf",
+ "priceValue": 279.99
+}

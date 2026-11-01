@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-21-ostrava-colours-of-ostrava",
+ "name": "Colours of Ostrava",
+ "description": "Czech multi-genre festival in an industrial complex",
+ "start": "2027-07-21",
+ "end": "2027-07-24",
+ "hours": "n/a",
+ "place": "Dolní Vítkovice",
+ "address": "n/a",
+ "city": "Ostrava",
+ "country": "Czechia",
+ "price": "passes from about 70 EUR (press)",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://www.colours.cz/en",
+ "source": "technoairlines.com",
+ "checked": "2026-11-01",
+ "details": "24th edition among blast furnaces. Announced: Robbie Williams, Martin Garrix, Ellie Goulding, 5 Seconds of Summer.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "rock"
+ ],
+ "note": "Robbie Williams, Martin Garrix",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colours+of+Ostrava&dates=20270721%2F20270725&details=Czech+multi-genre+festival+in+an+industrial+complex%0ARobbie+Williams%2C+Martin+Garrix%0AHours%3A+n%2Fa%0APrice%3A+passes+from+about+70+EUR+%28press%29%0AStatus%3A+unconfirmed+%28technoairlines.com%29%0Ahttps%3A%2F%2Fwww.colours.cz%2Fen&location=Doln%C3%AD+V%C3%ADtkovice%2C+Ostrava&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Doln%C3%AD%20V%C3%ADtkovice%2C%20Ostrava",
+ "priceValue": 70
+}

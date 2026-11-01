@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-09-solvesborg-sweden-rock-festival",
+ "name": "Sweden Rock Festival",
+ "description": "Classic rock/metal festival near Sölvesborg",
+ "start": "2027-06-09",
+ "end": "2027-06-12",
+ "hours": "n/a",
+ "place": "Sweden Rock festival grounds (Norje)",
+ "address": "n/a",
+ "city": "Sölvesborg",
+ "country": "Sweden",
+ "price": "4-day 3,998 SEK; youth 1,898 SEK",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.swedenrock.com/",
+ "source": "official",
+ "details": "Four-day rock festival; general sale opened 23 Oct 2026. 52 bands confirmed, including Mötley Crüe, Queens of the Stone Age, Alice Cooper, Europe, Amon Amarth, Bad Religion.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "metal"
+ ],
+ "note": "Mötley Crüe, QOTSA, Alice Cooper",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sweden+Rock+Festival&dates=20270609%2F20270613&details=Classic+rock%2Fmetal+festival+near+S%C3%B6lvesborg%0AM%C3%B6tley+Cr%C3%BCe%2C+QOTSA%2C+Alice+Cooper%0AHours%3A+n%2Fa%0APrice%3A+4-day+3%2C998+SEK%3B+youth+1%2C898+SEK%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.swedenrock.com%2F&location=Sweden+Rock+festival+grounds+%28Norje%29%2C+S%C3%B6lvesborg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sweden%20Rock%20festival%20grounds%20(Norje)%2C%20S%C3%B6lvesborg",
+ "priceValue": 4
+}

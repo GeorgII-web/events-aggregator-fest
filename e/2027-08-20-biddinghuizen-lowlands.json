@@ -1,0 +1,40 @@
+{
+ "id": "2027-08-20-biddinghuizen-lowlands",
+ "name": "Lowlands",
+ "description": "Dutch alternative/indie/electronic festival with camping",
+ "start": "2027-08-20",
+ "end": "2027-08-22",
+ "hours": "n/a",
+ "place": "Evenemententerrein Walibi Holland",
+ "address": "n/a",
+ "city": "Biddinghuizen",
+ "country": "Netherlands",
+ "price": "n/a (2026 weekend 365 EUR)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://lowlands.nl/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Three-day festival with camping; dates confirmed, sale and line-up not announced.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "indie",
+  "electronic",
+  "rock"
+ ],
+ "note": "Tickets not on sale yet",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lowlands&dates=20270820%2F20270823&details=Dutch+alternative%2Findie%2Felectronic+festival+with+camping%0ATickets+not+on+sale+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282026+weekend+365+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Flowlands.nl%2F&location=Evenemententerrein+Walibi+Holland%2C+Biddinghuizen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Evenemententerrein%20Walibi%20Holland%2C%20Biddinghuizen",
+ "priceValue": 2026
+}

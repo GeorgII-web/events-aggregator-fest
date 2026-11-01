@@ -1,0 +1,35 @@
+{
+ "id": "2027-05-07-copenhagen-mikkeller-beer-celebration-copenhagen-mbcc",
+ "name": "Mikkeller Beer Celebration Copenhagen (MBCC)",
+ "description": "Top international craft-beer festival hosted by Mikkeller",
+ "start": "2027-05-07",
+ "end": "2027-05-08",
+ "hours": "n/a (session tickets)",
+ "place": "Øksnehallen",
+ "address": "Halmtorvet 11, 1700 København",
+ "city": "Copenhagen",
+ "country": "Denmark",
+ "price": "2027 n/a; 2026 sessions from DKK 550",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://mbcc.mikkeller.com",
+ "source": "official",
+ "details": "Tickets are sold per colour-coded session, and tastings are unlimited during your session. The 2026 edition had 62 breweries from around the world. The 2027 line-up is 'more to come'.",
+ "tags": [
+  "beer-festival",
+  "craft-beer"
+ ],
+ "note": "Tickets sell out",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "beer"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mikkeller+Beer+Celebration+Copenhagen+%28MBCC%29&dates=20270507%2F20270509&details=Top+international+craft-beer+festival+hosted+by+Mikkeller%0ATickets+sell+out%0AHours%3A+n%2Fa+%28session+tickets%29%0APrice%3A+2027+n%2Fa%3B+2026+sessions+from+DKK+550%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fmbcc.mikkeller.com&location=%C3%98ksnehallen%2C+Halmtorvet+11%2C+1700+K%C3%B8benhavn&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Halmtorvet%2011%2C%201700%20K%C3%B8benhavn",
+ "priceValue": 2027
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2027-06-23-copenhagen-copenhell",
+ "name": "Copenhell",
+ "description": "Copenhagen's metal festival on Refshaleøen",
+ "start": "2027-06-23",
+ "end": "2027-06-26",
+ "hours": "n/a",
+ "place": "Refshaleøen",
+ "address": "n/a",
+ "city": "Copenhagen",
+ "country": "Denmark",
+ "price": "4-day ticket on sale (about 168 EUR per festivalhopper.de)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://copenhell.dk/en",
+ "source": "official",
+ "details": "Four-day metal festival in the harbour area; tickets on sale since 10 Sep 2026. Headliners: Faith No More, Judas Priest, D-A-D.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal"
+ ],
+ "note": "Faith No More, Judas Priest",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Copenhell&dates=20270623%2F20270627&details=Copenhagen%27s+metal+festival+on+Refshale%C3%B8en%0AFaith+No+More%2C+Judas+Priest%0AHours%3A+n%2Fa%0APrice%3A+4-day+ticket+on+sale+%28about+168+EUR+per+festivalhopper.de%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcopenhell.dk%2Fen&location=Refshale%C3%B8en%2C+Copenhagen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Refshale%C3%B8en%2C%20Copenhagen",
+ "priceValue": 4
+}

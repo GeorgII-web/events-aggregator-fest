@@ -1,0 +1,40 @@
+{
+ "id": "2027-07-08-novi-sad-exit-festival",
+ "name": "EXIT Festival",
+ "description": "Serbian rave and rock festival back at Petrovaradin Fortress",
+ "start": "2027-07-08",
+ "end": "2027-07-11",
+ "hours": "n/a",
+ "place": "Petrovaradin Fortress",
+ "address": "n/a",
+ "city": "Novi Sad",
+ "country": "Serbia",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://exitfest.org/en",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Official news (29 Oct 2026): EXIT returns to the fortress 'next July' after touring abroad in 2026. No dates, prices or line-up yet.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "rock"
+ ],
+ "note": "July 2027 at the fortress",
+ "dateNote": "2027 days not announced; 2025: 10-13 Jul",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EXIT+Festival&dates=20270708%2F20270712&details=Serbian+rave+and+rock+festival+back+at+Petrovaradin+Fortress%0AJuly+2027+at+the+fortress%0ADates%3A+2027+days+not+announced%3B+2025%3A+10-13+Jul%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fexitfest.org%2Fen&location=Petrovaradin+Fortress%2C+Novi+Sad&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Petrovaradin%20Fortress%2C%20Novi%20Sad",
+ "priceValue": null
+}

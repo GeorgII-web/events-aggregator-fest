@@ -1,0 +1,37 @@
+{
+ "id": "2027-08-18-dinkelsbuhl-summer-breeze-open-air",
+ "name": "Summer Breeze Open Air",
+ "description": "Big metal festival, 2027 is the anniversary edition",
+ "start": "2027-08-18",
+ "end": "2027-08-21",
+ "hours": "n/a",
+ "place": "Flugplatz Sinbronn",
+ "address": "n/a",
+ "city": "Dinkelsbühl",
+ "country": "Germany",
+ "price": "sold out (was 219.97 / 269.97 EUR)",
+ "size": "big",
+ "status": "sold out",
+ "link": "https://www.summer-breeze.de/en/",
+ "source": "official",
+ "details": "Four-day metal festival with camping; 2027 sold out in record time. Announced: Summer Breeze Legends & Orchestra, Electric Callboy, Edguy, Saltatio Mortis, Children of Bodom, Hammerfall.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal"
+ ],
+ "note": "Sold out; Electric Callboy, Edguy",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Summer+Breeze+Open+Air&dates=20270818%2F20270822&details=Big+metal+festival%2C+2027+is+the+anniversary+edition%0ASold+out%3B+Electric+Callboy%2C+Edguy%0AHours%3A+n%2Fa%0APrice%3A+sold+out+%28was+219.97+%2F+269.97+EUR%29%0AStatus%3A+sold+out+%28official%29%0Ahttps%3A%2F%2Fwww.summer-breeze.de%2Fen%2F&location=Flugplatz+Sinbronn%2C+Dinkelsb%C3%BChl&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Flugplatz%20Sinbronn%2C%20Dinkelsb%C3%BChl",
+ "priceValue": 219.97
+}

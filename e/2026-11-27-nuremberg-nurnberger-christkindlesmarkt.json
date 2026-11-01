@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-27-nuremberg-nurnberger-christkindlesmarkt",
+ "name": "Nürnberger Christkindlesmarkt",
+ "description": "Germany's most famous Christmas market",
+ "start": "2026-11-27",
+ "end": "2026-12-24",
+ "hours": "daily 10:00-21:00",
+ "place": "Hauptmarkt",
+ "address": "Hauptmarkt, Nuremberg",
+ "city": "Nuremberg",
+ "country": "Germany",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.christkindlesmarkt.de/en/",
+ "source": "official",
+ "details": "Wooden stalls sell Nuremberg Lebkuchen (gingerbread), Spekulatius and Nuremberg Rostbratwurst. The market opens on 27 Nov at 17:30 with the Christkind's prologue.",
+ "tags": [
+  "christmas-market",
+  "food-festival",
+  "city-festival"
+ ],
+ "note": "Weekends are very crowded",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "christmas",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=N%C3%BCrnberger+Christkindlesmarkt&dates=20261127%2F20261225&details=Germany%27s+most+famous+Christmas+market%0AWeekends+are+very+crowded%0AHours%3A+daily+10%3A00-21%3A00%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.christkindlesmarkt.de%2Fen%2F&location=Hauptmarkt%2C+Nuremberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hauptmarkt%2C%20Nuremberg",
+ "priceValue": 0
+}

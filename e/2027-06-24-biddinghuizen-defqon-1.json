@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-24-biddinghuizen-defqon-1",
+ "name": "Defqon.1",
+ "description": "World's biggest hardstyle festival",
+ "start": "2027-06-24",
+ "end": "2027-06-27",
+ "hours": "n/a",
+ "place": "Walibi Holland event grounds",
+ "address": "n/a",
+ "city": "Biddinghuizen",
+ "country": "Netherlands",
+ "price": "n/a (only Friday tickets left)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.q-dance.com/l/defqon1-2027",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Four-day hardstyle weekend with camping, 18+. 2026 was cut short by extreme heat; the official page says only Friday tickets are still available.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "rave"
+ ],
+ "note": "Only Friday tickets left",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Defqon.1&dates=20270624%2F20270628&details=World%27s+biggest+hardstyle+festival%0AOnly+Friday+tickets+left%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%28only+Friday+tickets+left%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.q-dance.com%2Fl%2Fdefqon1-2027&location=Walibi+Holland+event+grounds%2C+Biddinghuizen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Walibi%20Holland%20event%20grounds%2C%20Biddinghuizen",
+ "priceValue": null
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-17-dessel-graspop-metal-meeting",
+ "name": "Graspop Metal Meeting",
+ "description": "Belgium's biggest metal festival, 30th edition",
+ "start": "2027-06-17",
+ "end": "2027-06-20",
+ "hours": "n/a",
+ "place": "Festivalpark Stenehei",
+ "address": "n/a",
+ "city": "Dessel",
+ "country": "Belgium",
+ "price": "n/a; presale 12 Nov, regular sale 14 Nov 2026 10:00",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.graspop.be/en/",
+ "source": "official",
+ "details": "Four-day metal festival with camping, about 130,000 visitors. Headliners: Parkway Drive (Thu), Faith No More and Evanescence (Fri), blink-182 and Marilyn Manson (Sat, North Stage), Mötley Crüe (Sun).",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "marilyn-manson"
+ ],
+ "note": "MARILYN MANSON (Sat 19 June); blink-182, Mötley Crüe; sale 14 Nov",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Graspop+Metal+Meeting&dates=20270617%2F20270621&details=Belgium%27s+biggest+metal+festival%2C+30th+edition%0AMARILYN+MANSON+%28Sat+19+June%29%3B+blink-182%2C+M%C3%B6tley+Cr%C3%BCe%3B+sale+14+Nov%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%3B+presale+12+Nov%2C+regular+sale+14+Nov+2026+10%3A00%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.graspop.be%2Fen%2F&location=Festivalpark+Stenehei%2C+Dessel&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Festivalpark%20Stenehei%2C%20Dessel",
+ "priceValue": 12
+}

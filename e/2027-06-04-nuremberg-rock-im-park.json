@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-04-nuremberg-rock-im-park",
+ "name": "Rock im Park",
+ "description": "Twin festival of Rock am Ring at Nuremberg Zeppelinfeld",
+ "start": "2027-06-04",
+ "end": "2027-06-06",
+ "hours": "n/a",
+ "place": "Zeppelinfeld",
+ "address": "Zeppelinfeld, Nürnberg",
+ "city": "Nuremberg",
+ "country": "Germany",
+ "price": "weekend + camping 258/288 EUR sold out; limited day tickets",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.rock-im-park.com/",
+ "source": "official",
+ "details": "Rock am Ring's twin festival with the same line-up in a different day order. More than 50,000 weekend tickets were sold by 22 Sep 2026; a limited number of day tickets are on sale. Headliners: blink-182 (Sun), Bring Me The Horizon (Sat), Die Toten Hosen, Turnstile, Faith No More, Parkway Drive. The Prodigy are very special guest on Sunday.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "metal",
+  "punk",
+  "prodigy",
+  "bring-me-the-horizon"
+ ],
+ "note": "THE PRODIGY (Sun) + BRING ME THE HORIZON (Sat); day tickets",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+im+Park&dates=20270604%2F20270607&details=Twin+festival+of+Rock+am+Ring+at+Nuremberg+Zeppelinfeld%0ATHE+PRODIGY+%28Sun%29+%2B+BRING+ME+THE+HORIZON+%28Sat%29%3B+day+tickets%0AHours%3A+n%2Fa%0APrice%3A+weekend+%2B+camping+258%2F288+EUR+sold+out%3B+limited+day+tickets%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rock-im-park.com%2F&location=Zeppelinfeld%2C+N%C3%BCrnberg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zeppelinfeld%2C%20N%C3%BCrnberg",
+ "priceValue": 258
+}

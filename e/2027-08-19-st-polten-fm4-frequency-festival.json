@@ -1,0 +1,36 @@
+{
+ "id": "2027-08-19-st-polten-fm4-frequency-festival",
+ "name": "FM4 Frequency Festival",
+ "description": "Austrian alternative/pop festival in St. Pölten",
+ "start": "2027-08-19",
+ "end": "2027-08-21",
+ "hours": "n/a",
+ "place": "Green Park",
+ "address": "n/a",
+ "city": "St. Pölten",
+ "country": "Austria",
+ "price": "festival pass about 279 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.frequency.at/",
+ "source": "official",
+ "details": "Three-day festival with camping, now mostly pop and hip-hop. Announced: Finch, Tokio Hotel, AnnenMayKantereit, Cro, Vengaboys.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop"
+ ],
+ "note": "Light on rock",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=FM4+Frequency+Festival&dates=20270819%2F20270822&details=Austrian+alternative%2Fpop+festival+in+St.+P%C3%B6lten%0ALight+on+rock%0AHours%3A+n%2Fa%0APrice%3A+festival+pass+about+279+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.frequency.at%2F&location=Green+Park%2C+St.+P%C3%B6lten&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Green%20Park%2C%20St.%20P%C3%B6lten",
+ "priceValue": 279
+}

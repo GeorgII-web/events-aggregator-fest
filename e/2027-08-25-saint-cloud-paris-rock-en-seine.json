@@ -1,0 +1,39 @@
+{
+ "id": "2027-08-25-saint-cloud-paris-rock-en-seine",
+ "name": "Rock en Seine",
+ "description": "Paris rock/indie festival at Saint-Cloud park",
+ "start": "2027-08-25",
+ "end": "2027-08-29",
+ "hours": "n/a",
+ "place": "Domaine national de Saint-Cloud",
+ "address": "n/a",
+ "city": "Saint-Cloud (Paris)",
+ "country": "France",
+ "price": "n/a (2025: day 79 EUR, 5-day 229 EUR)",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://www.rockenseine.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Five-day rock and indie festival in late August. France Inter reports the 2027 edition might not happen because it cannot keep its usual dates.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "indie"
+ ],
+ "note": "2027 edition at risk",
+ "dateNote": "2027 not announced; 2026: 26-30 Aug",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+en+Seine&dates=20270825%2F20270830&details=Paris+rock%2Findie+festival+at+Saint-Cloud+park%0A2027+edition+at+risk%0ADates%3A+2027+not+announced%3B+2026%3A+26-30+Aug%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282025%3A+day+79+EUR%2C+5-day+229+EUR%29%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.rockenseine.com%2F&location=Domaine+national+de+Saint-Cloud%2C+Saint-Cloud+%28Paris%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Domaine%20national%20de%20Saint-Cloud%2C%20Saint-Cloud%20(Paris)",
+ "priceValue": 2025
+}

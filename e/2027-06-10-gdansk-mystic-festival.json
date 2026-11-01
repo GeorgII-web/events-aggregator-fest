@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-10-gdansk-mystic-festival",
+ "name": "Mystic Festival",
+ "description": "Polish metal festival moving to new Letnica site",
+ "start": "2027-06-10",
+ "end": "2027-06-12",
+ "hours": "n/a",
+ "place": "Letnica (Polsat Plus Arena grounds)",
+ "address": "n/a",
+ "city": "Gdańsk",
+ "country": "Poland",
+ "price": "early bird sold out; 3-day pass on sale",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.mysticfestival.pl/en/",
+ "source": "official",
+ "details": "Three-day metal festival moving from the Gdańsk shipyard to Letnica. Headliners: Faith No More (10 June), Marilyn Manson (11 June), Helloween (12 June), plus Children of Bodom, Lorna Shore, Watain, Converge.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "marilyn-manson"
+ ],
+ "note": "MARILYN MANSON (11 June); Faith No More, Helloween",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mystic+Festival&dates=20270610%2F20270613&details=Polish+metal+festival+moving+to+new+Letnica+site%0AMARILYN+MANSON+%2811+June%29%3B+Faith+No+More%2C+Helloween%0AHours%3A+n%2Fa%0APrice%3A+early+bird+sold+out%3B+3-day+pass+on+sale%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.mysticfestival.pl%2Fen%2F&location=Letnica+%28Polsat+Plus+Arena+grounds%29%2C+Gda%C5%84sk&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Letnica%20(Polsat%20Plus%20Arena%20grounds)%2C%20Gda%C5%84sk",
+ "priceValue": 3
+}

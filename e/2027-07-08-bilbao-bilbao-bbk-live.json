@@ -1,0 +1,39 @@
+{
+ "id": "2027-07-08-bilbao-bilbao-bbk-live",
+ "name": "Bilbao BBK Live",
+ "description": "Indie/pop/electronic festival on Kobetamendi hill",
+ "start": "2027-07-08",
+ "end": "2027-07-10",
+ "hours": "n/a",
+ "place": "Kobetamendi",
+ "address": "n/a",
+ "city": "Bilbao",
+ "country": "Spain",
+ "price": "about 135-150 EUR + fees (unverified)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.bilbaobbklive.com/en/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Three-day festival with free shuttle buses, campsite and glamping. Fan presale sign-up open; no line-up yet.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "indie",
+  "pop",
+  "electronic"
+ ],
+ "note": "Presale sign-up",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bilbao+BBK+Live&dates=20270708%2F20270711&details=Indie%2Fpop%2Felectronic+festival+on+Kobetamendi+hill%0APresale+sign-up%0AHours%3A+n%2Fa%0APrice%3A+about+135-150+EUR+%2B+fees+%28unverified%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.bilbaobbklive.com%2Fen%2F&location=Kobetamendi%2C+Bilbao&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kobetamendi%2C%20Bilbao",
+ "priceValue": 135
+}

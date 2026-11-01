@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-15-stockholm-the-prodigy-european-tour-2026-stockholm",
+ "name": "The Prodigy – European Tour 2026: Stockholm",
+ "description": "The Prodigy arena headline show, European tour 2026",
+ "start": "2026-11-15",
+ "end": "2026-11-15",
+ "hours": "19:30",
+ "place": "Avicii Arena",
+ "address": "Globentorget 2, 121 77 Johanneshov, Stockholm",
+ "city": "Stockholm",
+ "country": "Sweden",
+ "price": "550-895 SEK + fees",
+ "size": "big",
+ "status": "ok",
+ "link": "https://aviciiarena.se/en/events/music-show/the-prodigy/",
+ "source": "official",
+ "details": "Headline arena show on the November 2026 European tour; tickets through All Things Live / AXS.",
+ "tags": [
+  "prodigy",
+  "electronic",
+  "big-beat"
+ ],
+ "note": "THE PRODIGY",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.295Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Prodigy+%E2%80%93+European+Tour+2026%3A+Stockholm&dates=20261115T193000%2F20261115T213000&details=The+Prodigy+arena+headline+show%2C+European+tour+2026%0ATHE+PRODIGY%0AHours%3A+19%3A30%0APrice%3A+550-895+SEK+%2B+fees%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Faviciiarena.se%2Fen%2Fevents%2Fmusic-show%2Fthe-prodigy%2F&location=Avicii+Arena%2C+Globentorget+2%2C+121+77+Johanneshov%2C+Stockholm&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Globentorget%202%2C%20121%2077%20Johanneshov%2C%20Stockholm",
+ "priceValue": 550
+}

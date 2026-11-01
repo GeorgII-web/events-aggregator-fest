@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-06-merano-merano-winefestival",
+ "name": "Merano WineFestival",
+ "description": "Top wine and gourmet show in the Kurhaus",
+ "start": "2026-11-06",
+ "end": "2026-11-10",
+ "hours": "Fri 10:00-16:30; Sat-Sun 10:00-18:00; Mon 10:00-17:00; Tue 10:00-16:30",
+ "place": "Kurhaus",
+ "address": "Kurhaus, Merano",
+ "city": "Merano",
+ "country": "Italy",
+ "price": "n/a (day and multi-day tickets)",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.meranowinefestival.com/en/",
+ "source": "official",
+ "details": "The 35th edition has 700+ exhibitors: TasteTerroir (Fri), the main festival (Sat-Mon) and Catwalk Champagne & more (Tue), plus masterclasses, Riesling Days, Culinaria and a gala dinner.",
+ "tags": [
+  "wine",
+  "food-festival"
+ ],
+ "note": "700+ exhibitors",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Merano+WineFestival&dates=20261106%2F20261111&details=Top+wine+and+gourmet+show+in+the+Kurhaus%0A700%2B+exhibitors%0AHours%3A+Fri+10%3A00-16%3A30%3B+Sat-Sun+10%3A00-18%3A00%3B+Mon+10%3A00-17%3A00%3B+Tue+10%3A00-16%3A30%0APrice%3A+n%2Fa+%28day+and+multi-day+tickets%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meranowinefestival.com%2Fen%2F&location=Kurhaus%2C+Merano&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kurhaus%2C%20Merano",
+ "priceValue": null
+}

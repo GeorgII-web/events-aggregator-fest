@@ -1,0 +1,38 @@
+{
+ "id": "2026-12-21-san-sebastian-feria-de-santo-tomas",
+ "name": "Feria de Santo Tomás",
+ "description": "San Sebastián's one-day rural market with txistorra",
+ "start": "2026-12-21",
+ "end": "2026-12-21",
+ "hours": "10:00-20:00",
+ "place": "Old town and city centre",
+ "address": "n/a",
+ "city": "San Sebastián",
+ "country": "Spain",
+ "price": "free",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://sansebastianturismoa.eus/agenda/feria-de-santo-tomas-2/",
+ "source": "sansebastianturismoa.eus",
+ "details": "The city turns into a rural market where txistorra, usually eaten in a talo (corn flatbread), is the star, along with cider and farm produce. In 2024 there were 162 stalls.",
+ "tags": [
+  "food-festival",
+  "street-food",
+  "city-festival"
+ ],
+ "note": "Always on 21 December",
+ "dateNote": "2026 programme not published yet",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Feria+de+Santo+Tom%C3%A1s&dates=20261221T100000%2F20261221T120000&details=San+Sebasti%C3%A1n%27s+one-day+rural+market+with+txistorra%0AAlways+on+21+December%0ADates%3A+2026+programme+not+published+yet%0AHours%3A+10%3A00-20%3A00%0APrice%3A+free%0AStatus%3A+unconfirmed+%28sansebastianturismoa.eus%29%0Ahttps%3A%2F%2Fsansebastianturismoa.eus%2Fagenda%2Fferia-de-santo-tomas-2%2F&location=Old+town+and+city+centre%2C+San+Sebasti%C3%A1n&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Old%20town%20and%20city%20centre%2C%20San%20Sebasti%C3%A1n",
+ "priceValue": 0
+}

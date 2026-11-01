@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-16-boom-tomorrowland",
+ "name": "Tomorrowland",
+ "description": "World's flagship EDM festival, two weekends in Boom",
+ "start": "2027-07-16",
+ "end": "2027-07-25",
+ "hours": "n/a",
+ "place": "De Schorre",
+ "address": "n/a",
+ "city": "Boom",
+ "country": "Belgium",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://www.tomorrowland.com",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Two-weekend electronic festival with about 200,000 visitors per weekend. 2027 Belgium dates, prices and theme not announced; sales usually via pre-registration.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic"
+ ],
+ "note": "Two weekends",
+ "dateNote": "2027 not announced; 2026: 17-19 + 24-26 Jul",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tomorrowland&dates=20270716%2F20270726&details=World%27s+flagship+EDM+festival%2C+two+weekends+in+Boom%0ATwo+weekends%0ADates%3A+2027+not+announced%3B+2026%3A+17-19+%2B+24-26+Jul%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.tomorrowland.com&location=De+Schorre%2C+Boom&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=De%20Schorre%2C%20Boom",
+ "priceValue": null
+}

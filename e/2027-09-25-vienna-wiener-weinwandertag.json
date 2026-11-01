@@ -1,0 +1,37 @@
+{
+ "id": "2027-09-25-vienna-wiener-weinwandertag",
+ "name": "Wiener Weinwandertag",
+ "description": "Free wine-hiking weekend through Vienna's vineyards",
+ "start": "2027-09-25",
+ "end": "2027-09-26",
+ "hours": "10:00-18:00 (2026)",
+ "place": "Vienna vineyards (Nussberg, Stammersdorf and others)",
+ "address": "n/a",
+ "city": "Vienna",
+ "country": "Austria",
+ "price": "free",
+ "size": "medium",
+ "status": "no dates yet",
+ "link": "https://www.wien.gv.at/veranstaltungen/weinwandertag",
+ "source": "official",
+ "details": "Several routes lead through the vineyards; winegrowers and Heurige (wine taverns) along the way serve Viennese wine and snacks.",
+ "tags": [
+  "wine",
+  "city-festival"
+ ],
+ "note": "September 2027",
+ "dateNote": "2027 not announced; 2026: 26-27 Sep",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wiener+Weinwandertag&dates=20270925%2F20270927&details=Free+wine-hiking+weekend+through+Vienna%27s+vineyards%0ASeptember+2027%0ADates%3A+2027+not+announced%3B+2026%3A+26-27+Sep%0AHours%3A+10%3A00-18%3A00+%282026%29%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.wien.gv.at%2Fveranstaltungen%2Fweinwandertag&location=Vienna+vineyards+%28Nussberg%2C+Stammersdorf+and+others%29%2C+Vienna&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Vienna%20vineyards%20(Nussberg%2C%20Stammersdorf%20and%20others)%2C%20Vienna",
+ "priceValue": 0
+}

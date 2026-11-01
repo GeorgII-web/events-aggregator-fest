@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-19-nyon-paleo-festival",
+ "name": "Paléo Festival",
+ "description": "Switzerland's largest open-air, 50th edition",
+ "start": "2027-07-19",
+ "end": "2027-07-25",
+ "hours": "n/a",
+ "place": "Plaine de l'Asse",
+ "address": "n/a",
+ "city": "Nyon",
+ "country": "Switzerland",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://yeah.paleo.ch/en",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Multi-genre festival running seven days for its 50th edition. No artists yet; ticket sale date and prices not published.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "rock"
+ ],
+ "note": "50th edition",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pal%C3%A9o+Festival&dates=20270719%2F20270726&details=Switzerland%27s+largest+open-air%2C+50th+edition%0A50th+edition%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fyeah.paleo.ch%2Fen&location=Plaine+de+l%27Asse%2C+Nyon&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Plaine%20de%20l'Asse%2C%20Nyon",
+ "priceValue": null
+}

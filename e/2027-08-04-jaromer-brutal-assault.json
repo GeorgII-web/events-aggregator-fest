@@ -1,0 +1,38 @@
+{
+ "id": "2027-08-04-jaromer-brutal-assault",
+ "name": "Brutal Assault",
+ "description": "Extreme metal festival in Josefov fortress, 30th edition",
+ "start": "2027-08-04",
+ "end": "2027-08-07",
+ "hours": "n/a",
+ "place": "Josefov Fortress",
+ "address": "n/a",
+ "city": "Jaroměř",
+ "country": "Czechia",
+ "price": "about 219.90 EUR",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://brutalassault.cz/en",
+ "source": "festivalhopper.de",
+ "details": "Four-day extreme metal festival inside an 18th-century fortress, with camping; the 30th edition. Announced: Knocked Loose (headliner), Heaven Shall Burn, Emperor, Carcass, Mercyful Fate, The Sisters of Mercy.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal"
+ ],
+ "note": "Knocked Loose, Emperor, Mercyful Fate",
+ "dateNote": "dates from festivalhopper.de",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brutal+Assault&dates=20270804%2F20270808&details=Extreme+metal+festival+in+Josefov+fortress%2C+30th+edition%0AKnocked+Loose%2C+Emperor%2C+Mercyful+Fate%0ADates%3A+dates+from+festivalhopper.de%0AHours%3A+n%2Fa%0APrice%3A+about+219.90+EUR%0AStatus%3A+unconfirmed+%28festivalhopper.de%29%0Ahttps%3A%2F%2Fbrutalassault.cz%2Fen&location=Josefov+Fortress%2C+Jarom%C4%9B%C5%99&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Josefov%20Fortress%2C%20Jarom%C4%9B%C5%99",
+ "priceValue": 219.9
+}

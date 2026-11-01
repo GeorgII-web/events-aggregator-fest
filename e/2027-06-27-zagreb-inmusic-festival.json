@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-27-zagreb-inmusic-festival",
+ "name": "INmusic Festival",
+ "description": "Croatia's biggest rock/indie festival on Lake Jarun",
+ "start": "2027-06-27",
+ "end": "2027-06-29",
+ "hours": "n/a",
+ "place": "Youth Island, Lake Jarun",
+ "address": "n/a",
+ "city": "Zagreb",
+ "country": "Croatia",
+ "price": "n/a (2026: 3-day 139 EUR)",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://www.inmusicfestival.com/en",
+ "source": "rockthenight.eu",
+ "checked": "2026-11-01",
+ "details": "Three-day rock and indie festival with camping. The official site says 2027 dates are out, but they were not visible; 27-29 June comes from a listing.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "indie"
+ ],
+ "note": "Dates unverified",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=INmusic+Festival&dates=20270627%2F20270630&details=Croatia%27s+biggest+rock%2Findie+festival+on+Lake+Jarun%0ADates+unverified%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282026%3A+3-day+139+EUR%29%0AStatus%3A+unconfirmed+%28rockthenight.eu%29%0Ahttps%3A%2F%2Fwww.inmusicfestival.com%2Fen&location=Youth+Island%2C+Lake+Jarun%2C+Zagreb&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Youth%20Island%2C%20Lake%20Jarun%2C%20Zagreb",
+ "priceValue": 2026
+}

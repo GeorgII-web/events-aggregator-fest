@@ -1,0 +1,37 @@
+{
+ "id": "2027-07-07-ballenstedt-rockharz-open-air",
+ "name": "Rockharz Open Air",
+ "description": "Metal festival at the foot of the Harz mountains",
+ "start": "2027-07-07",
+ "end": "2027-07-10",
+ "hours": "n/a",
+ "place": "Flugplatz Ballenstedt",
+ "address": "n/a",
+ "city": "Ballenstedt",
+ "country": "Germany",
+ "price": "sold out (early bird was 199 EUR); resale list open",
+ "size": "big",
+ "status": "sold out",
+ "link": "https://www.rockharz-festival.com/",
+ "source": "official",
+ "details": "Four-day metal open air with camping; 2027 tickets sold out within a day. Announced: Amon Amarth (headliner), Bruce Dickinson, Arch Enemy, Accept, Eisbrecher, The Sisters of Mercy, Lord of the Lost.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal"
+ ],
+ "note": "Sold out; Amon Amarth, Bruce Dickinson",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rockharz+Open+Air&dates=20270707%2F20270711&details=Metal+festival+at+the+foot+of+the+Harz+mountains%0ASold+out%3B+Amon+Amarth%2C+Bruce+Dickinson%0AHours%3A+n%2Fa%0APrice%3A+sold+out+%28early+bird+was+199+EUR%29%3B+resale+list+open%0AStatus%3A+sold+out+%28official%29%0Ahttps%3A%2F%2Fwww.rockharz-festival.com%2F&location=Flugplatz+Ballenstedt%2C+Ballenstedt&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Flugplatz%20Ballenstedt%2C%20Ballenstedt",
+ "priceValue": 199
+}

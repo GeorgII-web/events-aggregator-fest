@@ -1,0 +1,40 @@
+{
+ "id": "2027-07-14-bontida-electric-castle",
+ "name": "Electric Castle",
+ "description": "Mixed electronic/rock/indie festival at a castle near Cluj",
+ "start": "2027-07-14",
+ "end": "2027-07-18",
+ "hours": "n/a",
+ "place": "Bánffy Castle",
+ "address": "Bonțida, 25 km from Cluj-Napoca",
+ "city": "Bonțida",
+ "country": "Romania",
+ "price": "GA 159 EUR + tax (U25 129, VIP 299, camping 69)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://electriccastle.ro/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "13th edition, Wednesday to Sunday, 250+ artists across genres. Discounted early passes on sale (list price 320 EUR); line-up announcement teased for 3 November.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "indie",
+  "rock"
+ ],
+ "note": "Line-up due 3 Nov",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Electric+Castle&dates=20270714%2F20270719&details=Mixed+electronic%2Frock%2Findie+festival+at+a+castle+near+Cluj%0ALine-up+due+3+Nov%0AHours%3A+n%2Fa%0APrice%3A+GA+159+EUR+%2B+tax+%28U25+129%2C+VIP+299%2C+camping+69%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Felectriccastle.ro%2F&location=B%C3%A1nffy+Castle%2C+Bon%C8%9Bida%2C+25+km+from+Cluj-Napoca&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bon%C8%9Bida%2C%2025%20km%20from%20Cluj-Napoca",
+ "priceValue": 159
+}

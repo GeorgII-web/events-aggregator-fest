@@ -1,0 +1,37 @@
+{
+ "id": "2027-09-03-brussels-belgian-beer-weekend",
+ "name": "Belgian Beer Weekend",
+ "description": "Belgian brewers take over Brussels' Grand-Place",
+ "start": "2027-09-03",
+ "end": "2027-09-05",
+ "hours": "n/a",
+ "place": "Grand-Place",
+ "address": "Grand-Place, 1000 Brussels",
+ "city": "Brussels",
+ "country": "Belgium",
+ "price": "free entry; tasting tokens 2 EUR each",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.belgianbeerweekend.be",
+ "source": "official",
+ "details": "More than 50 breweries from across Belgium pour beers on the Grand-Place. You pay for tastings with tokens. The 2026 edition ran 4-6 September.",
+ "tags": [
+  "beer-festival",
+  "craft-beer",
+  "city-festival"
+ ],
+ "note": "Always on the first weekend of September",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "beer",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Belgian+Beer+Weekend&dates=20270903%2F20270906&details=Belgian+brewers+take+over+Brussels%27+Grand-Place%0AAlways+on+the+first+weekend+of+September%0AHours%3A+n%2Fa%0APrice%3A+free+entry%3B+tasting+tokens+2+EUR+each%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.belgianbeerweekend.be&location=Grand-Place%2C+1000+Brussels&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Grand-Place%2C%201000%20Brussels",
+ "priceValue": 0
+}

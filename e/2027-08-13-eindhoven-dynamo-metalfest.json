@@ -1,0 +1,38 @@
+{
+ "id": "2027-08-13-eindhoven-dynamo-metalfest",
+ "name": "Dynamo Metalfest",
+ "description": "Revived Dutch metal festival in Eindhoven",
+ "start": "2027-08-13",
+ "end": "2027-08-15",
+ "hours": "n/a",
+ "place": "IJssportcentrum Eindhoven",
+ "address": "Antoon Coolenlaan 3, Eindhoven",
+ "city": "Eindhoven",
+ "country": "Netherlands",
+ "price": "99-259 EUR; early-bird weekend 189 EUR",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://www.dynamometalfest.com/",
+ "source": "festivalinfo.nl",
+ "details": "Three-day metal festival held every summer since 2015. Announced: Architects, Mercyful Fate, Cavalera (Chaos A.D.), Corrosion Of Conformity, Hypocrisy, Madball.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal"
+ ],
+ "note": "Architects, Mercyful Fate",
+ "dateNote": "official site unreachable; data from festivalinfo.nl",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dynamo+Metalfest&dates=20270813%2F20270816&details=Revived+Dutch+metal+festival+in+Eindhoven%0AArchitects%2C+Mercyful+Fate%0ADates%3A+official+site+unreachable%3B+data+from+festivalinfo.nl%0AHours%3A+n%2Fa%0APrice%3A+99-259+EUR%3B+early-bird+weekend+189+EUR%0AStatus%3A+unconfirmed+%28festivalinfo.nl%29%0Ahttps%3A%2F%2Fwww.dynamometalfest.com%2F&location=IJssportcentrum+Eindhoven%2C+Antoon+Coolenlaan+3%2C+Eindhoven&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Antoon%20Coolenlaan%203%2C%20Eindhoven",
+ "priceValue": 99
+}

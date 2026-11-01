@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-18-scheessel-hurricane-festival",
+ "name": "Hurricane Festival",
+ "description": "Big rock/indie festival on the Eichenring race track",
+ "start": "2027-06-18",
+ "end": "2027-06-20",
+ "hours": "n/a",
+ "place": "Eichenring",
+ "address": "n/a",
+ "city": "Scheeßel",
+ "country": "Germany",
+ "price": "festival ticket from 199 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.hurricane.de/",
+ "source": "official",
+ "details": "FKP Scorpio rock, indie and pop festival with camping. Presale is open. Announced: Muse, Placebo, Phoebe Bridgers, MGK, Kontra K, Dermot Kennedy.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "indie"
+ ],
+ "note": "Muse, Placebo, MGK",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hurricane+Festival&dates=20270618%2F20270621&details=Big+rock%2Findie+festival+on+the+Eichenring+race+track%0AMuse%2C+Placebo%2C+MGK%0AHours%3A+n%2Fa%0APrice%3A+festival+ticket+from+199+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.hurricane.de%2F&location=Eichenring%2C+Schee%C3%9Fel&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Eichenring%2C%20Schee%C3%9Fel",
+ "priceValue": 199
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2027-08-05-kortrijk-alcatraz-metal-festival",
+ "name": "Alcatraz Metal Festival",
+ "description": "Belgian metal festival with prison-themed site",
+ "start": "2027-08-05",
+ "end": "2027-08-08",
+ "hours": "n/a",
+ "place": "Alcatraz festival site",
+ "address": "n/a",
+ "city": "Kortrijk",
+ "country": "Belgium",
+ "price": "early bird 240-475 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.alcatraz.be/en",
+ "source": "official",
+ "details": "Four-day metal festival with camping; 2026 sold out with 75,000 visitors. 123 bands announced, including Europe, Mercyful Fate, Halestorm, Heaven Shall Burn, Skillet, Hammerfall, Turbonegro.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal"
+ ],
+ "note": "Europe, Mercyful Fate, Heaven Shall Burn",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alcatraz+Metal+Festival&dates=20270805%2F20270809&details=Belgian+metal+festival+with+prison-themed+site%0AEurope%2C+Mercyful+Fate%2C+Heaven+Shall+Burn%0AHours%3A+n%2Fa%0APrice%3A+early+bird+240-475+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.alcatraz.be%2Fen&location=Alcatraz+festival+site%2C+Kortrijk&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Alcatraz%20festival%20site%2C%20Kortrijk",
+ "priceValue": 240
+}

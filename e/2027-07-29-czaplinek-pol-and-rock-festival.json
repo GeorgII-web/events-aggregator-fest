@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-29-czaplinek-pol-and-rock-festival",
+ "name": "Pol'and'Rock Festival",
+ "description": "Huge free rock festival by Jurek Owsiak, 33rd edition",
+ "start": "2027-07-29",
+ "end": "2027-07-31",
+ "hours": "n/a",
+ "place": "Venue TBA (2025-26: Czaplinek-Broczyno airfield)",
+ "address": "n/a",
+ "city": "Czaplinek",
+ "country": "Poland",
+ "price": "free",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://polandrockfestival.pl/",
+ "source": "ebilet.pl",
+ "details": "Free charity rock festival with hundreds of thousands of visitors and free camping. 2027 venue not decided. Announced: Kula Shaker, Halestorm.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "punk"
+ ],
+ "note": "Kula Shaker, Halestorm; venue TBA",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pol%27and%27Rock+Festival&dates=20270729%2F20270801&details=Huge+free+rock+festival+by+Jurek+Owsiak%2C+33rd+edition%0AKula+Shaker%2C+Halestorm%3B+venue+TBA%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28ebilet.pl%29%0Ahttps%3A%2F%2Fpolandrockfestival.pl%2F&location=Venue+TBA+%282025-26%3A+Czaplinek-Broczyno+airfield%29%2C+Czaplinek&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%20(2025-26%3A%20Czaplinek-Broczyno%20airfield)%2C%20Czaplinek",
+ "priceValue": 0
+}

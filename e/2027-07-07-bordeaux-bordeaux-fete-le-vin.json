@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-07-bordeaux-bordeaux-fete-le-vin",
+ "name": "Bordeaux Fête le Vin",
+ "description": "Wine festival on the Garonne quays, with Tall Ships",
+ "start": "2027-07-07",
+ "end": "2027-07-11",
+ "hours": "n/a",
+ "place": "Quais de la Garonne",
+ "address": "Quais, Bordeaux",
+ "city": "Bordeaux",
+ "country": "France",
+ "price": "n/a (tasting pass, price not yet published)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.bordeaux-fete-le-vin.com",
+ "source": "official",
+ "details": "Tasting pavilions along the river cover the Bordeaux appellations, from Médoc to Saint-Émilion, Pomerol, Fronsac and the Côtes. The 2027 edition is timed with the start of the Tall Ships Races. Held every two years.",
+ "tags": [
+  "wine",
+  "food-festival",
+  "city-festival"
+ ],
+ "note": "Every two years",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bordeaux+F%C3%AAte+le+Vin&dates=20270707%2F20270712&details=Wine+festival+on+the+Garonne+quays%2C+with+Tall+Ships%0AEvery+two+years%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%28tasting+pass%2C+price+not+yet+published%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.bordeaux-fete-le-vin.com&location=Quais+de+la+Garonne%2C+Quais%2C+Bordeaux&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Quais%2C%20Bordeaux",
+ "priceValue": null
+}

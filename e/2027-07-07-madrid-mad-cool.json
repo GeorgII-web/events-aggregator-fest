@@ -1,0 +1,40 @@
+{
+ "id": "2027-07-07-madrid-mad-cool",
+ "name": "Mad Cool",
+ "description": "Madrid's big rock/indie/pop festival",
+ "start": "2027-07-07",
+ "end": "2027-07-10",
+ "hours": "n/a",
+ "place": "Iberdrola Music (Villaverde)",
+ "address": "n/a",
+ "city": "Madrid",
+ "country": "Spain",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://madcoolfestival.es/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Four-day rock, indie and pop festival. No 2027 dates, tickets or line-up yet; in 2026 passes sold out months ahead, sales opened mid-November.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "indie",
+  "pop"
+ ],
+ "note": "Watch for a mid-Nov sale",
+ "dateNote": "2027 not announced; 2026: 8-11 Jul",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mad+Cool&dates=20270707%2F20270711&details=Madrid%27s+big+rock%2Findie%2Fpop+festival%0AWatch+for+a+mid-Nov+sale%0ADates%3A+2027+not+announced%3B+2026%3A+8-11+Jul%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fmadcoolfestival.es%2F&location=Iberdrola+Music+%28Villaverde%29%2C+Madrid&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Iberdrola%20Music%20(Villaverde)%2C%20Madrid",
+ "priceValue": null
+}

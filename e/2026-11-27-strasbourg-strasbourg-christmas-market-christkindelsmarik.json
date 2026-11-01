@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-27-strasbourg-strasbourg-christmas-market-christkindelsmarik",
+ "name": "Strasbourg Christmas Market (Christkindelsmärik)",
+ "description": "France's oldest and largest Christmas market",
+ "start": "2026-11-27",
+ "end": "2026-12-24",
+ "hours": "n/a",
+ "place": "Grande Île, Place Broglie and more than ten sites",
+ "address": "Place Broglie, Strasbourg",
+ "city": "Strasbourg",
+ "country": "France",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://noel.strasbourg.eu",
+ "source": "official",
+ "details": "More than ten market sites spread across the Grande Île, from Place Broglie to the Grand Sapin on Place Kléber. Stalls sell mulled wine, Bredle (Alsatian biscuits), gingerbread and regional products.",
+ "tags": [
+  "christmas-market",
+  "food-festival",
+  "city-festival"
+ ],
+ "note": "10+ market squares",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "christmas",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Strasbourg+Christmas+Market+%28Christkindelsm%C3%A4rik%29&dates=20261127%2F20261225&details=France%27s+oldest+and+largest+Christmas+market%0A10%2B+market+squares%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fnoel.strasbourg.eu&location=Grande+%C3%8Ele%2C+Place+Broglie+and+more+than+ten+sites%2C+Place+Broglie%2C+Strasbourg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Place%20Broglie%2C%20Strasbourg",
+ "priceValue": 0
+}

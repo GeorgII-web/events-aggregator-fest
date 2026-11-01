@@ -1,0 +1,39 @@
+{
+ "id": "2027-10-06-paris-fete-des-vendanges-de-montmartre",
+ "name": "Fête des Vendanges de Montmartre",
+ "description": "Paris grape-harvest festival around Sacré-Cœur",
+ "start": "2027-10-06",
+ "end": "2027-10-10",
+ "hours": "n/a",
+ "place": "Butte Montmartre, 18th arrondissement",
+ "address": "n/a",
+ "city": "Paris",
+ "country": "France",
+ "price": "free",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://www.fetedesvendangesdemontmartre.com",
+ "source": "official",
+ "details": "The festival celebrates the harvest of the Clos Montmartre vineyard, with the Ban des Vendanges, a parade and a closing ball. Five days of wine, food, culture and partner restaurants fill the 18th arrondissement.",
+ "tags": [
+  "wine",
+  "city-festival",
+  "food-festival"
+ ],
+ "note": "Five days in October",
+ "dateNote": "2027 not announced; 2026: 7-11 Oct",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F%C3%AAte+des+Vendanges+de+Montmartre&dates=20271006%2F20271011&details=Paris+grape-harvest+festival+around+Sacr%C3%A9-C%C5%93ur%0AFive+days+in+October%0ADates%3A+2027+not+announced%3B+2026%3A+7-11+Oct%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.fetedesvendangesdemontmartre.com&location=Butte+Montmartre%2C+18th+arrondissement%2C+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Butte%20Montmartre%2C%2018th%20arrondissement%2C%20Paris",
+ "priceValue": 0
+}

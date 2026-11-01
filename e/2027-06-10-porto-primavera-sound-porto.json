@@ -1,0 +1,37 @@
+{
+ "id": "2027-06-10-porto-primavera-sound-porto",
+ "name": "Primavera Sound Porto",
+ "description": "Porto sister of Primavera in a city park",
+ "start": "2027-06-10",
+ "end": "2027-06-13",
+ "hours": "n/a",
+ "place": "Parque da Cidade",
+ "address": "n/a",
+ "city": "Porto",
+ "country": "Portugal",
+ "price": "pass 190 EUR + fees; VIP 300 EUR",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://www.primaverasound.com/en/porto",
+ "source": "lisboasecreta.co",
+ "checked": "2026-11-01",
+ "details": "Four-day festival with about 55 acts announced, including Fontaines D.C., FKA twigs, The Chemical Brothers, Lola Young and beabadoobee. Passes via Fever.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "indie",
+  "pop"
+ ],
+ "note": "Chemical Brothers",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primavera+Sound+Porto&dates=20270610%2F20270614&details=Porto+sister+of+Primavera+in+a+city+park%0AChemical+Brothers%0AHours%3A+n%2Fa%0APrice%3A+pass+190+EUR+%2B+fees%3B+VIP+300+EUR%0AStatus%3A+unconfirmed+%28lisboasecreta.co%29%0Ahttps%3A%2F%2Fwww.primaverasound.com%2Fen%2Fporto&location=Parque+da+Cidade%2C+Porto&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Parque%20da%20Cidade%2C%20Porto",
+ "priceValue": 190
+}

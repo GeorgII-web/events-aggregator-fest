@@ -1,0 +1,39 @@
+{
+ "id": "2027-09-10-bad-durkheim-durkheimer-wurstmarkt",
+ "name": "Dürkheimer Wurstmarkt",
+ "description": "Wine festival billed as the world's largest",
+ "start": "2027-09-10",
+ "end": "2027-09-20",
+ "hours": "opening Fri 10 Sep: festival from 13:00, official opening 18:00",
+ "place": "Wurstmarktplatz",
+ "address": "Wurstmarktplatz, Bad Dürkheim",
+ "city": "Bad Dürkheim",
+ "country": "Germany",
+ "price": "free entry",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.bad-duerkheim.de/kultur-tourismus/veranstaltungen-feste/duerkheimer-wurstmarkt/",
+ "source": "official",
+ "details": "The festival runs in two parts, 10-14 and 17-20 Sep 2027, with a pause on 15-16 Sep. The core is the Schubkarchstände (traditional Palatinate wine stands), plus a wine village and rides. It opens with a historic play and keg tapping at the Gradierbau and ends with fireworks on 20 Sep at 21:00.",
+ "tags": [
+  "wine",
+  "city-festival",
+  "food-festival"
+ ],
+ "note": "Closed on 15-16 Sep",
+ "dateNote": "10-14 + 17-20 Sep",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.149Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=D%C3%BCrkheimer+Wurstmarkt&dates=20270910%2F20270921&details=Wine+festival+billed+as+the+world%27s+largest%0AClosed+on+15-16+Sep%0ADates%3A+10-14+%2B+17-20+Sep%0AHours%3A+opening+Fri+10+Sep%3A+festival+from+13%3A00%2C+official+opening+18%3A00%0APrice%3A+free+entry%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.bad-duerkheim.de%2Fkultur-tourismus%2Fveranstaltungen-feste%2Fduerkheimer-wurstmarkt%2F&location=Wurstmarktplatz%2C+Bad+D%C3%BCrkheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Wurstmarktplatz%2C%20Bad%20D%C3%BCrkheim",
+ "priceValue": 0
+}

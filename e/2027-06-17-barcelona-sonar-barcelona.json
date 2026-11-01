@@ -1,0 +1,37 @@
+{
+ "id": "2027-06-17-barcelona-sonar-barcelona",
+ "name": "Sónar Barcelona",
+ "description": "Advanced music and electronic arts festival",
+ "start": "2027-06-17",
+ "end": "2027-06-19",
+ "hours": "n/a",
+ "place": "TBA (2026: Fira Gran Via)",
+ "address": "n/a",
+ "city": "Barcelona",
+ "country": "Spain",
+ "price": "n/a",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://sonar.es",
+ "source": "technoairlines.com",
+ "checked": "2026-11-01",
+ "details": "Day and night electronic festival with about 120,000 visitors. On 27 Oct 2026 the official site switched to 'Sónar is dead 1994-2026' without explanation; secondary sources still list 17-19 June 2027.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic"
+ ],
+ "note": "Future unclear",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=S%C3%B3nar+Barcelona&dates=20270617%2F20270620&details=Advanced+music+and+electronic+arts+festival%0AFuture+unclear%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28technoairlines.com%29%0Ahttps%3A%2F%2Fsonar.es&location=TBA+%282026%3A+Fira+Gran+Via%29%2C+Barcelona&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=TBA%20(2026%3A%20Fira%20Gran%20Via)%2C%20Barcelona",
+ "priceValue": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2027-08-12-gothenburg-way-out-west",
+ "name": "Way Out West",
+ "description": "Gothenburg indie/pop festival in Slottsskogen",
+ "start": "2027-08-12",
+ "end": "2027-08-14",
+ "hours": "n/a",
+ "place": "Slottsskogen",
+ "address": "n/a",
+ "city": "Gothenburg",
+ "country": "Sweden",
+ "price": "2-day 2,795 SEK (3-day sold out)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.wayoutwest.se/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Three-day festival; Robyn is the first artist (Thu 12 Aug). 3-day standard tickets sold out, 2-day and VIP remain.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "indie",
+  "pop"
+ ],
+ "note": "3-day sold out",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:04:49.317Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Way+Out+West&dates=20270812%2F20270815&details=Gothenburg+indie%2Fpop+festival+in+Slottsskogen%0A3-day+sold+out%0AHours%3A+n%2Fa%0APrice%3A+2-day+2%2C795+SEK+%283-day+sold+out%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.wayoutwest.se%2F&location=Slottsskogen%2C+Gothenburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Slottsskogen%2C%20Gothenburg",
+ "priceValue": 2
+}

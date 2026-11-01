@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-18-neuhausen-ob-eck-southside-festival",
+ "name": "Southside Festival",
+ "description": "Hurricane's southern twin on an airfield business park",
+ "start": "2027-06-18",
+ "end": "2027-06-20",
+ "hours": "n/a",
+ "place": "take-off GewerbePark (airfield)",
+ "address": "n/a",
+ "city": "Neuhausen ob Eck",
+ "country": "Germany",
+ "price": "festival ticket 189 EUR (current phase)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.southside.de/",
+ "source": "official",
+ "details": "Shares its line-up with Hurricane and has camping. Presale is running; phase 1 sold out, phase 2 is 189 EUR. Headliners: Muse, Phoebe Bridgers, MGK.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "indie"
+ ],
+ "note": "Muse, Phoebe Bridgers, MGK",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Southside+Festival&dates=20270618%2F20270621&details=Hurricane%27s+southern+twin+on+an+airfield+business+park%0AMuse%2C+Phoebe+Bridgers%2C+MGK%0AHours%3A+n%2Fa%0APrice%3A+festival+ticket+189+EUR+%28current+phase%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.southside.de%2F&location=take-off+GewerbePark+%28airfield%29%2C+Neuhausen+ob+Eck&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=take-off%20GewerbePark%20(airfield)%2C%20Neuhausen%20ob%20Eck",
+ "priceValue": 189
+}

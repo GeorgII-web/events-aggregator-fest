@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-08-vizovice-masters-of-rock",
+ "name": "Masters of Rock",
+ "description": "Czech heavy/power metal festival at a distillery",
+ "start": "2027-07-08",
+ "end": "2027-07-11",
+ "hours": "n/a",
+ "place": "Rudolf Jelínek distillery grounds",
+ "address": "Razov 472, Vizovice",
+ "city": "Vizovice",
+ "country": "Czechia",
+ "price": "festival pass 3,750 CZK",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.mastersofrock.cz/cs/koncerty/2027-masters-of-rock",
+ "source": "official",
+ "details": "Four-day metal festival with camping, about 20,000 visitors. Announced: Judas Priest, Slash feat. Myles Kennedy, Bruce Dickinson, Skillet, Amaranthe, Lord of the Lost, Therion.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "rock"
+ ],
+ "note": "Judas Priest, Slash, Bruce Dickinson",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Masters+of+Rock&dates=20270708%2F20270712&details=Czech+heavy%2Fpower+metal+festival+at+a+distillery%0AJudas+Priest%2C+Slash%2C+Bruce+Dickinson%0AHours%3A+n%2Fa%0APrice%3A+festival+pass+3%2C750+CZK%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.mastersofrock.cz%2Fcs%2Fkoncerty%2F2027-masters-of-rock&location=Rudolf+Jel%C3%ADnek+distillery+grounds%2C+Razov+472%2C+Vizovice&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Razov%20472%2C%20Vizovice",
+ "priceValue": 3.75
+}

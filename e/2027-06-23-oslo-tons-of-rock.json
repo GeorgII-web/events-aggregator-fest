@@ -1,0 +1,39 @@
+{
+ "id": "2027-06-23-oslo-tons-of-rock",
+ "name": "Tons of Rock",
+ "description": "Norway's biggest rock/metal festival above Oslo",
+ "start": "2027-06-23",
+ "end": "2027-06-26",
+ "hours": "n/a",
+ "place": "Ekebergsletta",
+ "address": "n/a",
+ "city": "Oslo",
+ "country": "Norway",
+ "price": "early bird sold out; festival pass on sale",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.tonsofrock.no/en",
+ "source": "official",
+ "details": "Four-day rock and metal festival; day, VIP and camping tickets later. Headliners: Mötley Crüe and Judas Priest, plus Turnstile, Lynyrd Skynyrd, Helloween, Amon Amarth.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "metal"
+ ],
+ "note": "Mötley Crüe, Judas Priest",
+ "dateNote": "dates from festivalhopper.de",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:03:57.222Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tons+of+Rock&dates=20270623%2F20270627&details=Norway%27s+biggest+rock%2Fmetal+festival+above+Oslo%0AM%C3%B6tley+Cr%C3%BCe%2C+Judas+Priest%0ADates%3A+dates+from+festivalhopper.de%0AHours%3A+n%2Fa%0APrice%3A+early+bird+sold+out%3B+festival+pass+on+sale%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.tonsofrock.no%2Fen&location=Ekebergsletta%2C+Oslo&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ekebergsletta%2C%20Oslo",
+ "priceValue": null
+}
