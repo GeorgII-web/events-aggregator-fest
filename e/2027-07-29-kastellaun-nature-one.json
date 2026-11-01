@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-29-kastellaun-nature-one",
+ "name": "Nature One",
+ "description": "Big German techno and rave open air on a former missile base",
+ "start": "2027-07-29",
+ "end": "2027-08-01",
+ "hours": "n/a",
+ "place": "Raketenbasis Pydna",
+ "address": "n/a",
+ "city": "Kastellaun",
+ "country": "Germany",
+ "price": "n/a (2026: 159 EUR incl. fees)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.nature-one.de/en/tickets",
+ "source": "official",
+ "details": "Multi-floor rave with camping in the Hunsrück. Presale phase 1 reportedly open since Sep 2026; buy only at nature-one.de or the box office (fake ticket warning).",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "rave"
+ ],
+ "note": "no acts yet",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nature+One&dates=20270729%2F20270802&details=Big+German+techno+and+rave+open+air+on+a+former+missile+base%0Ano+acts+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282026%3A+159+EUR+incl.+fees%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.nature-one.de%2Fen%2Ftickets&location=Raketenbasis+Pydna%2C+Kastellaun&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Raketenbasis%20Pydna%2C%20Kastellaun",
+ "priceValue": 2026
+}

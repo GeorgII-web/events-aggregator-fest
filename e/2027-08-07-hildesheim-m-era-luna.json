@@ -1,0 +1,52 @@
+{
+ "id": "2027-08-07-hildesheim-m-era-luna",
+ "name": "M'era Luna",
+ "description": "Major gothic, metal and dark-electro open air on an airfield",
+ "start": "2027-08-07",
+ "end": "2027-08-08",
+ "hours": "n/a",
+ "place": "Flugplatz Hildesheim-Drispenstedt",
+ "address": "n/a",
+ "city": "Hildesheim",
+ "country": "Germany",
+ "price": "n/a (listings: about 169 EUR)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.meraluna.de",
+ "source": "official",
+ "details": "Two-day festival with camping. Presale opened 10 Aug 2026 in the official ticket shop; more than 30 acts confirmed so far.",
+ "bands": [
+  "The HU",
+  "VNV Nation",
+  "The Sisters of Mercy",
+  "Feuerschwanz",
+  "Mono Inc.",
+  "Schandmaul",
+  "Peter Heppner",
+  "Atari Teenage Riot",
+  "Moonspell",
+  "Oomph!"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "metal",
+  "electronic"
+ ],
+ "note": "Oomph!, The Sisters of Mercy",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=M%27era+Luna&dates=20270807%2F20270809&details=Major+gothic%2C+metal+and+dark-electro+open+air+on+an+airfield%0AOomph%21%2C+The+Sisters+of+Mercy%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%28listings%3A+about+169+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.meraluna.de&location=Flugplatz+Hildesheim-Drispenstedt%2C+Hildesheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Flugplatz%20Hildesheim-Drispenstedt%2C%20Hildesheim",
+ "priceValue": 169
+}

@@ -12,9 +12,9 @@
  "price": "n/a",
  "size": "medium",
  "status": "no dates yet",
- "link": "https://www.prazdrojvisit.cz/en/events",
+ "link": "https://www.prazdrojvisit.cz/en/events/pilsner-fest-2026",
  "source": "official",
- "details": "The festival marks the first Pilsner Urquell brew (4 October 1842) on the brewery grounds, with concerts, brewery tours and hands-on traditional brewing. Sources disagree on the 2026 dates (3 Oct vs 5-10 Oct).",
+ "details": "The festival marks the first Pilsner Urquell brew (4 October 1842) on the brewery grounds, with concerts, brewery tours and hands-on traditional brewing. Sources disagree on the 2026 dates (3 Oct vs 5-10 Oct). The 2026 edition ran 5-10 Oct, the first to last a full week, with free entry.",
  "tags": [
   "beer-festival",
   "city-festival"
@@ -24,14 +24,25 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.149Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:10:58.470Z",
+   "changes": {
+    "link": [
+     "https://www.prazdrojvisit.cz/en/events",
+     "https://www.prazdrojvisit.cz/en/events/pilsner-fest-2026"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "beer",
   "festival"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pilsner+Fest&dates=20271002%2F20271003&details=Pilsner+Urquell%27s+birthday+festival+at+the+brewery%0ABrewery+birthday%2C+early+October%0ADates%3A+2027+not+announced%3B+guess%3A+first+Saturday+of+October%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.prazdrojvisit.cz%2Fen%2Fevents&location=Pilsner+Urquell+brewery%2C+U+Prazdroje+7%2C+Plze%C5%88&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pilsner+Fest&dates=20271002%2F20271003&details=Pilsner+Urquell%27s+birthday+festival+at+the+brewery%0ABrewery+birthday%2C+early+October%0ADates%3A+2027+not+announced%3B+guess%3A+first+Saturday+of+October%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.prazdrojvisit.cz%2Fen%2Fevents%2Fpilsner-fest-2026&location=Pilsner+Urquell+brewery%2C+U+Prazdroje+7%2C+Plze%C5%88&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=U%20Prazdroje%207%2C%20Plze%C5%88",
  "priceValue": null
 }

@@ -59,9 +59,9 @@ SUMMARY:Pilsner Fest (no dates yet)
 DESCRIPTION:Pilsner Urquell's birthday festival at the brewery\nBrewery bi
  rthday\, early October\nDates: 2027 not announced; guess: first Saturday 
  of October\nHours: n/a\nPrice: n/a\nStatus: no dates yet (official)\nhttp
- s://www.prazdrojvisit.cz/en/events
+ s://www.prazdrojvisit.cz/en/events/pilsner-fest-2026
 LOCATION:Pilsner Urquell brewery\, U Prazdroje 7\, Plzeň
-URL:https://www.prazdrojvisit.cz/en/events
+URL:https://www.prazdrojvisit.cz/en/events/pilsner-fest-2026
 CATEGORIES:beer-festival,city-festival
 END:VEVENT
 BEGIN:VEVENT
@@ -84,12 +84,15 @@ DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270515
 SUMMARY:Rollende Keukens (unconfirmed)
-DESCRIPTION:Food-truck festival in Amsterdam's Westerpark\n80 food trucks\
- , 100 live acts\nDates: provisional dates (city tourism listing)\nHours: 
- Wed 13:00-23:00\, Thu 12:00-23:00\, Fri 13:00-23:00\nPrice: free entry\nS
- tatus: unconfirmed (iamsterdam.com)\nhttps://www.rollendekeukens.nl
+DESCRIPTION:Food-truck festival in Amsterdam's Westerpark\n12-14 May per i
+ amsterdam\, subject to change\nDates: provisional dates (city tourism lis
+ ting)\nHours: Wed 13:00-23:00\, Thu 12:00-23:00\, Fri 13:00-23:00\nPrice:
+  free entry; food and drinks paid\, card only\nStatus: unconfirmed (iamst
+ erdam.com)\nhttps://www.iamsterdam.com/en/see-and-do/whats-on/festivals/o
+ verview-culinary-festivals-and-events/rolling-kitchens
 LOCATION:Westerpark / Westergas\, Westerpark\, 1014 DA Amsterdam
-URL:https://www.rollendekeukens.nl
+URL:https://www.iamsterdam.com/en/see-and-do/whats-on/festivals/overview-c
+ ulinary-festivals-and-events/rolling-kitchens
 CATEGORIES:street-food,food-festival
 END:VEVENT
 BEGIN:VEVENT
@@ -98,10 +101,10 @@ DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20270825T120000
 DTEND;TZID=Europe/Berlin:20270825T140000
 SUMMARY:La Tomatina (no dates yet)
-DESCRIPTION:Mass tomato fight in Buñol\nTicket required\nDates: last Wedn
- esday of August; 2026: 26 Aug\nHours: 12:00-13:00 (2026)\nPrice: 2027 n/a
- ; 2026 15 EUR (22\,000 tickets)\nStatus: no dates yet (official)\nhttps:/
- /latomatina.info
+DESCRIPTION:Mass tomato fight in Buñol\nLast Wednesday of August; 80th ed
+ ition\nDates: last Wednesday of August; 2026: 26 Aug\nHours: 12:00-13:00 
+ (2026)\nPrice: 2027 n/a; 2026 15 EUR (22\,000 tickets)\nStatus: no dates 
+ yet (official)\nhttps://latomatina.info
 LOCATION:Town centre of Buñol\, Buñol
 URL:https://latomatina.info
 CATEGORIES:food-festival,city-festival
@@ -139,13 +142,14 @@ UID:2026-12-21-san-sebastian-feria-de-santo-tomas@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Berlin:20261221T100000
 DTEND;TZID=Europe/Berlin:20261221T120000
-SUMMARY:Feria de Santo Tomás (unconfirmed)
+SUMMARY:Feria de Santo Tomás
 DESCRIPTION:San Sebastián's one-day rural market with txistorra\nAlways o
  n 21 December\nDates: 2026 programme not published yet\nHours: 10:00-20:0
- 0\nPrice: free\nStatus: unconfirmed (sansebastianturismoa.eus)\nhttps://s
- ansebastianturismoa.eus/agenda/feria-de-santo-tomas-2/
+ 0\nPrice: free\nStatus: ok (turismo.euskadi.eus)\nhttps://turismo.euskadi
+ .eus/es/agenda/feria-de-santo-tomas/webtur00-evento/es/
 LOCATION:Old town and city centre\, San Sebastián
-URL:https://sansebastianturismoa.eus/agenda/feria-de-santo-tomas-2/
+URL:https://turismo.euskadi.eus/es/agenda/feria-de-santo-tomas/webtur00-ev
+ ento/es/
 CATEGORIES:food-festival,street-food,city-festival
 END:VEVENT
 BEGIN:VEVENT
@@ -263,13 +267,13 @@ UID:2027-08-13-eindhoven-dynamo-metalfest@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270816
-SUMMARY:Dynamo Metalfest (unconfirmed)
+SUMMARY:Dynamo Metalfest
 DESCRIPTION:Revived Dutch metal festival in Eindhoven\nArchitects\, Mercyf
- ul Fate\nDates: official site unreachable; data from festivalinfo.nl\nHou
- rs: n/a\nPrice: 99-259 EUR; early-bird weekend 189 EUR\nStatus: unconfirm
- ed (festivalinfo.nl)\nhttps://www.dynamometalfest.com/
+ ul Fate\, Biohazard\nDates: official site unreachable; data from festival
+ info.nl\nHours: n/a\nPrice: 99-259 EUR; Early Bird weekend 189 EUR (limit
+ ed)\nStatus: ok (official)\nhttps://www.dynamo-metalfest.nl/
 LOCATION:IJssportcentrum Eindhoven\, Antoon Coolenlaan 3\, Eindhoven
-URL:https://www.dynamometalfest.com/
+URL:https://www.dynamo-metalfest.nl/
 CATEGORIES:music-festival,open-air,metal
 END:VEVENT
 BEGIN:VEVENT
@@ -489,11 +493,11 @@ UID:2027-06-03-barcelona-primavera-sound-barcelona@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270606
-SUMMARY:Primavera Sound Barcelona (unconfirmed)
-DESCRIPTION:25th-anniversary indie/pop/electronic mega festival\nChemical 
- Brothers\, Massive Attack\nDates: full run 2-6 Jun\nHours: n/a\nPrice: we
- ekend about 285 EUR (VIP 495) + fees (press)\nStatus: unconfirmed (catala
- nnews.com)\nhttps://www.primaverasound.com/en/barcelona
+SUMMARY:Primavera Sound Barcelona
+DESCRIPTION:25th-anniversary indie/pop/electronic mega festival\nMassive A
+ ttack\, The Chemical Brothers\, Underworld\nDates: full run 2-6 Jun\nHour
+ s: n/a\nPrice: from 295 EUR + fees (275-545 EUR)\nStatus: ok (festivalinf
+ o.nl)\nhttps://www.primaverasound.com/en/barcelona
 LOCATION:Parc del Fòrum\, Barcelona
 URL:https://www.primaverasound.com/en/barcelona
 CATEGORIES:music-festival,open-air,indie,pop,electronic
@@ -518,8 +522,8 @@ DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270718
 SUMMARY:FIB Benicàssim
 DESCRIPTION:Beach-town indie/pop/electronic festival\nNo line-up yet\nHour
- s: n/a\nPrice: general price n/a (residents' presale from 44.99 EUR)\nSta
- tus: ok (official)\nhttps://fiberfib.com/en/
+ s: n/a\nPrice: general pass from 44.99 EUR\, VIP from 110 EUR\nStatus: ok
+  (official)\nhttps://fiberfib.com/en/
 LOCATION:Recinto de Festivales\, Benicàssim
 URL:https://fiberfib.com/en/
 CATEGORIES:music-festival,open-air,indie,pop
@@ -649,7 +653,7 @@ DTEND;VALUE=DATE:20270630
 SUMMARY:INmusic Festival (unconfirmed)
 DESCRIPTION:Croatia's biggest rock/indie festival on Lake Jarun\nDates unv
  erified\nHours: n/a\nPrice: n/a (2026: 3-day 139 EUR)\nStatus: unconfirme
- d (rockthenight.eu)\nhttps://www.inmusicfestival.com/en
+ d (efestivals.co.uk)\nhttps://www.inmusicfestival.com/en
 LOCATION:Youth Island\, Lake Jarun\, Zagreb
 URL:https://www.inmusicfestival.com/en
 CATEGORIES:music-festival,open-air,rock,indie
@@ -2149,5 +2153,85 @@ LOCATION:MANITU Liveclub\, Forst (Lausitz)
 URL:https://www.eventim.de/en/artist/stahlmann/stahlmann-schwarz-wie-der-t
  od-tour-2026-4109097/
 CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-29-milan-marilyn-manson-milan@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Marilyn Manson – Milan
+DESCRIPTION:Open-air headline show of Marilyn Manson near Milan\nMARILYN M
+ ANSON (Tue 29 Jun)\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps:
+ //www.marilynmanson.com/
+LOCATION:Parco della Musica Milano\, Via Enzo Iannacci\, Segrate (MI)
+URL:https://www.marilynmanson.com/
+CATEGORIES:rock,industrial,metal,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-07-hildesheim-m-era-luna@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270809
+SUMMARY:M'era Luna
+DESCRIPTION:Major gothic\, metal and dark-electro open air on an airfield\
+ nOomph!\, The Sisters of Mercy\nHours: n/a\nPrice: n/a (listings: about 1
+ 69 EUR)\nStatus: ok (official)\nhttps://www.meraluna.de
+LOCATION:Flugplatz Hildesheim-Drispenstedt\, Hildesheim
+URL:https://www.meraluna.de
+CATEGORIES:music-festival,open-air,rock,metal,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-09-hilvarenbeek-awakenings-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:Awakenings Festival
+DESCRIPTION:Large techno festival in a Brabant nature park\nno line-up yet
+ \nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.awakenings.c
+ om/en/
+LOCATION:Beekse Bergen\, Hilvarenbeek
+URL:https://www.awakenings.com/en/
+CATEGORIES:music-festival,open-air,electronic,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-02-helsinki-tuska@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:Tuska
+DESCRIPTION:Finland's biggest metal festival in central Helsinki\nJudas Pr
+ iest\, Children of Bodom\nHours: n/a\nPrice: 1 day 149 EUR\, 2 days 229 E
+ UR\, 3 days 259 EUR\nStatus: ok (official)\nhttps://www.tuska.fi/en
+LOCATION:Suvilahti\, Kaasutehtaankatu 1\, Helsinki
+URL:https://www.tuska.fi/en
+CATEGORIES:music-festival,open-air,metal,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-29-villarrobledo-vina-rock@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270502
+SUMMARY:Viña Rock
+DESCRIPTION:Spain's largest alternative rock\, punk and rap festival\n30 E
+ UR pass sale 5 Nov\nHours: n/a\nPrice: pass 30 EUR (30-hour promo from 5 
+ Nov 12:00)\nStatus: ok (official)\nhttps://www.vina-rock.com
+LOCATION:Recinto de festivales\, Villarrobledo
+URL:https://www.vina-rock.com
+CATEGORIES:music-festival,open-air,rock,punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-berlin-internationales-berliner-bierfestival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270809
+SUMMARY:Internationales Berliner Bierfestival (no dates yet)
+DESCRIPTION:2 km beer mile with 300+ breweries from 85 countries\nFirst we
+ ekend of August\nDates: 2027 not announced; guess: first weekend of Augus
+ t (2026: 7-9 Aug)\nHours: n/a\nPrice: free entry (mug 3.50 EUR)\nStatus: 
+ no dates yet (official)\nhttps://www.bierfestival-berlin.de
+LOCATION:Karl-Marx-Allee (Strausberger Platz - Frankfurter Tor)\, Karl-Mar
+ x-Allee\, Friedrichshain
+URL:https://www.bierfestival-berlin.de
+CATEGORIES:beer-festival,food-festival,city-festival
 END:VEVENT
 END:VCALENDAR

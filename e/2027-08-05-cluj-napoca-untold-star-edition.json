@@ -9,13 +9,13 @@
  "address": "n/a",
  "city": "Cluj-Napoca",
  "country": "Romania",
- "price": "pass from about 105 EUR + fees",
+ "price": "early pass 99 EUR + fees, final price 249 EUR",
  "size": "big",
  "status": "ok",
  "link": "https://untold.com/",
  "source": "official",
  "checked": "2026-11-01",
- "details": "Four-day electronic and pop festival; 2026 counted over 500,000 visits. Passes on sale (40,000+ sold); a first headliner is secured but not named.",
+ "details": "Four-day electronic and pop festival; 2026 counted over 500,000 visits. Passes on sale (40,000+ sold); a first headliner is secured but not named. The first 30,000 passes sold out within 24 hours of the 9 Aug 2026 sale.",
  "tags": [
   "music-festival",
   "open-air",
@@ -25,14 +25,25 @@
  "note": "Line-up not announced",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:12:00.278Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "pass from about 105 EUR + fees",
+     "early pass 99 EUR + fees, final price 249 EUR"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "electronic"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=UNTOLD+%28Star+Edition%29&dates=20270805%2F20270809&details=Romania%27s+biggest+EDM%2Fpop+festival+in+Cluj%0ALine-up+not+announced%0AHours%3A+n%2Fa%0APrice%3A+pass+from+about+105+EUR+%2B+fees%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Funtold.com%2F&location=Central+Park+%26+Cluj+Arena%2C+Cluj-Napoca&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=UNTOLD+%28Star+Edition%29&dates=20270805%2F20270809&details=Romania%27s+biggest+EDM%2Fpop+festival+in+Cluj%0ALine-up+not+announced%0AHours%3A+n%2Fa%0APrice%3A+early+pass+99+EUR+%2B+fees%2C+final+price+249+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Funtold.com%2F&location=Central+Park+%26+Cluj+Arena%2C+Cluj-Napoca&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20%26%20Cluj%20Arena%2C%20Cluj-Napoca",
- "priceValue": 105
+ "priceValue": 99
 }

@@ -9,13 +9,13 @@
  "address": "n/a",
  "city": "Roskilde",
  "country": "Denmark",
- "price": "8-day ticket from DKK 2,650 (about 355 EUR)",
+ "price": "full festival DKK 2,650 (about 355 EUR); 1-day DKK 1,530",
  "size": "big",
- "status": "unconfirmed",
+ "status": "ok",
  "link": "https://www.roskilde-festival.dk/en",
- "source": "news.pollstar.com",
+ "source": "festivalinfo.nl",
  "checked": "2026-11-01",
- "details": "55th edition, 130,000+ people, large camping included. First acts: Tame Impala, Kacey Musgraves, Caroline Polachek, Patti Smith Quartet, Neurosis; about 200 expected.",
+ "details": "55th edition, 130,000+ people, large camping included. First acts: Tame Impala, Kacey Musgraves, Caroline Polachek, Patti Smith Quartet, Neurosis; about 200 expected. First 18 acts announced 30 Sep 2026, tickets on sale the same day via Tickster.",
  "tags": [
   "music-festival",
   "open-air",
@@ -23,10 +23,10 @@
   "indie",
   "pop"
  ],
- "note": "Tame Impala",
+ "note": "Tame Impala, Patti Smith Quartet",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T19:12:00.278Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -43,6 +43,49 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "8-day ticket from DKK 2,650 (about 355 EUR)",
+     "full festival DKK 2,650 (about 355 EUR); 1-day DKK 1,530"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "source": [
+     "news.pollstar.com",
+     "festivalinfo.nl"
+    ],
+    "note": [
+     "Tame Impala",
+     "Tame Impala, Patti Smith Quartet"
+    ],
+    "bands": [
+     [
+      "Tame Impala",
+      "Kacey Musgraves",
+      "Caroline Polachek",
+      "Patti Smith",
+      "Neurosis"
+     ],
+     [
+      "Tame Impala",
+      "Kacey Musgraves",
+      "Caroline Polachek",
+      "Patti Smith",
+      "Neurosis",
+      "Ezra Collective",
+      "Karpe",
+      "Suki Waterhouse",
+      "Lambrini Girls",
+      "Underscores"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -50,14 +93,19 @@
   "Kacey Musgraves",
   "Caroline Polachek",
   "Patti Smith",
-  "Neurosis"
+  "Neurosis",
+  "Ezra Collective",
+  "Karpe",
+  "Suki Waterhouse",
+  "Lambrini Girls",
+  "Underscores"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Roskilde+Festival&dates=20270626%2F20270704&details=Denmark%27s+huge+non-profit+rock%2Fpop%2Findie+festival%0ATame+Impala%0AHours%3A+n%2Fa%0APrice%3A+8-day+ticket+from+DKK+2%2C650+%28about+355+EUR%29%0AStatus%3A+unconfirmed+%28news.pollstar.com%29%0Ahttps%3A%2F%2Fwww.roskilde-festival.dk%2Fen&location=Roskilde+Festival+site%2C+Roskilde&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Roskilde+Festival&dates=20270626%2F20270704&details=Denmark%27s+huge+non-profit+rock%2Fpop%2Findie+festival%0ATame+Impala%2C+Patti+Smith+Quartet%0AHours%3A+n%2Fa%0APrice%3A+full+festival+DKK+2%2C650+%28about+355+EUR%29%3B+1-day+DKK+1%2C530%0AStatus%3A+ok+%28festivalinfo.nl%29%0Ahttps%3A%2F%2Fwww.roskilde-festival.dk%2Fen&location=Roskilde+Festival+site%2C+Roskilde&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Roskilde%20Festival%20site%2C%20Roskilde",
- "priceValue": 8
+ "priceValue": 2.65
 }

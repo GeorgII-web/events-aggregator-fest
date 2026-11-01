@@ -1,0 +1,43 @@
+{
+ "id": "2027-07-02-helsinki-tuska",
+ "name": "Tuska",
+ "description": "Finland's biggest metal festival in central Helsinki",
+ "start": "2027-07-02",
+ "end": "2027-07-04",
+ "hours": "n/a",
+ "place": "Suvilahti",
+ "address": "Kaasutehtaankatu 1, Helsinki",
+ "city": "Helsinki",
+ "country": "Finland",
+ "price": "1 day 149 EUR, 2 days 229 EUR, 3 days 259 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.tuska.fi/en",
+ "source": "official",
+ "details": "Three-day open air, 18+. Day headliners published 27 Oct 2026: Children of Bodom (Fri), Judas Priest (Sat), Lorna Shore (Sun). Tickets via Tiketti and Lippu.fi.",
+ "bands": [
+  "Judas Priest",
+  "Children of Bodom",
+  "Lorna Shore"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "rock"
+ ],
+ "note": "Judas Priest, Children of Bodom",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tuska&dates=20270702%2F20270705&details=Finland%27s+biggest+metal+festival+in+central+Helsinki%0AJudas+Priest%2C+Children+of+Bodom%0AHours%3A+n%2Fa%0APrice%3A+1+day+149+EUR%2C+2+days+229+EUR%2C+3+days+259+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.tuska.fi%2Fen&location=Suvilahti%2C+Kaasutehtaankatu+1%2C+Helsinki&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kaasutehtaankatu%201%2C%20Helsinki",
+ "priceValue": 1
+}

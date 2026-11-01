@@ -9,13 +9,13 @@
  "address": "n/a",
  "city": "Budapest",
  "country": "Hungary",
- "price": "5-day pass 349 EUR (+23 EUR fee); 21 & under 279 EUR",
+ "price": "5-day 349 EUR + 23 EUR fee; U21 279 EUR; VIP 569 EUR",
  "size": "big",
  "status": "ok",
  "link": "https://szigetfestival.com/en",
  "source": "official",
  "checked": "2026-11-01",
- "details": "Five-day pop, rock, indie and electronic festival on Óbuda Island, partying until Sunday morning. Passes on sale; no 2027 artists yet; camping options soon.",
+ "details": "Five-day pop, rock, indie and electronic festival on Óbuda Island, partying until Sunday morning. Passes on sale; no 2027 artists yet; camping options soon. The official site gives 10-14 Aug 2027 (5 days).",
  "tags": [
   "music-festival",
   "open-air",
@@ -25,14 +25,25 @@
  "note": "No line-up yet",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:12:00.278Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "5-day pass 349 EUR (+23 EUR fee); 21 & under 279 EUR",
+     "5-day 349 EUR + 23 EUR fee; U21 279 EUR; VIP 569 EUR"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "electronic"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sziget+Festival&dates=20270810%2F20270815&details=Huge+multi-genre+island+festival+in+Budapest%0ANo+line-up+yet%0AHours%3A+n%2Fa%0APrice%3A+5-day+pass+349+EUR+%28%2B23+EUR+fee%29%3B+21+%26+under+279+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fszigetfestival.com%2Fen&location=%C3%93buda+Island%2C+Budapest&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sziget+Festival&dates=20270810%2F20270815&details=Huge+multi-genre+island+festival+in+Budapest%0ANo+line-up+yet%0AHours%3A+n%2Fa%0APrice%3A+5-day+349+EUR+%2B+23+EUR+fee%3B+U21+279+EUR%3B+VIP+569+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fszigetfestival.com%2Fen&location=%C3%93buda+Island%2C+Budapest&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=%C3%93buda%20Island%2C%20Budapest",
  "priceValue": 5
 }

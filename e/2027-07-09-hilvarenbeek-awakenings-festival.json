@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-09-hilvarenbeek-awakenings-festival",
+ "name": "Awakenings Festival",
+ "description": "Large techno festival in a Brabant nature park",
+ "start": "2027-07-09",
+ "end": "2027-07-11",
+ "hours": "n/a",
+ "place": "Beekse Bergen",
+ "address": "n/a",
+ "city": "Hilvarenbeek",
+ "country": "Netherlands",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.awakenings.com/en/",
+ "source": "official",
+ "details": "Three-day techno festival; the official site lists 9-11 July 2027 with a ticket link. 2026 ran 10-12 July at the same site.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "techno"
+ ],
+ "note": "no line-up yet",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Awakenings+Festival&dates=20270709%2F20270712&details=Large+techno+festival+in+a+Brabant+nature+park%0Ano+line-up+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.awakenings.com%2Fen%2F&location=Beekse+Bergen%2C+Hilvarenbeek&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Beekse%20Bergen%2C%20Hilvarenbeek",
+ "priceValue": null
+}

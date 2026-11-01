@@ -1,0 +1,38 @@
+{
+ "id": "2027-04-29-villarrobledo-vina-rock",
+ "name": "Viña Rock",
+ "description": "Spain's largest alternative rock, punk and rap festival",
+ "start": "2027-04-29",
+ "end": "2027-05-01",
+ "hours": "n/a",
+ "place": "Recinto de festivales",
+ "address": "n/a",
+ "city": "Villarrobledo",
+ "country": "Spain",
+ "price": "pass 30 EUR (30-hour promo from 5 Nov 12:00)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.vina-rock.com",
+ "source": "official",
+ "details": "Running in Villarrobledo (Albacete) since 1996 with 90+ artists in rock, punk, ska and rap; a rest area is included in the pass. 2026 ran 30 Apr-2 May.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "punk"
+ ],
+ "note": "30 EUR pass sale 5 Nov",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vi%C3%B1a+Rock&dates=20270429%2F20270502&details=Spain%27s+largest+alternative+rock%2C+punk+and+rap+festival%0A30+EUR+pass+sale+5+Nov%0AHours%3A+n%2Fa%0APrice%3A+pass+30+EUR+%2830-hour+promo+from+5+Nov+12%3A00%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.vina-rock.com&location=Recinto+de+festivales%2C+Villarrobledo&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Recinto%20de%20festivales%2C%20Villarrobledo",
+ "priceValue": 30
+}

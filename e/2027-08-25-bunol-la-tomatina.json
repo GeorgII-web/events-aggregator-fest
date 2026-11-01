@@ -14,24 +14,35 @@
  "status": "no dates yet",
  "link": "https://latomatina.info",
  "source": "official",
- "details": "An hour-long tomato fight in the streets of Buñol. Entry is ticketed and capped; in 2026 there were 22,000 tickets at 15 EUR. Always on the last Wednesday of August.",
+ "details": "An hour-long tomato fight in the streets of Buñol. Entry is ticketed and capped; in 2026 there were 22,000 tickets at 15 EUR. Always on the last Wednesday of August. 25 Aug 2027 follows the last-Wednesday rule; press calls it the 80th edition. No official 2027 page yet.",
  "tags": [
   "food-festival",
   "city-festival"
  ],
- "note": "Ticket required",
+ "note": "Last Wednesday of August; 80th edition",
  "dateNote": "last Wednesday of August; 2026: 26 Aug",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.149Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:10:58.470Z",
+   "changes": {
+    "note": [
+     "Ticket required",
+     "Last Wednesday of August; 80th edition"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "food",
   "festival"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La+Tomatina&dates=20270825T120000%2F20270825T140000&details=Mass+tomato+fight+in+Bu%C3%B1ol%0ATicket+required%0ADates%3A+last+Wednesday+of+August%3B+2026%3A+26+Aug%0AHours%3A+12%3A00-13%3A00+%282026%29%0APrice%3A+2027+n%2Fa%3B+2026+15+EUR+%2822%2C000+tickets%29%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Flatomatina.info&location=Town+centre+of+Bu%C3%B1ol%2C+Bu%C3%B1ol&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La+Tomatina&dates=20270825T120000%2F20270825T140000&details=Mass+tomato+fight+in+Bu%C3%B1ol%0ALast+Wednesday+of+August%3B+80th+edition%0ADates%3A+last+Wednesday+of+August%3B+2026%3A+26+Aug%0AHours%3A+12%3A00-13%3A00+%282026%29%0APrice%3A+2027+n%2Fa%3B+2026+15+EUR+%2822%2C000+tickets%29%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Flatomatina.info&location=Town+centre+of+Bu%C3%B1ol%2C+Bu%C3%B1ol&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Town%20centre%20of%20Bu%C3%B1ol%2C%20Bu%C3%B1ol",
  "priceValue": 2027
 }

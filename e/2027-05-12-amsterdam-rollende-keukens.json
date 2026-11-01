@@ -9,28 +9,47 @@
  "address": "Westerpark, 1014 DA Amsterdam",
  "city": "Amsterdam",
  "country": "Netherlands",
- "price": "free entry",
+ "price": "free entry; food and drinks paid, card only",
  "size": "big",
  "status": "unconfirmed",
- "link": "https://www.rollendekeukens.nl",
+ "link": "https://www.iamsterdam.com/en/see-and-do/whats-on/festivals/overview-culinary-festivals-and-events/rolling-kitchens",
  "source": "iamsterdam.com",
- "details": "The 19th edition plans 80 mobile kitchens and 100 live acts. Entry is free, and you pay per dish.",
+ "details": "The 19th edition plans 80 mobile kitchens and 100 live acts. Entry is free, and you pay per dish. iamsterdam lists 12-14 May 2027 (Wed 13-23, Thu 12-23, Fri 13-23) in Westerpark / Westergas. Stadspas holders get a dish and a drink for 2.50 EUR at about 12 kitchens.",
  "tags": [
   "street-food",
   "food-festival"
  ],
- "note": "80 food trucks, 100 live acts",
+ "note": "12-14 May per iamsterdam, subject to change",
  "dateNote": "provisional dates (city tourism listing)",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.149Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:10:58.470Z",
+   "changes": {
+    "price": [
+     "free entry",
+     "free entry; food and drinks paid, card only"
+    ],
+    "link": [
+     "https://www.rollendekeukens.nl",
+     "https://www.iamsterdam.com/en/see-and-do/whats-on/festivals/overview-culinary-festivals-and-events/rolling-kitchens"
+    ],
+    "note": [
+     "80 food trucks, 100 live acts",
+     "12-14 May per iamsterdam, subject to change"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "food"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rollende+Keukens&dates=20270512%2F20270515&details=Food-truck+festival+in+Amsterdam%27s+Westerpark%0A80+food+trucks%2C+100+live+acts%0ADates%3A+provisional+dates+%28city+tourism+listing%29%0AHours%3A+Wed+13%3A00-23%3A00%2C+Thu+12%3A00-23%3A00%2C+Fri+13%3A00-23%3A00%0APrice%3A+free+entry%0AStatus%3A+unconfirmed+%28iamsterdam.com%29%0Ahttps%3A%2F%2Fwww.rollendekeukens.nl&location=Westerpark+%2F+Westergas%2C+Westerpark%2C+1014+DA+Amsterdam&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rollende+Keukens&dates=20270512%2F20270515&details=Food-truck+festival+in+Amsterdam%27s+Westerpark%0A12-14+May+per+iamsterdam%2C+subject+to+change%0ADates%3A+provisional+dates+%28city+tourism+listing%29%0AHours%3A+Wed+13%3A00-23%3A00%2C+Thu+12%3A00-23%3A00%2C+Fri+13%3A00-23%3A00%0APrice%3A+free+entry%3B+food+and+drinks+paid%2C+card+only%0AStatus%3A+unconfirmed+%28iamsterdam.com%29%0Ahttps%3A%2F%2Fwww.iamsterdam.com%2Fen%2Fsee-and-do%2Fwhats-on%2Ffestivals%2Foverview-culinary-festivals-and-events%2Frolling-kitchens&location=Westerpark+%2F+Westergas%2C+Westerpark%2C+1014+DA+Amsterdam&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Westerpark%2C%201014%20DA%20Amsterdam",
  "priceValue": 0
 }

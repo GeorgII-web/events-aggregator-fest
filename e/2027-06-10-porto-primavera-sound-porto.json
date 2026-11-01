@@ -9,13 +9,13 @@
  "address": "n/a",
  "city": "Porto",
  "country": "Portugal",
- "price": "pass 190 EUR + fees; VIP 300 EUR",
+ "price": "GA 170 EUR, VIP 275 EUR (via Fever)",
  "size": "big",
  "status": "unconfirmed",
  "link": "https://www.primaverasound.com/en/porto",
  "source": "lisboasecreta.co",
  "checked": "2026-11-01",
- "details": "Four-day festival with about 55 acts announced, including Fontaines D.C., FKA twigs, The Chemical Brothers, Lola Young and beabadoobee. Passes via Fever.",
+ "details": "Four-day festival with about 55 acts announced, including Fontaines D.C., FKA twigs, The Chemical Brothers, Lola Young and beabadoobee. Passes via Fever. 14th edition, 10-13 Jun 2027 at Parque da Cidade.",
  "tags": [
   "music-festival",
   "open-air",
@@ -25,7 +25,7 @@
  "note": "Chemical Brothers",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T19:12:00.278Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -42,6 +42,16 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "pass 190 EUR + fees; VIP 300 EUR",
+     "GA 170 EUR, VIP 275 EUR (via Fever)"
+    ]
+   }
   }
  ],
  "bands": [
@@ -55,7 +65,7 @@
  "groups": [
   "musicfest"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primavera+Sound+Porto&dates=20270610%2F20270614&details=Porto+sister+of+Primavera+in+a+city+park%0AChemical+Brothers%0AHours%3A+n%2Fa%0APrice%3A+pass+190+EUR+%2B+fees%3B+VIP+300+EUR%0AStatus%3A+unconfirmed+%28lisboasecreta.co%29%0Ahttps%3A%2F%2Fwww.primaverasound.com%2Fen%2Fporto&location=Parque+da+Cidade%2C+Porto&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primavera+Sound+Porto&dates=20270610%2F20270614&details=Porto+sister+of+Primavera+in+a+city+park%0AChemical+Brothers%0AHours%3A+n%2Fa%0APrice%3A+GA+170+EUR%2C+VIP+275+EUR+%28via+Fever%29%0AStatus%3A+unconfirmed+%28lisboasecreta.co%29%0Ahttps%3A%2F%2Fwww.primaverasound.com%2Fen%2Fporto&location=Parque+da+Cidade%2C+Porto&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Parque%20da%20Cidade%2C%20Porto",
- "priceValue": 190
+ "priceValue": 170
 }

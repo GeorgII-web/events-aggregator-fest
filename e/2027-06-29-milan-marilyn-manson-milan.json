@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-29-milan-marilyn-manson-milan",
+ "name": "Marilyn Manson – Milan",
+ "description": "Open-air headline show of Marilyn Manson near Milan",
+ "start": "2027-06-29",
+ "end": "2027-06-29",
+ "hours": "n/a",
+ "place": "Parco della Musica Milano",
+ "address": "Via Enzo Iannacci, Segrate (MI)",
+ "city": "Milan",
+ "country": "Italy",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.marilynmanson.com/",
+ "source": "official",
+ "details": "Listed on marilynmanson.com and reported by Il Giorno (26 Oct 2026). Ticket sale opened 30 Oct 2026 via TicketOne; the opening band is not named yet. His only Italian date in 2027.",
+ "bands": [
+  "Marilyn Manson"
+ ],
+ "tags": [
+  "rock",
+  "industrial",
+  "metal",
+  "open-air"
+ ],
+ "note": "MARILYN MANSON (Tue 29 Jun)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Marilyn+Manson+%E2%80%93+Milan&dates=20270629%2F20270630&details=Open-air+headline+show+of+Marilyn+Manson+near+Milan%0AMARILYN+MANSON+%28Tue+29+Jun%29%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.marilynmanson.com%2F&location=Parco+della+Musica+Milano%2C+Via+Enzo+Iannacci%2C+Segrate+%28MI%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Via%20Enzo%20Iannacci%2C%20Segrate%20(MI)",
+ "priceValue": null
+}

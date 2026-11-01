@@ -1,0 +1,46 @@
+{
+ "id": "2027-08-19-carhaix-plouguer-motocultor-festival",
+ "name": "Motocultor Festival",
+ "description": "Brittany's big four-day metal festival",
+ "start": "2027-08-19",
+ "end": "2027-08-22",
+ "hours": "n/a",
+ "place": "Site de Kerampuilh",
+ "address": "n/a",
+ "city": "Carhaix-Plouguer",
+ "country": "France",
+ "price": "4-day pass 228 EUR (Early Bird 3), then 239 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.motocultor-festival.com",
+ "source": "official",
+ "details": "18th edition on the Vieilles Charrues site in Carhaix. Early Bird 1 and 2 sold out; day passes not on sale yet.",
+ "bands": [
+  "Helloween",
+  "Halestorm",
+  "Hypocrisy",
+  "Igorrr",
+  "Dark Funeral",
+  "The HU"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "rock"
+ ],
+ "note": "Helloween, Halestorm",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Motocultor+Festival&dates=20270819%2F20270823&details=Brittany%27s+big+four-day+metal+festival%0AHelloween%2C+Halestorm%0AHours%3A+n%2Fa%0APrice%3A+4-day+pass+228+EUR+%28Early+Bird+3%29%2C+then+239+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.motocultor-festival.com&location=Site+de+Kerampuilh%2C+Carhaix-Plouguer&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Site%20de%20Kerampuilh%2C%20Carhaix-Plouguer",
+ "priceValue": 4
+}

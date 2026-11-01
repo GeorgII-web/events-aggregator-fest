@@ -1,0 +1,39 @@
+{
+ "id": "2027-08-06-berlin-internationales-berliner-bierfestival",
+ "name": "Internationales Berliner Bierfestival",
+ "description": "2 km beer mile with 300+ breweries from 85 countries",
+ "start": "2027-08-06",
+ "end": "2027-08-08",
+ "hours": "n/a",
+ "place": "Karl-Marx-Allee (Strausberger Platz - Frankfurter Tor)",
+ "address": "Karl-Marx-Allee, Friedrichshain",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "free entry (mug 3.50 EUR)",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://www.bierfestival-berlin.de",
+ "source": "official",
+ "details": "Held every year on the first weekend of August on the closed-off Karl-Marx-Allee; 2026 was the 30th edition.",
+ "tags": [
+  "beer-festival",
+  "food-festival",
+  "city-festival"
+ ],
+ "note": "First weekend of August",
+ "dateNote": "2027 not announced; guess: first weekend of August (2026: 7-9 Aug)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "beer",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Internationales+Berliner+Bierfestival&dates=20270806%2F20270809&details=2+km+beer+mile+with+300%2B+breweries+from+85+countries%0AFirst+weekend+of+August%0ADates%3A+2027+not+announced%3B+guess%3A+first+weekend+of+August+%282026%3A+7-9+Aug%29%0AHours%3A+n%2Fa%0APrice%3A+free+entry+%28mug+3.50+EUR%29%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.bierfestival-berlin.de&location=Karl-Marx-Allee+%28Strausberger+Platz+-+Frankfurter+Tor%29%2C+Karl-Marx-Allee%2C+Friedrichshain&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Karl-Marx-Allee%2C%20Friedrichshain",
+ "priceValue": 0
+}

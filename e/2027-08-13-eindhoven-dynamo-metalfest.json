@@ -9,23 +9,23 @@
  "address": "Antoon Coolenlaan 3, Eindhoven",
  "city": "Eindhoven",
  "country": "Netherlands",
- "price": "99-259 EUR; early-bird weekend 189 EUR",
+ "price": "99-259 EUR; Early Bird weekend 189 EUR (limited)",
  "size": "big",
- "status": "unconfirmed",
- "link": "https://www.dynamometalfest.com/",
- "source": "festivalinfo.nl",
- "details": "Three-day metal festival held every summer since 2015. Announced: Architects, Mercyful Fate, Cavalera (Chaos A.D.), Corrosion Of Conformity, Hypocrisy, Madball.",
+ "status": "ok",
+ "link": "https://www.dynamo-metalfest.nl/",
+ "source": "official",
+ "details": "Three-day metal festival held every summer since 2015. Announced: Architects, Mercyful Fate, Cavalera (Chaos A.D.), Corrosion Of Conformity, Hypocrisy, Madball. 13-15 Aug 2027 at IJssportcentrum Eindhoven; tickets on sale since 28 Aug 2026, 19 acts so far (8 added 29 Oct).",
  "tags": [
   "music-festival",
   "open-air",
   "metal"
  ],
- "note": "Architects, Mercyful Fate",
+ "note": "Architects, Mercyful Fate, Biohazard",
  "dateNote": "official site unreachable; data from festivalinfo.nl",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T19:12:00.278Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -43,6 +43,56 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "99-259 EUR; early-bird weekend 189 EUR",
+     "99-259 EUR; Early Bird weekend 189 EUR (limited)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://www.dynamometalfest.com/",
+     "https://www.dynamo-metalfest.nl/"
+    ],
+    "source": [
+     "festivalinfo.nl",
+     "official"
+    ],
+    "note": [
+     "Architects, Mercyful Fate",
+     "Architects, Mercyful Fate, Biohazard"
+    ],
+    "bands": [
+     [
+      "Architects",
+      "Mercyful Fate",
+      "Cavalera",
+      "Corrosion of Conformity",
+      "Hypocrisy",
+      "Madball"
+     ],
+     [
+      "Architects",
+      "Mercyful Fate",
+      "Cavalera",
+      "Corrosion of Conformity",
+      "Hypocrisy",
+      "Madball",
+      "Biohazard",
+      "Shadow of Intent",
+      "John Bush",
+      "Sylosis",
+      "Carnifex",
+      "I Am Morbid"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -51,14 +101,20 @@
   "Cavalera",
   "Corrosion of Conformity",
   "Hypocrisy",
-  "Madball"
+  "Madball",
+  "Biohazard",
+  "Shadow of Intent",
+  "John Bush",
+  "Sylosis",
+  "Carnifex",
+  "I Am Morbid"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dynamo+Metalfest&dates=20270813%2F20270816&details=Revived+Dutch+metal+festival+in+Eindhoven%0AArchitects%2C+Mercyful+Fate%0ADates%3A+official+site+unreachable%3B+data+from+festivalinfo.nl%0AHours%3A+n%2Fa%0APrice%3A+99-259+EUR%3B+early-bird+weekend+189+EUR%0AStatus%3A+unconfirmed+%28festivalinfo.nl%29%0Ahttps%3A%2F%2Fwww.dynamometalfest.com%2F&location=IJssportcentrum+Eindhoven%2C+Antoon+Coolenlaan+3%2C+Eindhoven&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dynamo+Metalfest&dates=20270813%2F20270816&details=Revived+Dutch+metal+festival+in+Eindhoven%0AArchitects%2C+Mercyful+Fate%2C+Biohazard%0ADates%3A+official+site+unreachable%3B+data+from+festivalinfo.nl%0AHours%3A+n%2Fa%0APrice%3A+99-259+EUR%3B+Early+Bird+weekend+189+EUR+%28limited%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.dynamo-metalfest.nl%2F&location=IJssportcentrum+Eindhoven%2C+Antoon+Coolenlaan+3%2C+Eindhoven&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Antoon%20Coolenlaan%203%2C%20Eindhoven",
  "priceValue": 99
 }

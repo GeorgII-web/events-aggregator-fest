@@ -9,12 +9,12 @@
  "address": "n/a",
  "city": "Clisson",
  "country": "France",
- "price": "4-day pass 389 EUR sold out; day passes to come; official resale",
+ "price": "4-day pass 389 EUR (sold out); 1-day passes coming",
  "size": "big",
  "status": "sold out",
  "link": "https://www.hellfest.fr/",
  "source": "official",
- "details": "Four-day metal festival with more than 300 artists and camping. The 4-day pass is sold out; day passes go on sale later. No line-up announced yet.",
+ "details": "Four-day metal festival with more than 300 artists and camping. The 4-day pass is sold out; day passes go on sale later. No line-up announced yet. 20th edition; official resale at tickets.hellfest.fr. No 2027 artists yet.",
  "tags": [
   "music-festival",
   "open-air",
@@ -24,14 +24,25 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.222Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:12:00.278Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "4-day pass 389 EUR sold out; day passes to come; official resale",
+     "4-day pass 389 EUR (sold out); 1-day passes coming"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hellfest&dates=20270617%2F20270621&details=France%27s+huge+metal+festival%2C+20th+anniversary+edition%0A4-day+sold+out%3B+day+tickets+later%0AHours%3A+n%2Fa%0APrice%3A+4-day+pass+389+EUR+sold+out%3B+day+passes+to+come%3B+official+resale%0AStatus%3A+sold+out+%28official%29%0Ahttps%3A%2F%2Fwww.hellfest.fr%2F&location=Hellfest+site%2C+Clisson&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hellfest&dates=20270617%2F20270621&details=France%27s+huge+metal+festival%2C+20th+anniversary+edition%0A4-day+sold+out%3B+day+tickets+later%0AHours%3A+n%2Fa%0APrice%3A+4-day+pass+389+EUR+%28sold+out%29%3B+1-day+passes+coming%0AStatus%3A+sold+out+%28official%29%0Ahttps%3A%2F%2Fwww.hellfest.fr%2F&location=Hellfest+site%2C+Clisson&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hellfest%20site%2C%20Clisson",
  "priceValue": 4
 }

@@ -9,13 +9,13 @@
  "address": "n/a",
  "city": "Barcelona",
  "country": "Spain",
- "price": "weekend about 285 EUR (VIP 495) + fees (press)",
+ "price": "from 295 EUR + fees (275-545 EUR)",
  "size": "big",
- "status": "unconfirmed",
+ "status": "ok",
  "link": "https://www.primaverasound.com/en/barcelona",
- "source": "catalannews.com",
+ "source": "festivalinfo.nl",
  "checked": "2026-11-01",
- "details": "Main days 3-5 June, plus a free opening day on 2 June and an electronic closing on 6 June. Line-up: Doechii, Phoebe Bridgers, Fontaines D.C., Massive Attack, Turnstile, FKA twigs, The Chemical Brothers, Robyn, Pavement, Skrillex.",
+ "details": "Main days 3-5 June, plus a free opening day on 2 June and an electronic closing on 6 June. Line-up: Doechii, Phoebe Bridgers, Fontaines D.C., Massive Attack, Turnstile, FKA twigs, The Chemical Brothers, Robyn, Pavement, Skrillex. 156-act line-up announced 5-6 Oct 2026 at Parc del Fòrum; general sale since 9 Oct 2026.",
  "tags": [
   "music-festival",
   "open-air",
@@ -23,11 +23,11 @@
   "pop",
   "electronic"
  ],
- "note": "Chemical Brothers, Massive Attack",
+ "note": "Massive Attack, The Chemical Brothers, Underworld",
  "dateNote": "full run 2-6 Jun",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T19:12:00.278Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -49,6 +49,59 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "weekend about 285 EUR (VIP 495) + fees (press)",
+     "from 295 EUR + fees (275-545 EUR)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "source": [
+     "catalannews.com",
+     "festivalinfo.nl"
+    ],
+    "note": [
+     "Chemical Brothers, Massive Attack",
+     "Massive Attack, The Chemical Brothers, Underworld"
+    ],
+    "bands": [
+     [
+      "Doechii",
+      "Phoebe Bridgers",
+      "Fontaines D.C.",
+      "Massive Attack",
+      "Turnstile",
+      "FKA twigs",
+      "The Chemical Brothers",
+      "Robyn",
+      "Pavement",
+      "Skrillex"
+     ],
+     [
+      "Doechii",
+      "Phoebe Bridgers",
+      "Fontaines D.C.",
+      "Massive Attack",
+      "Turnstile",
+      "FKA twigs",
+      "The Chemical Brothers",
+      "Robyn",
+      "Pavement",
+      "Skrillex",
+      "Four Tet",
+      "Underworld",
+      "Caroline Polachek",
+      "King Gizzard & the Lizard Wizard",
+      "Bicep"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -61,14 +114,19 @@
   "The Chemical Brothers",
   "Robyn",
   "Pavement",
-  "Skrillex"
+  "Skrillex",
+  "Four Tet",
+  "Underworld",
+  "Caroline Polachek",
+  "King Gizzard & the Lizard Wizard",
+  "Bicep"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "electronic"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primavera+Sound+Barcelona&dates=20270603%2F20270606&details=25th-anniversary+indie%2Fpop%2Felectronic+mega+festival%0AChemical+Brothers%2C+Massive+Attack%0ADates%3A+full+run+2-6+Jun%0AHours%3A+n%2Fa%0APrice%3A+weekend+about+285+EUR+%28VIP+495%29+%2B+fees+%28press%29%0AStatus%3A+unconfirmed+%28catalannews.com%29%0Ahttps%3A%2F%2Fwww.primaverasound.com%2Fen%2Fbarcelona&location=Parc+del+F%C3%B2rum%2C+Barcelona&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primavera+Sound+Barcelona&dates=20270603%2F20270606&details=25th-anniversary+indie%2Fpop%2Felectronic+mega+festival%0AMassive+Attack%2C+The+Chemical+Brothers%2C+Underworld%0ADates%3A+full+run+2-6+Jun%0AHours%3A+n%2Fa%0APrice%3A+from+295+EUR+%2B+fees+%28275-545+EUR%29%0AStatus%3A+ok+%28festivalinfo.nl%29%0Ahttps%3A%2F%2Fwww.primaverasound.com%2Fen%2Fbarcelona&location=Parc+del+F%C3%B2rum%2C+Barcelona&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Parc%20del%20F%C3%B2rum%2C%20Barcelona",
- "priceValue": 285
+ "priceValue": 295
 }

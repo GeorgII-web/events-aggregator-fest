@@ -9,23 +9,23 @@
  "address": "n/a",
  "city": "Jaroměř",
  "country": "Czechia",
- "price": "about 219.90 EUR",
+ "price": "festival pass 229.90 EUR (early price ended 30 Sep 2026)",
  "size": "big",
  "status": "unconfirmed",
  "link": "https://brutalassault.cz/en",
- "source": "festivalhopper.de",
- "details": "Four-day extreme metal festival inside an 18th-century fortress, with camping; the 30th edition. Announced: Knocked Loose (headliner), Heaven Shall Burn, Emperor, Carcass, Mercyful Fate, The Sisters of Mercy.",
+ "source": "brutalassault.cz",
+ "details": "Four-day extreme metal festival inside an 18th-century fortress, with camping; the 30th edition. Announced: Knocked Loose (headliner), Heaven Shall Burn, Emperor, Carcass, Mercyful Fate, The Sisters of Mercy. The line-up page shows 63 acts, '47% confirmed'; accommodation packages are sold out. The official site gives no dates yet; 4-7 Aug comes from listings.",
  "tags": [
   "music-festival",
   "open-air",
   "metal"
  ],
- "note": "Knocked Loose, Emperor, Mercyful Fate",
+ "note": "Knocked Loose, Mercyful Fate, Emperor",
  "dateNote": "dates from festivalhopper.de",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T19:12:00.278Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -43,6 +43,51 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "about 219.90 EUR",
+     "festival pass 229.90 EUR (early price ended 30 Sep 2026)"
+    ],
+    "source": [
+     "festivalhopper.de",
+     "brutalassault.cz"
+    ],
+    "note": [
+     "Knocked Loose, Emperor, Mercyful Fate",
+     "Knocked Loose, Mercyful Fate, Emperor"
+    ],
+    "bands": [
+     [
+      "Knocked Loose",
+      "Heaven Shall Burn",
+      "Emperor",
+      "Carcass",
+      "Mercyful Fate",
+      "The Sisters of Mercy"
+     ],
+     [
+      "Knocked Loose",
+      "Heaven Shall Burn",
+      "Emperor",
+      "Carcass",
+      "Mercyful Fate",
+      "The Sisters of Mercy",
+      "Children of Bodom",
+      "Dismember",
+      "Destruction",
+      "Hypocrisy",
+      "Dethklok",
+      "Mgła",
+      "Agnostic Front",
+      "Gorilla Biscuits",
+      "Mick Gordon"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -51,14 +96,23 @@
   "Emperor",
   "Carcass",
   "Mercyful Fate",
-  "The Sisters of Mercy"
+  "The Sisters of Mercy",
+  "Children of Bodom",
+  "Dismember",
+  "Destruction",
+  "Hypocrisy",
+  "Dethklok",
+  "Mgła",
+  "Agnostic Front",
+  "Gorilla Biscuits",
+  "Mick Gordon"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brutal+Assault&dates=20270804%2F20270808&details=Extreme+metal+festival+in+Josefov+fortress%2C+30th+edition%0AKnocked+Loose%2C+Emperor%2C+Mercyful+Fate%0ADates%3A+dates+from+festivalhopper.de%0AHours%3A+n%2Fa%0APrice%3A+about+219.90+EUR%0AStatus%3A+unconfirmed+%28festivalhopper.de%29%0Ahttps%3A%2F%2Fbrutalassault.cz%2Fen&location=Josefov+Fortress%2C+Jarom%C4%9B%C5%99&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brutal+Assault&dates=20270804%2F20270808&details=Extreme+metal+festival+in+Josefov+fortress%2C+30th+edition%0AKnocked+Loose%2C+Mercyful+Fate%2C+Emperor%0ADates%3A+dates+from+festivalhopper.de%0AHours%3A+n%2Fa%0APrice%3A+festival+pass+229.90+EUR+%28early+price+ended+30+Sep+2026%29%0AStatus%3A+unconfirmed+%28brutalassault.cz%29%0Ahttps%3A%2F%2Fbrutalassault.cz%2Fen&location=Josefov+Fortress%2C+Jarom%C4%9B%C5%99&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Josefov%20Fortress%2C%20Jarom%C4%9B%C5%99",
- "priceValue": 219.9
+ "priceValue": 229.9
 }

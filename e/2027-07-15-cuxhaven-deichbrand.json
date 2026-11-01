@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-15-cuxhaven-deichbrand",
+ "name": "Deichbrand",
+ "description": "Large rock, pop and hip-hop open air near the North Sea coast",
+ "start": "2027-07-15",
+ "end": "2027-07-18",
+ "hours": "n/a",
+ "place": "Seeflughafen Cuxhaven/Nordholz",
+ "address": "n/a",
+ "city": "Cuxhaven",
+ "country": "Germany",
+ "price": "All Days from about 159 EUR (festivalhopper)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://deichbrand.de/en/infos/ticketinfos/tickets/",
+ "source": "official",
+ "details": "Four-day festival with camping; early arrival from Wed 14 July with an Early Arrival or VIP ticket. Wildcard and Early Bird are the first price tiers, sold via Eventim.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "pop"
+ ],
+ "note": "no headliners yet",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deichbrand&dates=20270715%2F20270719&details=Large+rock%2C+pop+and+hip-hop+open+air+near+the+North+Sea+coast%0Ano+headliners+yet%0AHours%3A+n%2Fa%0APrice%3A+All+Days+from+about+159+EUR+%28festivalhopper%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fdeichbrand.de%2Fen%2Finfos%2Fticketinfos%2Ftickets%2F&location=Seeflughafen+Cuxhaven%2FNordholz%2C+Cuxhaven&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Seeflughafen%20Cuxhaven%2FNordholz%2C%20Cuxhaven",
+ "priceValue": 159
+}

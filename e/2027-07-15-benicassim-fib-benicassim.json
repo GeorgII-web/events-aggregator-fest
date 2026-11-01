@@ -9,13 +9,13 @@
  "address": "n/a",
  "city": "Benicàssim",
  "country": "Spain",
- "price": "general price n/a (residents' presale from 44.99 EUR)",
+ "price": "general pass from 44.99 EUR, VIP from 110 EUR",
  "size": "big",
  "status": "ok",
  "link": "https://fiberfib.com/en/",
  "source": "official",
  "checked": "2026-11-01",
- "details": "Three-day festival with over 135,000 visitors in 2024. Only a residents' presale so far; no line-up.",
+ "details": "Three-day festival with over 135,000 visitors in 2024. Only a residents' presale so far; no line-up. Official dates 15-17 Jul 2027; residents' presale 2-3 Nov 2026.",
  "tags": [
   "music-festival",
   "open-air",
@@ -25,13 +25,24 @@
  "note": "No line-up yet",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:12:00.278Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:12:00.278Z",
+   "changes": {
+    "price": [
+     "general price n/a (residents' presale from 44.99 EUR)",
+     "general pass from 44.99 EUR, VIP from 110 EUR"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=FIB+Benic%C3%A0ssim&dates=20270715%2F20270718&details=Beach-town+indie%2Fpop%2Felectronic+festival%0ANo+line-up+yet%0AHours%3A+n%2Fa%0APrice%3A+general+price+n%2Fa+%28residents%27+presale+from+44.99+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Ffiberfib.com%2Fen%2F&location=Recinto+de+Festivales%2C+Benic%C3%A0ssim&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=FIB+Benic%C3%A0ssim&dates=20270715%2F20270718&details=Beach-town+indie%2Fpop%2Felectronic+festival%0ANo+line-up+yet%0AHours%3A+n%2Fa%0APrice%3A+general+pass+from+44.99+EUR%2C+VIP+from+110+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Ffiberfib.com%2Fen%2F&location=Recinto+de+Festivales%2C+Benic%C3%A0ssim&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Recinto%20de%20Festivales%2C%20Benic%C3%A0ssim",
  "priceValue": 44.99
 }

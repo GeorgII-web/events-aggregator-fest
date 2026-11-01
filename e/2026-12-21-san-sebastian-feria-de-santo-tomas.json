@@ -11,10 +11,10 @@
  "country": "Spain",
  "price": "free",
  "size": "medium",
- "status": "unconfirmed",
- "link": "https://sansebastianturismoa.eus/agenda/feria-de-santo-tomas-2/",
- "source": "sansebastianturismoa.eus",
- "details": "The city turns into a rural market where txistorra, usually eaten in a talo (corn flatbread), is the star, along with cider and farm produce. In 2024 there were 162 stalls.",
+ "status": "ok",
+ "link": "https://turismo.euskadi.eus/es/agenda/feria-de-santo-tomas/webtur00-evento/es/",
+ "source": "turismo.euskadi.eus",
+ "details": "The city turns into a rural market where txistorra, usually eaten in a talo (corn flatbread), is the star, along with cider and farm produce. In 2024 there were 162 stalls. Turismo Euskadi lists 21 Dec 2026 (also in Bilbao and Azpeitia); the 2025 edition had 163 stalls, open 10:00-20:00.",
  "tags": [
   "food-festival",
   "street-food",
@@ -25,14 +25,33 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.149Z",
- "history": [],
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T19:10:58.470Z",
+   "changes": {
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "link": [
+     "https://sansebastianturismoa.eus/agenda/feria-de-santo-tomas-2/",
+     "https://turismo.euskadi.eus/es/agenda/feria-de-santo-tomas/webtur00-evento/es/"
+    ],
+    "source": [
+     "sansebastianturismoa.eus",
+     "turismo.euskadi.eus"
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "food",
   "festival"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Feria+de+Santo+Tom%C3%A1s&dates=20261221T100000%2F20261221T120000&details=San+Sebasti%C3%A1n%27s+one-day+rural+market+with+txistorra%0AAlways+on+21+December%0ADates%3A+2026+programme+not+published+yet%0AHours%3A+10%3A00-20%3A00%0APrice%3A+free%0AStatus%3A+unconfirmed+%28sansebastianturismoa.eus%29%0Ahttps%3A%2F%2Fsansebastianturismoa.eus%2Fagenda%2Fferia-de-santo-tomas-2%2F&location=Old+town+and+city+centre%2C+San+Sebasti%C3%A1n&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Feria+de+Santo+Tom%C3%A1s&dates=20261221T100000%2F20261221T120000&details=San+Sebasti%C3%A1n%27s+one-day+rural+market+with+txistorra%0AAlways+on+21+December%0ADates%3A+2026+programme+not+published+yet%0AHours%3A+10%3A00-20%3A00%0APrice%3A+free%0AStatus%3A+ok+%28turismo.euskadi.eus%29%0Ahttps%3A%2F%2Fturismo.euskadi.eus%2Fes%2Fagenda%2Fferia-de-santo-tomas%2Fwebtur00-evento%2Fes%2F&location=Old+town+and+city+centre%2C+San+Sebasti%C3%A1n&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Old%20town%20and%20city%20centre%2C%20San%20Sebasti%C3%A1n",
  "priceValue": 0
 }

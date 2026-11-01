@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-01-liege-les-ardentes",
+ "name": "Les Ardentes",
+ "description": "Belgium's big hip-hop, electronic and pop festival",
+ "start": "2027-07-01",
+ "end": "2027-07-04",
+ "hours": "n/a",
+ "place": "Festival site Liège",
+ "address": "n/a",
+ "city": "Liège",
+ "country": "Belgium",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.lesardentes.be",
+ "source": "official",
+ "details": "Four-day urban music festival with about 220,000 visitors in 2026. The official site lists 1-4 July 2027; early bird passes are sold out, first names still to come.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "pop"
+ ],
+ "note": "early bird sold out",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Ardentes&dates=20270701%2F20270705&details=Belgium%27s+big+hip-hop%2C+electronic+and+pop+festival%0Aearly+bird+sold+out%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.lesardentes.be&location=Festival+site+Li%C3%A8ge%2C+Li%C3%A8ge&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Festival%20site%20Li%C3%A8ge%2C%20Li%C3%A8ge",
+ "priceValue": null
+}

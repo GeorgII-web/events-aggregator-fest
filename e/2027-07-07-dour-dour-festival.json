@@ -1,0 +1,40 @@
+{
+ "id": "2027-07-07-dour-dour-festival",
+ "name": "Dour Festival",
+ "description": "Five-day alternative mix: electronic, hip-hop, rock, punk",
+ "start": "2027-07-07",
+ "end": "2027-07-11",
+ "hours": "n/a",
+ "place": "La Machine à Feu",
+ "address": "n/a",
+ "city": "Dour",
+ "country": "Belgium",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.dourfestival.eu",
+ "source": "official",
+ "details": "Large camping festival near Mons with many stages. The official site shows 7-11 July 2027 and 'Wave 0' tickets open; no prices shown.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "rock",
+  "punk"
+ ],
+ "note": "no line-up yet",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dour+Festival&dates=20270707%2F20270712&details=Five-day+alternative+mix%3A+electronic%2C+hip-hop%2C+rock%2C+punk%0Ano+line-up+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.dourfestival.eu&location=La+Machine+%C3%A0+Feu%2C+Dour&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=La%20Machine%20%C3%A0%20Feu%2C%20Dour",
+ "priceValue": null
+}

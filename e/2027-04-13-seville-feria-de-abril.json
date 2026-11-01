@@ -1,0 +1,39 @@
+{
+ "id": "2027-04-13-seville-feria-de-abril",
+ "name": "Feria de Abril",
+ "description": "Seville's week of casetas, flamenco, sherry and tapas",
+ "start": "2027-04-13",
+ "end": "2027-04-18",
+ "hours": "lighting Mon 12 Apr at midnight",
+ "place": "Real de la Feria, Los Remedios",
+ "address": "n/a",
+ "city": "Seville",
+ "country": "Spain",
+ "price": "free (many casetas private)",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://www.seville-traveller.com/seville-april-fair/",
+ "source": "seville-traveller.com",
+ "details": "Huge city fair with about 1,000 casetas, sevillanas, manzanilla and rebujito. The city proposes Wed 14 April 2027 as the local Feria holiday, which fits a 13-18 April run.",
+ "tags": [
+  "city-festival",
+  "food-festival",
+  "wine"
+ ],
+ "note": "city has not confirmed dates",
+ "dateNote": "2026: 21-26 Apr",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T19:10:58.470Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Feria+de+Abril&dates=20270413%2F20270419&details=Seville%27s+week+of+casetas%2C+flamenco%2C+sherry+and+tapas%0Acity+has+not+confirmed+dates%0ADates%3A+2026%3A+21-26+Apr%0AHours%3A+lighting+Mon+12+Apr+at+midnight%0APrice%3A+free+%28many+casetas+private%29%0AStatus%3A+unconfirmed+%28seville-traveller.com%29%0Ahttps%3A%2F%2Fwww.seville-traveller.com%2Fseville-april-fair%2F&location=Real+de+la+Feria%2C+Los+Remedios%2C+Seville&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Real%20de%20la%20Feria%2C%20Los%20Remedios%2C%20Seville",
+ "priceValue": 0
+}
