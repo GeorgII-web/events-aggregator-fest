@@ -1,0 +1,37 @@
+{
+ "id": "2027-03-03-munchen-royal-blood-european-tour-2027-munchen",
+ "name": "Royal Blood – European Tour 2027: München",
+ "description": "Royal Blood club show",
+ "start": "2027-03-03",
+ "end": "2027-03-03",
+ "hours": "20:00",
+ "place": "Muffathalle",
+ "address": "Zellstr. 4, 81667 München",
+ "city": "München",
+ "country": "Germany",
+ "price": "from 63.15 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.mvp.de/muenchen/veranstaltungen/royal-blood-muenchen/",
+ "source": "mvp.de",
+ "details": "Royal Blood headline. Tickets via Eventim.",
+ "bands": [
+  "Royal Blood"
+ ],
+ "tags": [
+  "rock"
+ ],
+ "note": "Royal Blood",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Royal+Blood+%E2%80%93+European+Tour+2027%3A+M%C3%BCnchen&dates=20270303T200000%2F20270303T220000&details=Royal+Blood+club+show%0ARoyal+Blood%0AHours%3A+20%3A00%0APrice%3A+from+63.15+EUR%0AStatus%3A+ok+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmuenchen%2Fveranstaltungen%2Froyal-blood-muenchen%2F&location=Muffathalle%2C+Zellstr.+4%2C+81667+M%C3%BCnchen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zellstr.%204%2C%2081667%20M%C3%BCnchen",
+ "priceValue": 63.15
+}

@@ -14,7 +14,7 @@
  "status": "ok",
  "link": "https://www.rock-am-ring.com/",
  "source": "official",
- "details": "Three-day rock festival with about 90,000 visitors; campsites open 2 June. About 70,000 weekend tickets were sold by 22 Sep 2026. Headliners: blink-182, Die Toten Hosen, Bring Me The Horizon, Parkway Drive, Turnstile, Faith No More. The Prodigy are billed as very special guest on Friday.",
+ "details": "Three-day rock festival with about 90,000 visitors; campsites open 2 June. About 70,000 weekend tickets were sold by 22 Sep 2026. Headliners: blink-182, Die Toten Hosen, Bring Me The Horizon, Parkway Drive, Turnstile, Faith No More. The Prodigy are billed as very special guest on Friday. Arch Enemy play Sunday 6 June; Falling in Reverse are on the bill too.",
  "tags": [
   "music-festival",
   "open-air",
@@ -22,11 +22,11 @@
   "metal",
   "punk"
  ],
- "note": "THE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182, Die Toten Hosen",
+ "note": "THE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182, Arch Enemy (Sun)",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -63,6 +63,38 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:52:44.678Z",
+   "changes": {
+    "note": [
+     "THE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182, Die Toten Hosen",
+     "THE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182, Arch Enemy (Sun)"
+    ],
+    "bands": [
+     [
+      "The Prodigy",
+      "Bring Me The Horizon",
+      "blink-182",
+      "Die Toten Hosen",
+      "Parkway Drive",
+      "Turnstile",
+      "Faith No More"
+     ],
+     [
+      "The Prodigy",
+      "Bring Me The Horizon",
+      "blink-182",
+      "Die Toten Hosen",
+      "Parkway Drive",
+      "Turnstile",
+      "Faith No More",
+      "Arch Enemy",
+      "Falling in Reverse"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -72,14 +104,16 @@
   "Die Toten Hosen",
   "Parkway Drive",
   "Turnstile",
-  "Faith No More"
+  "Faith No More",
+  "Arch Enemy",
+  "Falling in Reverse"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+am+Ring&dates=20270604%2F20270607&details=Germany%27s+biggest+rock+festival+at+the+N%C3%BCrburgring+race+track%0ATHE+PRODIGY+%28Fri%29+%2B+BRING+ME+THE+HORIZON%3B+blink-182%2C+Die+Toten+Hosen%0AHours%3A+n%2Fa%0APrice%3A+weekend+about+269+EUR+excl.+camping%3B+weekend+tickets+only%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rock-am-ring.com%2F&location=N%C3%BCrburgring%2C+53520+N%C3%BCrburg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+am+Ring&dates=20270604%2F20270607&details=Germany%27s+biggest+rock+festival+at+the+N%C3%BCrburgring+race+track%0ATHE+PRODIGY+%28Fri%29+%2B+BRING+ME+THE+HORIZON%3B+blink-182%2C+Arch+Enemy+%28Sun%29%0AHours%3A+n%2Fa%0APrice%3A+weekend+about+269+EUR+excl.+camping%3B+weekend+tickets+only%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rock-am-ring.com%2F&location=N%C3%BCrburgring%2C+53520+N%C3%BCrburg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=N%C3%BCrburgring%2C%2053520%20N%C3%BCrburg",
  "priceValue": 269
 }

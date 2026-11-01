@@ -1,0 +1,42 @@
+{
+ "id": "2027-06-13-milan-i-days-milano-blink-182",
+ "name": "I-Days Milano: blink-182",
+ "description": "blink-182 day at the I-Days festival in Milan",
+ "start": "2027-06-13",
+ "end": "2027-06-13",
+ "hours": "n/a",
+ "place": "Ippodromo SNAI San Siro",
+ "address": "n/a",
+ "city": "Milan",
+ "country": "Italy",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.ticketone.it/magazine/news/blink-182-un-concerto-a-milano-nel-2027",
+ "source": "ticketone.it",
+ "details": "blink-182 headline one I-Days day, with Pierce The Veil as support. General sale opened 26 Jun 2026. It is the band's fourth I-Days appearance.",
+ "bands": [
+  "blink-182",
+  "Pierce The Veil"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "punk",
+  "rock"
+ ],
+ "note": "blink-182",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=I-Days+Milano%3A+blink-182&dates=20270613%2F20270614&details=blink-182+day+at+the+I-Days+festival+in+Milan%0Ablink-182%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28ticketone.it%29%0Ahttps%3A%2F%2Fwww.ticketone.it%2Fmagazine%2Fnews%2Fblink-182-un-concerto-a-milano-nel-2027&location=Ippodromo+SNAI+San+Siro%2C+Milan&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ippodromo%20SNAI%20San%20Siro%2C%20Milan",
+ "priceValue": null
+}

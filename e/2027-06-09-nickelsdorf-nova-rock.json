@@ -14,7 +14,7 @@
  "status": "ok",
  "link": "https://www.novarock.at/",
  "source": "official",
- "details": "Rock festival with camping, about 200,000 visitors in total. All ticket categories on sale since 1 Oct 2026. Announced: Die Toten Hosen, Die Ärzte, The Smashing Pumpkins, Faith No More, Evanescence, Billy Talent.",
+ "details": "Rock festival with camping, about 200,000 visitors in total. All ticket categories on sale since 1 Oct 2026. Announced: Die Toten Hosen, Die Ärzte, The Smashing Pumpkins, Faith No More, Evanescence, Billy Talent. Arch Enemy are listed by festivalhopper.de and routenote.com, not yet seen on the official page.",
  "tags": [
   "music-festival",
   "open-air",
@@ -22,11 +22,11 @@
   "punk",
   "metal"
  ],
- "note": "Die Ärzte, Die Toten Hosen, Smashing Pumpkins",
+ "note": "Die Ärzte, Die Toten Hosen, Smashing Pumpkins; Arch Enemy (unconfirmed)",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -44,6 +44,35 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:52:44.678Z",
+   "changes": {
+    "note": [
+     "Die Ärzte, Die Toten Hosen, Smashing Pumpkins",
+     "Die Ärzte, Die Toten Hosen, Smashing Pumpkins; Arch Enemy (unconfirmed)"
+    ],
+    "bands": [
+     [
+      "Die Toten Hosen",
+      "Die Ärzte",
+      "The Smashing Pumpkins",
+      "Faith No More",
+      "Evanescence",
+      "Billy Talent"
+     ],
+     [
+      "Die Toten Hosen",
+      "Die Ärzte",
+      "The Smashing Pumpkins",
+      "Faith No More",
+      "Evanescence",
+      "Billy Talent",
+      "Arch Enemy"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -52,14 +81,15 @@
   "The Smashing Pumpkins",
   "Faith No More",
   "Evanescence",
-  "Billy Talent"
+  "Billy Talent",
+  "Arch Enemy"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nova+Rock&dates=20270609%2F20270613&details=Austria%27s+biggest+rock+festival+on+Pannonia+Fields%0ADie+%C3%84rzte%2C+Die+Toten+Hosen%2C+Smashing+Pumpkins%0AHours%3A+n%2Fa%0APrice%3A+festival+pass+279.99+EUR+incl.+camping%3B+day+144.99-149.99+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.novarock.at%2F&location=Pannonia+Fields%2C+Nickelsdorf&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nova+Rock&dates=20270609%2F20270613&details=Austria%27s+biggest+rock+festival+on+Pannonia+Fields%0ADie+%C3%84rzte%2C+Die+Toten+Hosen%2C+Smashing+Pumpkins%3B+Arch+Enemy+%28unconfirmed%29%0AHours%3A+n%2Fa%0APrice%3A+festival+pass+279.99+EUR+incl.+camping%3B+day+144.99-149.99+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.novarock.at%2F&location=Pannonia+Fields%2C+Nickelsdorf&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pannonia%20Fields%2C%20Nickelsdorf",
  "priceValue": 279.99
 }

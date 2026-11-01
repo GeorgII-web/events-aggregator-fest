@@ -1,0 +1,37 @@
+{
+ "id": "2027-03-01-koln-royal-blood-european-tour-2027-koln",
+ "name": "Royal Blood – European Tour 2027: Köln",
+ "description": "Royal Blood club show for the new album",
+ "start": "2027-03-01",
+ "end": "2027-03-01",
+ "hours": "20:00",
+ "place": "E-Werk",
+ "address": "Schanzenstr. 37, 51063 Köln",
+ "city": "Köln",
+ "country": "Germany",
+ "price": "from 58.40 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.mvp.de/koeln/veranstaltungen/royal-blood/",
+ "source": "mvp.de",
+ "details": "Royal Blood headline. The European leg starts 25 Feb in Antwerp. Tickets via Eventim.",
+ "bands": [
+  "Royal Blood"
+ ],
+ "tags": [
+  "rock"
+ ],
+ "note": "Royal Blood",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Royal+Blood+%E2%80%93+European+Tour+2027%3A+K%C3%B6ln&dates=20270301T200000%2F20270301T220000&details=Royal+Blood+club+show+for+the+new+album%0ARoyal+Blood%0AHours%3A+20%3A00%0APrice%3A+from+58.40+EUR%0AStatus%3A+ok+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fkoeln%2Fveranstaltungen%2Froyal-blood%2F&location=E-Werk%2C+Schanzenstr.+37%2C+51063+K%C3%B6ln&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schanzenstr.%2037%2C%2051063%20K%C3%B6ln",
+ "priceValue": 58.4
+}

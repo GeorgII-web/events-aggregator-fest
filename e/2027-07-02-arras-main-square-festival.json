@@ -1,0 +1,44 @@
+{
+ "id": "2027-07-02-arras-main-square-festival",
+ "name": "Main Square Festival",
+ "description": "Three-day festival in the Arras citadel",
+ "start": "2027-07-02",
+ "end": "2027-07-04",
+ "hours": "n/a",
+ "place": "Citadelle d'Arras",
+ "address": "146 Allée du Bastion de la Reine, 62000 Arras",
+ "city": "Arras",
+ "country": "France",
+ "price": "Friday day pass 79 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.mainsquarefestival.fr",
+ "source": "sortiraparis.com",
+ "details": "Muse close the festival on Sunday 4 July. sombr and Angèle play Friday and David Guetta plays Saturday. The line-up is still incomplete.",
+ "bands": [
+  "Muse",
+  "sombr",
+  "Angèle",
+  "David Guetta"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "pop"
+ ],
+ "note": "Muse (Sun)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Main+Square+Festival&dates=20270702%2F20270705&details=Three-day+festival+in+the+Arras+citadel%0AMuse+%28Sun%29%0AHours%3A+n%2Fa%0APrice%3A+Friday+day+pass+79+EUR%0AStatus%3A+ok+%28sortiraparis.com%29%0Ahttps%3A%2F%2Fwww.mainsquarefestival.fr&location=Citadelle+d%27Arras%2C+146+All%C3%A9e+du+Bastion+de+la+Reine%2C+62000+Arras&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=146%20All%C3%A9e%20du%20Bastion%20de%20la%20Reine%2C%2062000%20Arras",
+ "priceValue": 79
+}

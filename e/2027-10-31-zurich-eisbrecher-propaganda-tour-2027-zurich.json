@@ -1,0 +1,38 @@
+{
+ "id": "2027-10-31-zurich-eisbrecher-propaganda-tour-2027-zurich",
+ "name": "Eisbrecher – Propaganda Tour 2027: Zürich",
+ "description": "Eisbrecher headline show",
+ "start": "2027-10-31",
+ "end": "2027-10-31",
+ "hours": "19:00",
+ "place": "Volkshaus Zürich",
+ "address": "Stauffacherstrasse 60, 8004 Zürich",
+ "city": "Zürich",
+ "country": "Switzerland",
+ "price": "n/a",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://ms-aktuell.de/welt/eisbrecher-propaganda-tour-06-10-2026/",
+ "source": "ms-aktuell.de",
+ "details": "Tour news names Volkshaus Zürich as the last date and the only Swiss stop.",
+ "bands": [
+  "Eisbrecher"
+ ],
+ "tags": [
+  "industrial",
+  "metal"
+ ],
+ "note": "Eisbrecher",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:53:43.144Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eisbrecher+%E2%80%93+Propaganda+Tour+2027%3A+Z%C3%BCrich&dates=20271031T190000%2F20271031T210000&details=Eisbrecher+headline+show%0AEisbrecher%0AHours%3A+19%3A00%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28ms-aktuell.de%29%0Ahttps%3A%2F%2Fms-aktuell.de%2Fwelt%2Feisbrecher-propaganda-tour-06-10-2026%2F&location=Volkshaus+Z%C3%BCrich%2C+Stauffacherstrasse+60%2C+8004+Z%C3%BCrich&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stauffacherstrasse%2060%2C%208004%20Z%C3%BCrich",
+ "priceValue": null
+}

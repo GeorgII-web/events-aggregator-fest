@@ -1,0 +1,40 @@
+{
+ "id": "2027-07-02-belfort-les-eurockeennes-de-belfort",
+ "name": "Les Eurockéennes de Belfort",
+ "description": "Four-day rock festival at Malsaucy lake",
+ "start": "2027-07-02",
+ "end": "2027-07-05",
+ "hours": "n/a",
+ "place": "Presqu'île du Malsaucy",
+ "address": "n/a",
+ "city": "Belfort",
+ "country": "France",
+ "price": "day 79 EUR, 4-day pass 219 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.eurockeennes.fr",
+ "source": "macommune.info",
+ "details": "Muse are the first announced headliner and close the festival on the Monday (5 July by the pass dates; no exact show date given). Ticket sales opened 9 Oct 2026. No other acts announced yet.",
+ "bands": [
+  "Muse"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock"
+ ],
+ "note": "Muse (closing day)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Les+Eurock%C3%A9ennes+de+Belfort&dates=20270702%2F20270706&details=Four-day+rock+festival+at+Malsaucy+lake%0AMuse+%28closing+day%29%0AHours%3A+n%2Fa%0APrice%3A+day+79+EUR%2C+4-day+pass+219+EUR%0AStatus%3A+ok+%28macommune.info%29%0Ahttps%3A%2F%2Fwww.eurockeennes.fr&location=Presqu%27%C3%AEle+du+Malsaucy%2C+Belfort&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Presqu'%C3%AEle%20du%20Malsaucy%2C%20Belfort",
+ "priceValue": 79
+}

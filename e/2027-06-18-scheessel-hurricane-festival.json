@@ -14,18 +14,18 @@
  "status": "ok",
  "link": "https://www.hurricane.de/",
  "source": "official",
- "details": "FKP Scorpio rock, indie and pop festival with camping. Presale is open. Announced: Muse, Placebo, Phoebe Bridgers, MGK, Kontra K, Dermot Kennedy.",
+ "details": "FKP Scorpio rock, indie and pop festival with camping. Presale is open. Announced: Muse, Placebo, Phoebe Bridgers, MGK, Kontra K, Dermot Kennedy. Royal Blood play Sunday 20 June (Muse also Sunday, Placebo Friday); Pierce The Veil and Alt-J added.",
  "tags": [
   "music-festival",
   "open-air",
   "rock",
   "indie"
  ],
- "note": "Muse, Placebo, MGK",
+ "note": "Muse, Placebo, Royal Blood (Sun)",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -43,6 +43,37 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:52:44.678Z",
+   "changes": {
+    "note": [
+     "Muse, Placebo, MGK",
+     "Muse, Placebo, Royal Blood (Sun)"
+    ],
+    "bands": [
+     [
+      "Muse",
+      "Placebo",
+      "Phoebe Bridgers",
+      "MGK",
+      "Kontra K",
+      "Dermot Kennedy"
+     ],
+     [
+      "Muse",
+      "Placebo",
+      "Phoebe Bridgers",
+      "MGK",
+      "Kontra K",
+      "Dermot Kennedy",
+      "Royal Blood",
+      "Pierce The Veil",
+      "Alt-J"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -51,14 +82,17 @@
   "Phoebe Bridgers",
   "MGK",
   "Kontra K",
-  "Dermot Kennedy"
+  "Dermot Kennedy",
+  "Royal Blood",
+  "Pierce The Veil",
+  "Alt-J"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hurricane+Festival&dates=20270618%2F20270621&details=Big+rock%2Findie+festival+on+the+Eichenring+race+track%0AMuse%2C+Placebo%2C+MGK%0AHours%3A+n%2Fa%0APrice%3A+festival+ticket+from+199+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.hurricane.de%2F&location=Eichenring%2C+Schee%C3%9Fel&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hurricane+Festival&dates=20270618%2F20270621&details=Big+rock%2Findie+festival+on+the+Eichenring+race+track%0AMuse%2C+Placebo%2C+Royal+Blood+%28Sun%29%0AHours%3A+n%2Fa%0APrice%3A+festival+ticket+from+199+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.hurricane.de%2F&location=Eichenring%2C+Schee%C3%9Fel&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Eichenring%2C%20Schee%C3%9Fel",
  "priceValue": 199
 }

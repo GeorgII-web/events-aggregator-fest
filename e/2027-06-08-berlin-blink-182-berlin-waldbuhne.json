@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-08-berlin-blink-182-berlin-waldbuhne",
+ "name": "blink-182 – Berlin Waldbühne",
+ "description": "blink-182 open-air show, their only German non-festival date",
+ "start": "2027-06-08",
+ "end": "2027-06-08",
+ "hours": "19:00",
+ "place": "Waldbühne",
+ "address": "n/a",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 102.60 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.mvp.de/berlin/veranstaltungen/blink-182-with-special-guest-billy-talent-waldbuehne-berlin/",
+ "source": "mvp.de",
+ "details": "blink-182 headline, with Billy Talent as special guest. General sale opened 26 Jun 2026. Sold-out status not confirmed; resale listings show limited stock.",
+ "bands": [
+  "blink-182",
+  "Billy Talent"
+ ],
+ "tags": [
+  "punk",
+  "rock",
+  "open-air"
+ ],
+ "note": "blink-182",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=blink-182+%E2%80%93+Berlin+Waldb%C3%BChne&dates=20270608T190000%2F20270608T210000&details=blink-182+open-air+show%2C+their+only+German+non-festival+date%0Ablink-182%0AHours%3A+19%3A00%0APrice%3A+from+102.60+EUR%0AStatus%3A+ok+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fberlin%2Fveranstaltungen%2Fblink-182-with-special-guest-billy-talent-waldbuehne-berlin%2F&location=Waldb%C3%BChne%2C+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Waldb%C3%BChne%2C%20Berlin",
+ "priceValue": 102.6
+}

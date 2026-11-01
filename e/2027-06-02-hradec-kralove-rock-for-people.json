@@ -1,0 +1,48 @@
+{
+ "id": "2027-06-02-hradec-kralove-rock-for-people",
+ "name": "Rock for People",
+ "description": "Czech rock festival at Park 360",
+ "start": "2027-06-02",
+ "end": "2027-06-05",
+ "hours": "n/a",
+ "place": "Park 360",
+ "address": "n/a",
+ "city": "Hradec Králové",
+ "country": "Czech Republic",
+ "price": "GA 4 days 230 EUR, Comfy+ 369 EUR, VIP 826 EUR (plus fees)",
+ "size": "big",
+ "status": "few tickets",
+ "link": "https://rockforpeople.cz/en/",
+ "source": "official",
+ "details": "blink-182 and Faith No More headline. Architects are in the first wave, with Billy Talent, Napalm Death, Killswitch Engage and Motionless In White. On 20 Oct 2026 the festival said half of the tickets were gone.",
+ "bands": [
+  "blink-182",
+  "Faith No More",
+  "Architects",
+  "Billy Talent",
+  "Napalm Death",
+  "Killswitch Engage",
+  "Motionless In White"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "punk",
+  "metal"
+ ],
+ "note": "blink-182, Architects",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+for+People&dates=20270602%2F20270606&details=Czech+rock+festival+at+Park+360%0Ablink-182%2C+Architects%0AHours%3A+n%2Fa%0APrice%3A+GA+4+days+230+EUR%2C+Comfy%2B+369+EUR%2C+VIP+826+EUR+%28plus+fees%29%0AStatus%3A+few+tickets+%28official%29%0Ahttps%3A%2F%2Frockforpeople.cz%2Fen%2F&location=Park+360%2C+Hradec+Kr%C3%A1lov%C3%A9&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Park%20360%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+ "priceValue": 4
+}

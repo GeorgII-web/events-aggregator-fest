@@ -1,0 +1,38 @@
+{
+ "id": "2027-10-01-munchen-eisbrecher-propaganda-tour-2027-munchen",
+ "name": "Eisbrecher – Propaganda Tour 2027: München",
+ "description": "Eisbrecher headline show",
+ "start": "2027-10-01",
+ "end": "2027-10-01",
+ "hours": "20:00-23:00",
+ "place": "Circus Krone",
+ "address": "Marsstraße 43, 80335 München",
+ "city": "München",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.in-muenchen.de/?p=1091875",
+ "source": "in-muenchen.de",
+ "details": "Hometown show, first of two nights at Circus Krone with a special guest. Tickets via München Ticket and Eventim.",
+ "bands": [
+  "Eisbrecher"
+ ],
+ "tags": [
+  "industrial",
+  "metal"
+ ],
+ "note": "Eisbrecher",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:53:43.144Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eisbrecher+%E2%80%93+Propaganda+Tour+2027%3A+M%C3%BCnchen&dates=20271001T200000%2F20271001T220000&details=Eisbrecher+headline+show%0AEisbrecher%0AHours%3A+20%3A00-23%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28in-muenchen.de%29%0Ahttps%3A%2F%2Fwww.in-muenchen.de%2F%3Fp%3D1091875&location=Circus+Krone%2C+Marsstra%C3%9Fe+43%2C+80335+M%C3%BCnchen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marsstra%C3%9Fe%2043%2C%2080335%20M%C3%BCnchen",
+ "priceValue": null
+}

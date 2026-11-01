@@ -1,0 +1,37 @@
+{
+ "id": "2027-03-02-berlin-royal-blood-european-tour-2027-berlin",
+ "name": "Royal Blood – European Tour 2027: Berlin",
+ "description": "Royal Blood club show",
+ "start": "2027-03-02",
+ "end": "2027-03-02",
+ "hours": "20:00",
+ "place": "Columbiahalle",
+ "address": "Columbiadamm 13-21, 10965 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 57.40 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.mvp.de/berlin/veranstaltungen/royal-blood-berlin/",
+ "source": "mvp.de",
+ "details": "Royal Blood headline. Tickets via Eventim.",
+ "bands": [
+  "Royal Blood"
+ ],
+ "tags": [
+  "rock"
+ ],
+ "note": "Royal Blood",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Royal+Blood+%E2%80%93+European+Tour+2027%3A+Berlin&dates=20270302T200000%2F20270302T220000&details=Royal+Blood+club+show%0ARoyal+Blood%0AHours%3A+20%3A00%0APrice%3A+from+57.40+EUR%0AStatus%3A+ok+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fberlin%2Fveranstaltungen%2Froyal-blood-berlin%2F&location=Columbiahalle%2C+Columbiadamm+13-21%2C+10965+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Columbiadamm%2013-21%2C%2010965%20Berlin",
+ "priceValue": 57.4
+}

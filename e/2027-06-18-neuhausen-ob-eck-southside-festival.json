@@ -14,18 +14,18 @@
  "status": "ok",
  "link": "https://www.southside.de/",
  "source": "official",
- "details": "Shares its line-up with Hurricane and has camping. Presale is running; phase 1 sold out, phase 2 is 189 EUR. Headliners: Muse, Phoebe Bridgers, MGK.",
+ "details": "Shares its line-up with Hurricane and has camping. Presale is running; phase 1 sold out, phase 2 is 189 EUR. Headliners: Muse, Phoebe Bridgers, MGK. Muse play Friday 18 June, Placebo and Royal Blood Saturday 19 June; Pierce The Veil added.",
  "tags": [
   "music-festival",
   "open-air",
   "rock",
   "indie"
  ],
- "note": "Muse, Phoebe Bridgers, MGK",
+ "note": "Muse (Fri), Placebo + Royal Blood (Sat)",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -40,19 +40,47 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:52:44.678Z",
+   "changes": {
+    "note": [
+     "Muse, Phoebe Bridgers, MGK",
+     "Muse (Fri), Placebo + Royal Blood (Sat)"
+    ],
+    "bands": [
+     [
+      "Muse",
+      "Phoebe Bridgers",
+      "MGK"
+     ],
+     [
+      "Muse",
+      "Phoebe Bridgers",
+      "MGK",
+      "Placebo",
+      "Royal Blood",
+      "Pierce The Veil"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
   "Muse",
   "Phoebe Bridgers",
-  "MGK"
+  "MGK",
+  "Placebo",
+  "Royal Blood",
+  "Pierce The Veil"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Southside+Festival&dates=20270618%2F20270621&details=Hurricane%27s+southern+twin+on+an+airfield+business+park%0AMuse%2C+Phoebe+Bridgers%2C+MGK%0AHours%3A+n%2Fa%0APrice%3A+festival+ticket+189+EUR+%28current+phase%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.southside.de%2F&location=take-off+GewerbePark+%28airfield%29%2C+Neuhausen+ob+Eck&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Southside+Festival&dates=20270618%2F20270621&details=Hurricane%27s+southern+twin+on+an+airfield+business+park%0AMuse+%28Fri%29%2C+Placebo+%2B+Royal+Blood+%28Sat%29%0AHours%3A+n%2Fa%0APrice%3A+festival+ticket+189+EUR+%28current+phase%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.southside.de%2F&location=take-off+GewerbePark+%28airfield%29%2C+Neuhausen+ob+Eck&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=take-off%20GewerbePark%20(airfield)%2C%20Neuhausen%20ob%20Eck",
  "priceValue": 189
 }

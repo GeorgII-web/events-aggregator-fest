@@ -24,7 +24,7 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "updatedAt": "2026-11-01T18:53:43.144Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -43,6 +43,33 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:53:43.144Z",
+   "changes": {
+    "bands": [
+     [
+      "Amon Amarth",
+      "Bruce Dickinson",
+      "Arch Enemy",
+      "Accept",
+      "Eisbrecher",
+      "The Sisters of Mercy",
+      "Lord of the Lost"
+     ],
+     [
+      "Amon Amarth",
+      "Bruce Dickinson",
+      "Arch Enemy",
+      "Accept",
+      "Eisbrecher",
+      "The Sisters of Mercy",
+      "Lord of the Lost",
+      "Jinjer"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -52,7 +79,8 @@
   "Accept",
   "Eisbrecher",
   "The Sisters of Mercy",
-  "Lord of the Lost"
+  "Lord of the Lost",
+  "Jinjer"
  ],
  "topic": "festivals",
  "groups": [

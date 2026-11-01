@@ -1,0 +1,44 @@
+{
+ "id": "2027-06-17-warsaw-summer-punch-festival",
+ "name": "Summer Punch Festival",
+ "description": "Punk and metalcore festival in Warsaw, second edition",
+ "start": "2027-06-17",
+ "end": "2027-06-19",
+ "hours": "n/a",
+ "place": "Letnia Scena Progresji",
+ "address": "n/a",
+ "city": "Warsaw",
+ "country": "Poland",
+ "price": "3-day pass on eBilet, price n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.ebilet.pl/muzyka/festiwale/summer-punch-festival",
+ "source": "ebilet.pl",
+ "details": "Architects are the first announced headliner, with Beartooth, Wage War, 3OH!3, Gvllow and Karen Dió. The ticket listing shows only 17 June, so check the full dates; the day of the Architects set is not given.",
+ "bands": [
+  "Architects",
+  "Beartooth",
+  "Wage War",
+  "3OH!3"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "punk",
+  "metal"
+ ],
+ "note": "Architects",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Summer+Punch+Festival&dates=20270617%2F20270620&details=Punk+and+metalcore+festival+in+Warsaw%2C+second+edition%0AArchitects%0AHours%3A+n%2Fa%0APrice%3A+3-day+pass+on+eBilet%2C+price+n%2Fa%0AStatus%3A+ok+%28ebilet.pl%29%0Ahttps%3A%2F%2Fwww.ebilet.pl%2Fmuzyka%2Ffestiwale%2Fsummer-punch-festival&location=Letnia+Scena+Progresji%2C+Warsaw&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Letnia%20Scena%20Progresji%2C%20Warsaw",
+ "priceValue": 3
+}

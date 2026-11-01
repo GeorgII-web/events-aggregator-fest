@@ -1,0 +1,42 @@
+{
+ "id": "2027-06-25-munster-vainstream-rockfest",
+ "name": "Vainstream Rockfest",
+ "description": "Two-day metalcore and punk festival in Münster",
+ "start": "2027-06-25",
+ "end": "2027-06-26",
+ "hours": "n/a",
+ "place": "Am Hawerkamp",
+ "address": "Am Hawerkamp, Münster",
+ "city": "Münster",
+ "country": "Germany",
+ "price": "Early Bird 169 EUR; VIP upgrade 125 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.vainstream.com/",
+ "source": "official",
+ "details": "Architects headline Saturday 26 June, making up for their weather-cancelled 2026 set. Lorna Shore is the other headliner (per ms-aktuell.de). Early Bird tickets are on sale; the La Familia ticket is sold out.",
+ "bands": [
+  "Architects",
+  "Lorna Shore"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "punk"
+ ],
+ "note": "Architects (Sat)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vainstream+Rockfest&dates=20270625%2F20270627&details=Two-day+metalcore+and+punk+festival+in+M%C3%BCnster%0AArchitects+%28Sat%29%0AHours%3A+n%2Fa%0APrice%3A+Early+Bird+169+EUR%3B+VIP+upgrade+125+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.vainstream.com%2F&location=Am+Hawerkamp%2C+M%C3%BCnster&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Hawerkamp%2C%20M%C3%BCnster",
+ "priceValue": 169
+}

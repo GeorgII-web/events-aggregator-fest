@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-18-berlin-muse-the-wow-signal-europa-tour-berlin",
+ "name": "Muse – The Wow! Signal Europa Tour: Berlin",
+ "description": "Muse arena show at Uber Arena",
+ "start": "2026-11-18",
+ "end": "2026-11-18",
+ "hours": "doors 18:00, start 19:30",
+ "place": "Uber Arena",
+ "address": "n/a",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 72 EUR; premium 219-449 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.uber-arena.de/en/events/detail/muse_2026/",
+ "source": "official",
+ "details": "Muse headline, with Dead Poet Society as support. The venue says tickets are available.",
+ "bands": [
+  "Muse",
+  "Dead Poet Society"
+ ],
+ "tags": [
+  "rock"
+ ],
+ "note": "Muse",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Muse+%E2%80%93+The+Wow%21+Signal+Europa+Tour%3A+Berlin&dates=20261118T193000%2F20261118T213000&details=Muse+arena+show+at+Uber+Arena%0AMuse%0AHours%3A+doors+18%3A00%2C+start+19%3A30%0APrice%3A+from+72+EUR%3B+premium+219-449+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.uber-arena.de%2Fen%2Fevents%2Fdetail%2Fmuse_2026%2F&location=Uber+Arena%2C+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Uber%20Arena%2C%20Berlin",
+ "priceValue": 72
+}

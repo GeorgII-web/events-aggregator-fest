@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-09-munchen-placebo-30th-anniversary-tour-munchen",
+ "name": "Placebo – 30th Anniversary Tour: München",
+ "description": "Placebo anniversary arena show",
+ "start": "2026-11-09",
+ "end": "2026-11-09",
+ "hours": "20:00",
+ "place": "Olympiahalle München",
+ "address": "Spiridon-Louis-Ring 21, 80809 München",
+ "city": "München",
+ "country": "Germany",
+ "price": "from 78.05 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.mvp.de/muenchen/veranstaltungen/placebo-30th-anniversary-tour-olympiahalle-muenchen/",
+ "source": "mvp.de",
+ "details": "Placebo headline. Tickets via Eventim, no sold-out notice.",
+ "bands": [
+  "Placebo"
+ ],
+ "tags": [
+  "rock"
+ ],
+ "note": "Placebo",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Placebo+%E2%80%93+30th+Anniversary+Tour%3A+M%C3%BCnchen&dates=20261109T200000%2F20261109T220000&details=Placebo+anniversary+arena+show%0APlacebo%0AHours%3A+20%3A00%0APrice%3A+from+78.05+EUR%0AStatus%3A+ok+%28mvp.de%29%0Ahttps%3A%2F%2Fwww.mvp.de%2Fmuenchen%2Fveranstaltungen%2Fplacebo-30th-anniversary-tour-olympiahalle-muenchen%2F&location=Olympiahalle+M%C3%BCnchen%2C+Spiridon-Louis-Ring+21%2C+80809+M%C3%BCnchen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Spiridon-Louis-Ring%2021%2C%2080809%20M%C3%BCnchen",
+ "priceValue": 78.05
+}

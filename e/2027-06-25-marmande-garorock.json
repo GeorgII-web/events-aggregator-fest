@@ -1,0 +1,43 @@
+{
+ "id": "2027-06-25-marmande-garorock",
+ "name": "Garorock",
+ "description": "Big French pop and rock festival in Marmande",
+ "start": "2027-06-25",
+ "end": "2027-06-27",
+ "hours": "n/a",
+ "place": "Plaine de la Filhole",
+ "address": "Plaine de la Filhole, 47200 Marmande",
+ "city": "Marmande",
+ "country": "France",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.garorock.com",
+ "source": "sortiraparis.com",
+ "details": "Placebo play Friday 25 June, their first Garorock. Angèle also plays Friday and David Guetta closes on Sunday. Friday day tickets are on sale.",
+ "bands": [
+  "Placebo",
+  "Angèle",
+  "David Guetta"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "pop"
+ ],
+ "note": "Placebo (Fri)",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:52:44.678Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Garorock&dates=20270625%2F20270628&details=Big+French+pop+and+rock+festival+in+Marmande%0APlacebo+%28Fri%29%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28sortiraparis.com%29%0Ahttps%3A%2F%2Fwww.garorock.com&location=Plaine+de+la+Filhole%2C+47200+Marmande&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Plaine%20de%20la%20Filhole%2C%2047200%20Marmande",
+ "priceValue": null
+}

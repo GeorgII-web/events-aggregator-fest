@@ -170,9 +170,9 @@ DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock am Ring
 DESCRIPTION:Germany's biggest rock festival at the Nürburgring race track
- \nTHE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182\, Die Toten Hosen\n
- Hours: n/a\nPrice: weekend about 269 EUR excl. camping; weekend tickets o
- nly\nStatus: ok (official)\nhttps://www.rock-am-ring.com/
+ \nTHE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182\, Arch Enemy (Sun)\
+ nHours: n/a\nPrice: weekend about 269 EUR excl. camping; weekend tickets 
+ only\nStatus: ok (official)\nhttps://www.rock-am-ring.com/
 LOCATION:Nürburgring\, 53520 Nürburg
 URL:https://www.rock-am-ring.com/
 CATEGORIES:music-festival,open-air,rock,metal,punk
@@ -184,9 +184,9 @@ DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock im Park
 DESCRIPTION:Twin festival of Rock am Ring at Nuremberg Zeppelinfeld\nTHE P
- RODIGY (Sun) + BRING ME THE HORIZON (Sat); day tickets\nHours: n/a\nPrice
- : weekend + camping 258/288 EUR sold out; limited day tickets\nStatus: ok
-  (official)\nhttps://www.rock-im-park.com/
+ RODIGY (Sun) + BRING ME THE HORIZON (Sat); Arch Enemy (Sat)\nHours: n/a\n
+ Price: weekend + camping 258/288 EUR sold out; limited day tickets\nStatu
+ s: ok (official)\nhttps://www.rock-im-park.com/
 LOCATION:Zeppelinfeld\, Nürnberg
 URL:https://www.rock-im-park.com/
 CATEGORIES:music-festival,open-air,rock,metal,punk
@@ -198,8 +198,8 @@ DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Hurricane Festival
 DESCRIPTION:Big rock/indie festival on the Eichenring race track\nMuse\, P
- lacebo\, MGK\nHours: n/a\nPrice: festival ticket from 199 EUR\nStatus: ok
-  (official)\nhttps://www.hurricane.de/
+ lacebo\, Royal Blood (Sun)\nHours: n/a\nPrice: festival ticket from 199 E
+ UR\nStatus: ok (official)\nhttps://www.hurricane.de/
 LOCATION:Eichenring\, Scheeßel
 URL:https://www.hurricane.de/
 CATEGORIES:music-festival,open-air,rock,indie
@@ -210,9 +210,9 @@ DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Southside Festival
-DESCRIPTION:Hurricane's southern twin on an airfield business park\nMuse\,
-  Phoebe Bridgers\, MGK\nHours: n/a\nPrice: festival ticket 189 EUR (curre
- nt phase)\nStatus: ok (official)\nhttps://www.southside.de/
+DESCRIPTION:Hurricane's southern twin on an airfield business park\nMuse (
+ Fri)\, Placebo + Royal Blood (Sat)\nHours: n/a\nPrice: festival ticket 18
+ 9 EUR (current phase)\nStatus: ok (official)\nhttps://www.southside.de/
 LOCATION:take-off GewerbePark (airfield)\, Neuhausen ob Eck
 URL:https://www.southside.de/
 CATEGORIES:music-festival,open-air,rock,indie
@@ -279,8 +279,8 @@ DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270613
 SUMMARY:Greenfield Festival
 DESCRIPTION:Switzerland's biggest rock/metal open air\nParkway Drive\, Eva
- nescence\, Billy Talent\nHours: n/a\nPrice: on sale (price n/a)\nStatus: 
- ok (official)\nhttps://www.greenfieldfestival.ch/
+ nescence; Arch Enemy\, Eisbrecher\nHours: n/a\nPrice: on sale (price n/a)
+ \nStatus: ok (official)\nhttps://www.greenfieldfestival.ch/
 LOCATION:Flugplatz Interlaken\, Interlaken
 URL:https://www.greenfieldfestival.ch/
 CATEGORIES:music-festival,open-air,rock,metal,punk
@@ -665,5 +665,1489 @@ DESCRIPTION:Ultra's EDM festival in Split\nHours: n/a\nPrice: 3-day GA 235
 LOCATION:Park Mladeži\, Split
 URL:https://ultraeurope.com/
 CATEGORIES:music-festival,open-air,electronic,edm
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-13-milan-i-days-milano-blink-182@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:I-Days Milano: blink-182
+DESCRIPTION:blink-182 day at the I-Days festival in Milan\nblink-182\nHour
+ s: n/a\nPrice: n/a\nStatus: ok (ticketone.it)\nhttps://www.ticketone.it/m
+ agazine/news/blink-182-un-concerto-a-milano-nel-2027
+LOCATION:Ippodromo SNAI San Siro\, Milan
+URL:https://www.ticketone.it/magazine/news/blink-182-un-concerto-a-milano-
+ nel-2027
+CATEGORIES:music-festival,open-air,punk,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-17-warsaw-summer-punch-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270620
+SUMMARY:Summer Punch Festival
+DESCRIPTION:Punk and metalcore festival in Warsaw\, second edition\nArchit
+ ects\nHours: n/a\nPrice: 3-day pass on eBilet\, price n/a\nStatus: ok (eb
+ ilet.pl)\nhttps://www.ebilet.pl/muzyka/festiwale/summer-punch-festival
+LOCATION:Letnia Scena Progresji\, Warsaw
+URL:https://www.ebilet.pl/muzyka/festiwale/summer-punch-festival
+CATEGORIES:music-festival,open-air,punk,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-25-munster-vainstream-rockfest@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270627
+SUMMARY:Vainstream Rockfest
+DESCRIPTION:Two-day metalcore and punk festival in Münster\nArchitects (S
+ at)\nHours: n/a\nPrice: Early Bird 169 EUR; VIP upgrade 125 EUR\nStatus: 
+ ok (official)\nhttps://www.vainstream.com/
+LOCATION:Am Hawerkamp\, Münster
+URL:https://www.vainstream.com/
+CATEGORIES:music-festival,open-air,metal,punk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-25-marmande-garorock@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270628
+SUMMARY:Garorock
+DESCRIPTION:Big French pop and rock festival in Marmande\nPlacebo (Fri)\nH
+ ours: n/a\nPrice: n/a\nStatus: ok (sortiraparis.com)\nhttps://www.garoroc
+ k.com
+LOCATION:Plaine de la Filhole\, 47200 Marmande
+URL:https://www.garorock.com
+CATEGORIES:music-festival,open-air,rock,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-02-arras-main-square-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:Main Square Festival
+DESCRIPTION:Three-day festival in the Arras citadel\nMuse (Sun)\nHours: n/
+ a\nPrice: Friday day pass 79 EUR\nStatus: ok (sortiraparis.com)\nhttps://
+ www.mainsquarefestival.fr
+LOCATION:Citadelle d'Arras\, 146 Allée du Bastion de la Reine\, 62000 Arr
+ as
+URL:https://www.mainsquarefestival.fr
+CATEGORIES:music-festival,open-air,rock,pop
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-berlin-muse-the-wow-signal-europa-tour-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T193000
+DTEND;TZID=Europe/Berlin:20261118T213000
+SUMMARY:Muse – The Wow! Signal Europa Tour: Berlin
+DESCRIPTION:Muse arena show at Uber Arena\nMuse\nHours: doors 18:00\, star
+ t 19:30\nPrice: from 72 EUR; premium 219-449 EUR\nStatus: ok (official)\n
+ https://www.uber-arena.de/en/events/detail/muse_2026/
+LOCATION:Uber Arena\, Berlin
+URL:https://www.uber-arena.de/en/events/detail/muse_2026/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-dusseldorf-muse-the-wow-signal-europa-tour-dusseldorf-1@eve
+ nts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Muse – The Wow! Signal Europa Tour: Düsseldorf (1)
+DESCRIPTION:First of two Muse nights at PSD Bank Dome\nMuse\nHours: n/a\nP
+ rice: n/a (VIP from 282 EUR + fee)\nStatus: ok (eventim.de)\nhttps://www.
+ eventim.de/event/muse-the-wow-signal-europa-tour-psd-bank-dome-21780036/
+LOCATION:PSD Bank Dome\, Düsseldorf
+URL:https://www.eventim.de/event/muse-the-wow-signal-europa-tour-psd-bank-
+ dome-21780036/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-dusseldorf-muse-the-wow-signal-europa-tour-dusseldorf-2@eve
+ nts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Muse – The Wow! Signal Europa Tour: Düsseldorf (2)
+DESCRIPTION:Second Muse night at PSD Bank Dome\nMuse\nHours: n/a\nPrice: n
+ /a\nStatus: ok (eventim.de)\nhttps://www.eventim.de/event/muse-the-wow-si
+ gnal-europa-tour-psd-bank-dome-21859349/
+LOCATION:PSD Bank Dome\, Düsseldorf
+URL:https://www.eventim.de/event/muse-the-wow-signal-europa-tour-psd-bank-
+ dome-21859349/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-koln-placebo-30th-anniversary-tour-koln@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261102T200000
+DTEND;TZID=Europe/Berlin:20261102T220000
+SUMMARY:Placebo – 30th Anniversary Tour: Köln
+DESCRIPTION:Placebo anniversary arena show\nPlacebo\nHours: 20:00\nPrice: 
+ n/a\nStatus: ok (regioactive.de)\nhttps://www.regioactive.de/konzert/plac
+ ebo-30th-anniversary-tour-koeln-lanxess-arena-2026-11-02-tickets-Y65QFL9K
+ ct
+LOCATION:LANXESS arena\, Willy-Brandt-Platz\, 50679 Köln
+URL:https://www.regioactive.de/konzert/placebo-30th-anniversary-tour-koeln
+ -lanxess-arena-2026-11-02-tickets-Y65QFL9Kct
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-munchen-placebo-30th-anniversary-tour-munchen@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261109T200000
+DTEND;TZID=Europe/Berlin:20261109T220000
+SUMMARY:Placebo – 30th Anniversary Tour: München
+DESCRIPTION:Placebo anniversary arena show\nPlacebo\nHours: 20:00\nPrice: 
+ from 78.05 EUR\nStatus: ok (mvp.de)\nhttps://www.mvp.de/muenchen/veransta
+ ltungen/placebo-30th-anniversary-tour-olympiahalle-muenchen/
+LOCATION:Olympiahalle München\, Spiridon-Louis-Ring 21\, 80809 München
+URL:https://www.mvp.de/muenchen/veranstaltungen/placebo-30th-anniversary-t
+ our-olympiahalle-muenchen/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-berlin-placebo-30th-anniversary-tour-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261116T200000
+DTEND;TZID=Europe/Berlin:20261116T220000
+SUMMARY:Placebo – 30th Anniversary Tour: Berlin (unconfirmed)
+DESCRIPTION:Placebo anniversary arena show\nPlacebo\nHours: 20:00\nPrice: 
+ n/a\nStatus: unconfirmed (regioactive.de)\nhttps://www.regioactive.de/kon
+ zert/placebo-30th-anniversary-tour-berlin-uber-arena-2026-11-16-txffT1KXf
+ G
+LOCATION:Uber Arena\, Berlin
+URL:https://www.regioactive.de/konzert/placebo-30th-anniversary-tour-berli
+ n-uber-arena-2026-11-16-txffT1KXfG
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-stuttgart-placebo-30th-anniversary-tour-stuttgart@events-se
+ arch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T193000
+DTEND;TZID=Europe/Berlin:20261121T213000
+SUMMARY:Placebo – 30th Anniversary Tour: Stuttgart
+DESCRIPTION:Placebo anniversary arena show\nPlacebo\nHours: 19:30\nPrice: 
+ from 71.10 EUR\nStatus: ok (mvp.de)\nhttps://www.mvp.de/stuttgart/veranst
+ altungen/placebo-30th-anniversary-tour-hanns-martin-schleyer-halle/
+LOCATION:Hanns-Martin-Schleyer-Halle\, Mercedesstraße 69\, 70372 Stuttgar
+ t
+URL:https://www.mvp.de/stuttgart/veranstaltungen/placebo-30th-anniversary-
+ tour-hanns-martin-schleyer-halle/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-koln-royal-blood-european-tour-2027-koln@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270301T200000
+DTEND;TZID=Europe/Berlin:20270301T220000
+SUMMARY:Royal Blood – European Tour 2027: Köln
+DESCRIPTION:Royal Blood club show for the new album\nRoyal Blood\nHours: 2
+ 0:00\nPrice: from 58.40 EUR\nStatus: ok (mvp.de)\nhttps://www.mvp.de/koel
+ n/veranstaltungen/royal-blood/
+LOCATION:E-Werk\, Schanzenstr. 37\, 51063 Köln
+URL:https://www.mvp.de/koeln/veranstaltungen/royal-blood/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-berlin-royal-blood-european-tour-2027-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270302T200000
+DTEND;TZID=Europe/Berlin:20270302T220000
+SUMMARY:Royal Blood – European Tour 2027: Berlin
+DESCRIPTION:Royal Blood club show\nRoyal Blood\nHours: 20:00\nPrice: from 
+ 57.40 EUR\nStatus: ok (mvp.de)\nhttps://www.mvp.de/berlin/veranstaltungen
+ /royal-blood-berlin/
+LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
+URL:https://www.mvp.de/berlin/veranstaltungen/royal-blood-berlin/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-munchen-royal-blood-european-tour-2027-munchen@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270303T200000
+DTEND;TZID=Europe/Berlin:20270303T220000
+SUMMARY:Royal Blood – European Tour 2027: München
+DESCRIPTION:Royal Blood club show\nRoyal Blood\nHours: 20:00\nPrice: from 
+ 63.15 EUR\nStatus: ok (mvp.de)\nhttps://www.mvp.de/muenchen/veranstaltung
+ en/royal-blood-muenchen/
+LOCATION:Muffathalle\, Zellstr. 4\, 81667 München
+URL:https://www.mvp.de/muenchen/veranstaltungen/royal-blood-muenchen/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-08-berlin-blink-182-berlin-waldbuhne@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270608T190000
+DTEND;TZID=Europe/Berlin:20270608T210000
+SUMMARY:blink-182 – Berlin Waldbühne
+DESCRIPTION:blink-182 open-air show\, their only German non-festival date\
+ nblink-182\nHours: 19:00\nPrice: from 102.60 EUR\nStatus: ok (mvp.de)\nht
+ tps://www.mvp.de/berlin/veranstaltungen/blink-182-with-special-guest-bill
+ y-talent-waldbuehne-berlin/
+LOCATION:Waldbühne\, Berlin
+URL:https://www.mvp.de/berlin/veranstaltungen/blink-182-with-special-guest
+ -billy-talent-waldbuehne-berlin/
+CATEGORIES:punk,rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-09-hamburg-in-flames-trivium-europe-2027-hamburg@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:In Flames & Trivium – Europe 2027: Hamburg (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:Sporthalle Hamburg\, Hamburg
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-10-dresden-in-flames-trivium-europe-2027-dresden@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:In Flames & Trivium – Europe 2027: Dresden (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:Messe Dresden\, Dresden
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-berlin-in-flames-trivium-europe-2027-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:In Flames & Trivium – Europe 2027: Berlin (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:Velodrom\, Berlin
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-16-frankfurt-am-main-in-flames-trivium-europe-2027-frankfurt-a
+ m-main@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:In Flames & Trivium – Europe 2027: Frankfurt am Main (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:Festhalle\, Frankfurt am Main
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-17-dusseldorf-in-flames-trivium-europe-2027-dusseldorf@events-
+ search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:In Flames & Trivium – Europe 2027: Düsseldorf (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:PSD Bank Dome\, Düsseldorf
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-23-stuttgart-in-flames-trivium-europe-2027-stuttgart@events-se
+ arch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:In Flames & Trivium – Europe 2027: Stuttgart (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:Hanns-Martin-Schleyer-Halle\, Mercedesstraße 69\, 70372 Stuttgar
+ t
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-24-munchen-in-flames-trivium-europe-2027-munchen@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:In Flames & Trivium – Europe 2027: München (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:Zenith\, München
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-bamberg-in-flames-trivium-europe-2027-bamberg@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:In Flames & Trivium – Europe 2027: Bamberg (sold out)
+DESCRIPTION:Co-headline metal tour\, German leg\nIn Flames\nHours: n/a\nPr
+ ice: n/a\nStatus: sold out (official)\nhttps://prk-dreamhaus.com/talent/i
+ n-flames-trivium
+LOCATION:brose Arena\, Bamberg
+URL:https://prk-dreamhaus.com/talent/in-flames-trivium
+CATEGORIES:metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-12-munchen-thirty-seconds-to-mars-a-beautiful-lie-vs-this-is-w
+ ar-munchen@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Thirty Seconds to Mars – A Beautiful Lie vs This Is War: Münche
+ n
+DESCRIPTION:Arena show celebrating two classic albums\nThirty Seconds to M
+ ars\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.thirtysec
+ ondstomars.com/tour
+LOCATION:Olympiahalle\, Spiridon-Louis-Ring 21\, 80809 München
+URL:https://www.thirtysecondstomars.com/tour
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-17-frankfurt-am-main-thirty-seconds-to-mars-a-beautiful-lie-vs
+ -this-is-war-frankfurt-am-main@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Thirty Seconds to Mars – A Beautiful Lie vs This Is War: Frankfu
+ rt am Main
+DESCRIPTION:Arena show celebrating two classic albums\nThirty Seconds to M
+ ars\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.thirtysec
+ ondstomars.com/tour
+LOCATION:Festhalle\, Frankfurt am Main
+URL:https://www.thirtysecondstomars.com/tour
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-18-berlin-thirty-seconds-to-mars-a-beautiful-lie-vs-this-is-wa
+ r-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Thirty Seconds to Mars – A Beautiful Lie vs This Is War: Berlin
+DESCRIPTION:Arena show celebrating two classic albums\nThirty Seconds to M
+ ars\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.thirtysec
+ ondstomars.com/tour
+LOCATION:Velodrom\, Berlin
+URL:https://www.thirtysecondstomars.com/tour
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-20-hannover-thirty-seconds-to-mars-a-beautiful-lie-vs-this-is-
+ war-hannover@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Thirty Seconds to Mars – A Beautiful Lie vs This Is War: Hannove
+ r
+DESCRIPTION:Arena show celebrating two classic albums\nThirty Seconds to M
+ ars\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.thirtysec
+ ondstomars.com/tour
+LOCATION:ZAG Arena\, Hannover
+URL:https://www.thirtysecondstomars.com/tour
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-21-koln-thirty-seconds-to-mars-a-beautiful-lie-vs-this-is-war-
+ koln@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270421T200000
+DTEND;TZID=Europe/Berlin:20270421T220000
+SUMMARY:Thirty Seconds to Mars – A Beautiful Lie vs This Is War: Köln
+DESCRIPTION:Arena show celebrating two classic albums\nThirty Seconds to M
+ ars\nHours: doors 19:00\, start 20:00\nPrice: from 89.25 EUR; box / premi
+ um from 132 EUR\nStatus: ok (official)\nhttps://www.thirtysecondstomars.c
+ om/tour
+LOCATION:LANXESS arena\, Willy-Brandt-Platz\, 50679 Köln
+URL:https://www.thirtysecondstomars.com/tour
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-05-nurnberg-thirty-seconds-to-mars-a-beautiful-lie-vs-this-is-
+ war-nurnberg@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Thirty Seconds to Mars – A Beautiful Lie vs This Is War: Nürnbe
+ rg
+DESCRIPTION:Arena show celebrating two classic albums\nThirty Seconds to M
+ ars\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.thirtysec
+ ondstomars.com/tour
+LOCATION:PSD Bank Arena\, Nürnberg
+URL:https://www.thirtysecondstomars.com/tour
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-06-stuttgart-thirty-seconds-to-mars-a-beautiful-lie-vs-this-is
+ -war-stuttgart@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Thirty Seconds to Mars – A Beautiful Lie vs This Is War: Stuttga
+ rt
+DESCRIPTION:Arena show celebrating two classic albums\nThirty Seconds to M
+ ars\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.thirtysec
+ ondstomars.com/tour
+LOCATION:Hanns-Martin-Schleyer-Halle\, Mercedesstraße 69\, 70372 Stuttgar
+ t
+URL:https://www.thirtysecondstomars.com/tour
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-bremen-unheilig-liebe-glaube-monster-tour-bremen@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Bremen (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:ÖVB-Arena\, Bremen
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-leipzig-unheilig-liebe-glaube-monster-tour-leipzig@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Leipzig
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:QUARTERBACK Immobilien ARENA\, Leipzig
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-leipzig-unheilig-liebe-glaube-monster-tour-leipzig@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Leipzig (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:QUARTERBACK Immobilien ARENA\, Leipzig
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-bamberg-unheilig-liebe-glaube-monster-tour-bamberg@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Bamberg (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:brose Arena\, Bamberg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-erfurt-unheilig-liebe-glaube-monster-tour-erfurt@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Erfurt
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Messe Erfurt\, Halle 1\, Erfurt
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-erfurt-unheilig-liebe-glaube-monster-tour-erfurt@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Erfurt
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Messe Erfurt\, Halle 1\, Erfurt
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-cottbus-unheilig-liebe-glaube-monster-tour-cottbus@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Cottbus (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Messe Cottbus\, Cottbus
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-magdeburg-unheilig-liebe-glaube-monster-tour-magdeburg@even
+ ts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Magdeburg
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:GETEC-Arena\, Magdeburg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-magdeburg-unheilig-liebe-glaube-monster-tour-magdeburg@even
+ ts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Magdeburg
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:GETEC-Arena\, Magdeburg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-koln-unheilig-liebe-glaube-monster-tour-koln@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Köln
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Lanxess Arena\, Willy-Brandt-Platz 3\, 50679 Köln
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-hannover-unheilig-liebe-glaube-monster-tour-hannover@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Hannover
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:ZAG Arena\, Hannover
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-rostock-unheilig-liebe-glaube-monster-tour-rostock@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Rostock (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:StadtHalle Rostock\, Rostock
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-dortmund-unheilig-liebe-glaube-monster-tour-dortmund@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Dortmund
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Westfalenhalle 1\, Dortmund
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-dortmund-unheilig-liebe-glaube-monster-tour-dortmund@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Dortmund
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Westfalenhalle 1\, Dortmund
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-frankfurt-am-main-unheilig-liebe-glaube-monster-tour-frankf
+ urt-am-main@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Frankfurt am Main
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Festhalle Messe Frankfurt\, Frankfurt am Main
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-koln-unheilig-liebe-glaube-monster-tour-koln@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Köln
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Lanxess Arena\, Willy-Brandt-Platz 3\, 50679 Köln
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-berlin-unheilig-liebe-glaube-monster-tour-berlin@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Berlin
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Uber Arena\, Uber-Platz 1\, 10243 Berlin
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-bremen-unheilig-liebe-glaube-monster-tour-bremen@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Bremen
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:ÖVB-Arena\, Bremen
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-munchen-unheilig-liebe-glaube-monster-tour-munchen@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: München
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Zenith – Die Kulturhalle\, Lilienthalallee 29\, 80939 München
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-munchen-unheilig-liebe-glaube-monster-tour-munchen@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: München (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Zenith – Die Kulturhalle\, Lilienthalallee 29\, 80939 München
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-zurich-unheilig-liebe-glaube-monster-tour-zurich@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Zürich
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Hallenstadion\, Wallisellenstrasse 45\, 8050 Zürich
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-kempten-unheilig-liebe-glaube-monster-tour-kempten@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Kempten
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:bigBOX ALLGÄU\, Kempten
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-hamburg-unheilig-liebe-glaube-monster-tour-hamburg@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Hamburg
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Barclays Arena\, Hellgrundweg 50\, 22525 Hamburg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-kiel-unheilig-liebe-glaube-monster-tour-kiel@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Kiel
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Wunderino Arena\, Kiel
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-kassel-unheilig-liebe-glaube-monster-tour-kassel@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Kassel (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Probonio Arena\, Kassel
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-berlin-unheilig-liebe-glaube-monster-tour-berlin@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Berlin
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Uber Arena\, Uber-Platz 1\, 10243 Berlin
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-lingen-ems-unheilig-liebe-glaube-monster-tour-lingen-ems@ev
+ ents-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Lingen (Ems) (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:EmslandArena\, Lingen (Ems)
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-stuttgart-unheilig-liebe-glaube-monster-tour-stuttgart@even
+ ts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Stuttgart
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Hanns-Martin-Schleyer-Halle\, Mercedesstraße 69\, 70372 Stuttgar
+ t
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-mannheim-unheilig-liebe-glaube-monster-tour-mannheim@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Mannheim
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:SAP Arena\, Xaver-Fuhr-Straße 150\, 68163 Mannheim
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-trier-unheilig-liebe-glaube-monster-tour-trier@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Trier
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:SWT Arena\, Trier
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-freiburg-im-breisgau-unheilig-liebe-glaube-monster-tour-fre
+ iburg-im-breisgau@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Freiburg im Breisgau
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:SICK-ARENA\, Freiburg im Breisgau
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-regensburg-unheilig-liebe-glaube-monster-tour-regensburg@ev
+ ents-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Regensburg
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:das Stadtwerk.Donau-Arena\, Regensburg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-wien-unheilig-liebe-glaube-monster-tour-wien@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Wien
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Wiener Stadthalle\, Roland-Rainer-Platz 1\, 1150 Wien
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-innsbruck-unheilig-liebe-glaube-monster-tour-innsbruck@even
+ ts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Innsbruck
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: ok (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Olympiahalle\, Innsbruck
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-30-solothurn-unheilig-liebe-glaube-monster-tour-solothurn@even
+ ts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Unheilig – Liebe Glaube Monster Tour: Solothurn (sold out)
+DESCRIPTION:Unheilig comeback tour\, arena show\nUnheilig\nHours: n/a\nPri
+ ce: n/a\nStatus: sold out (official)\nhttps://www.unheilig.com/dates/
+LOCATION:Kofmehl\, Solothurn
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-27-bochum-unheilig-meilenweit-tour-bochum@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Unheilig – Meilenweit Tour: Bochum
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:RuhrCongress Bochum\, Bochum
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-01-friedberg-hessen-unheilig-meilenweit-tour-friedberg-hessen@
+ events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Unheilig – Meilenweit Tour: Friedberg (Hessen)
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Friedberg Open-Air\, Friedberg (Hessen)
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-02-dresden-unheilig-meilenweit-tour-dresden@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Unheilig – Meilenweit Tour: Dresden
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Rudolf-Harbig-Stadion\, Lennéstraße 12\, 01069 Dresden
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-03-hannover-unheilig-meilenweit-tour-hannover@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Unheilig – Meilenweit Tour: Hannover
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:SPORTPARK Hannover\, Hannover
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-10-nurnberg-unheilig-meilenweit-tour-nurnberg@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Unheilig – Meilenweit Tour: Nürnberg
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Stadionpark\, Nürnberg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-17-kassel-unheilig-meilenweit-tour-kassel@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Unheilig – Meilenweit Tour: Kassel
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Messe Gelände Open Air\, Kassel
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-23-ludwigsburg-unheilig-meilenweit-tour-ludwigsburg@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Unheilig – Meilenweit Tour: Ludwigsburg
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:KSK Music Open\, Residenzschloss courtyard\, Ludwigsburg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-24-linz-unheilig-meilenweit-tour-linz@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Unheilig – Meilenweit Tour: Linz
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Domplatz\, Linz
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-25-launsdorf-unheilig-meilenweit-tour-launsdorf@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Unheilig – Meilenweit Tour: Launsdorf
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:VIERECK am Fuße der Burg Hochosterwitz\, Launsdorf
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-30-norderney-unheilig-meilenweit-tour-norderney@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Unheilig – Meilenweit Tour: Norderney (sold out)
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: sold out (official)\nhttps://www.unh
+ eilig.com/dates/
+LOCATION:Summertime@Norderney\, Norderney
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-31-norderney-unheilig-meilenweit-tour-norderney@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Unheilig – Meilenweit Tour: Norderney
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Summertime@Norderney\, Norderney
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-13-traunreut-unheilig-meilenweit-tour-traunreut@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Unheilig – Meilenweit Tour: Traunreut
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Bergflair Open-Air (Freibad Traunreut)\, Traunreut
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-14-coburg-unheilig-meilenweit-tour-coburg@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Unheilig – Meilenweit Tour: Coburg
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:HUK-COBURG open-air-sommer\, Schlossplatz\, Coburg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-21-rostock-unheilig-meilenweit-tour-rostock@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Unheilig – Meilenweit Tour: Rostock
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:IGA Park\, Rostock
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-22-osnabruck-unheilig-meilenweit-tour-osnabruck@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Unheilig – Meilenweit Tour: Osnabrück
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Schlossgarten Open Air\, Osnabrück
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-11-halle-saale-unheilig-meilenweit-tour-halle-saale@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Unheilig – Meilenweit Tour: Halle (Saale)
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Freilichtbühne Peißnitz\, Halle (Saale)
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-10-copenhagen-till-lindemann-world-tour-2027-copenhagen@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Till Lindemann – World Tour 2027: Copenhagen
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:K.B. Hallen\, Peter Bangs Vej 147\, 2000 Frederiksberg
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-12-rostock-till-lindemann-world-tour-2027-rostock@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Till Lindemann – World Tour 2027: Rostock
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:Stadthalle Rostock\, Rostock
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-15-munster-till-lindemann-world-tour-2027-munster@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Till Lindemann – World Tour 2027: Münster
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:MCC Halle Münsterland\, Albersloher Weg 32\, 48155 Münster
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-17-amsterdam-till-lindemann-world-tour-2027-amsterdam@events-s
+ earch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Till Lindemann – World Tour 2027: Amsterdam
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:AFAS Live\, Johan Cruijff Boulevard 590\, 1101 DS Amsterdam
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-23-antwerp-till-lindemann-world-tour-2027-antwerp@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Till Lindemann – World Tour 2027: Antwerp
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:Lotto Arena\, Schijnpoortweg 119\, 2170 Antwerpen
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-26-mannheim-till-lindemann-world-tour-2027-mannheim@events-sea
+ rch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:Till Lindemann – World Tour 2027: Mannheim
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:SAP Arena\, Xaver-Fuhr-Straße 150\, 68163 Mannheim
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-28-oberhausen-till-lindemann-world-tour-2027-oberhausen@events
+ -search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:Till Lindemann – World Tour 2027: Oberhausen
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:Rudolf Weber-Arena\, Arenapark 1\, 46047 Oberhausen
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-30-kassel-till-lindemann-world-tour-2027-kassel@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Till Lindemann – World Tour 2027: Kassel
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:Probonio Arena\, Kassel
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-alsfeld-eisbrecher-kaltfront-show-2026-alsfeld@events-searc
+ h
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261121T220000
+SUMMARY:Eisbrecher – Kaltfront Show 2026: Alsfeld
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 20:00\nPrice: n/a
+ \nStatus: ok (eventim.de)\nhttps://www.eventim.de/en/cityd/alsfeld-2710/k
+ onzerte-1/
+LOCATION:Hessenhalle Alsfeld\, An der Hessenhalle 1\, 36304 Alsfeld
+URL:https://www.eventim.de/en/cityd/alsfeld-2710/konzerte-1/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-oberhausen-eisbrecher-special-guests-jahresabschlusskonzert
+ -oberhausen@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Eisbrecher + Special Guests – Jahresabschlusskonzert: Oberhausen
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: ok (eventim.de)\nhttps://www.eventim.de/event/eisbrecher-turbinen
+ halle-21921098/
+LOCATION:Turbinenhalle\, Im Lipperfeld 23\, 46047 Oberhausen
+URL:https://www.eventim.de/event/eisbrecher-turbinenhalle-21921098/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-09-strasbourg-eisbrecher-propaganda-tour-2027-strasbourg@event
+ s-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Strasbourg (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:La Laiterie\, Strasbourg
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-13-paris-eisbrecher-propaganda-tour-2027-paris@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Paris (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:Elysée Montmartre\, 72 Boulevard de Rochechouart\, 75018 Paris
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-15-rennes-eisbrecher-propaganda-tour-2027-rennes@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Rennes (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:Antipode\, Rennes
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-24-wiesbaden-eisbrecher-propaganda-tour-2027-wiesbaden@events-
+ search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270924T200000
+DTEND;TZID=Europe/Berlin:20270924T220000
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Wiesbaden (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 20:00\nPrice: n/a
+ \nStatus: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/ei
+ sbrecher-tour-dates
+LOCATION:Kulturzentrum Schlachthof\, Wiesbaden
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-25-hannover-eisbrecher-propaganda-tour-2027-hannover@events-se
+ arch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270925T200000
+DTEND;TZID=Europe/Berlin:20270925T220000
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Hannover (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 20:00\nPrice: n/a
+ \nStatus: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/ei
+ sbrecher-tour-dates
+LOCATION:Swiss Life Hall\, Hannover
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-01-munchen-eisbrecher-propaganda-tour-2027-munchen@events-sear
+ ch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20271001T200000
+DTEND;TZID=Europe/Berlin:20271001T220000
+SUMMARY:Eisbrecher – Propaganda Tour 2027: München
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 20:00-23:00\nPric
+ e: n/a\nStatus: ok (in-muenchen.de)\nhttps://www.in-muenchen.de/?p=109187
+ 5
+LOCATION:Circus Krone\, Marsstraße 43\, 80335 München
+URL:https://www.in-muenchen.de/?p=1091875
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-02-munchen-eisbrecher-propaganda-tour-2027-munchen@events-sear
+ ch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20271002T200000
+DTEND;TZID=Europe/Berlin:20271002T220000
+SUMMARY:Eisbrecher – Propaganda Tour 2027: München
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 20:00-23:00\nPric
+ e: n/a\nStatus: ok (in-muenchen.de)\nhttps://www.in-muenchen.de/?p=109187
+ 5
+LOCATION:Circus Krone\, Marsstraße 43\, 80335 München
+URL:https://www.in-muenchen.de/?p=1091875
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-08-dresden-eisbrecher-propaganda-tour-2027-dresden@events-sear
+ ch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Dresden (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:Alter Schlachthof\, Dresden
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-09-ludwigsburg-eisbrecher-propaganda-tour-2027-ludwigsburg@eve
+ nts-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Ludwigsburg (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:MHPArena Club\, Ludwigsburg
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-15-leipzig-eisbrecher-propaganda-tour-2027-leipzig@events-sear
+ ch
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Leipzig (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:Haus Auensee\, Leipzig
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-16-hamburg-eisbrecher-propaganda-tour-2027-hamburg@events-sear
+ ch
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20271016T190000
+DTEND;TZID=Europe/Berlin:20271016T210000
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Hamburg
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 19:00\nPrice: n/a
+ \nStatus: ok (hamburg-tourism.de)\nhttps://www.hamburg-tourism.de/sehen-e
+ rleben/veranstaltungen/veranstaltungskalender/eisbrecher-propaganda-tourn
+ ee-2027-special-guest/
+LOCATION:Inselpark Arena (edel-optics.de Arena)\, Kurt-Emmerich-Platz 10\,
+  21109 Hamburg
+URL:https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/veranstal
+ tungskalender/eisbrecher-propaganda-tournee-2027-special-guest/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-22-berlin-eisbrecher-propaganda-tour-2027-berlin@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Berlin (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:Columbiahalle\, Columbiadamm 13-21\, 10965 Berlin
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-23-bochum-eisbrecher-propaganda-tour-2027-bochum@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Bochum (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: n/a\nPrice: n/a\n
+ Status: unconfirmed (concerts50.com)\nhttps://concerts50.com/artists/eisb
+ recher-tour-dates
+LOCATION:RuhrCongress (Congress Saal)\, Bochum
+URL:https://concerts50.com/artists/eisbrecher-tour-dates
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-29-graz-eisbrecher-propaganda-tour-2027-graz@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20271029T200000
+DTEND;TZID=Europe/Berlin:20271029T220000
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Graz (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 20:00\nPrice: n/a
+ \nStatus: unconfirmed (regioactive.de)\nhttps://ms-aktuell.de/welt/eisbre
+ cher-propaganda-tour-06-10-2026/
+LOCATION:Graz\, Graz
+URL:https://ms-aktuell.de/welt/eisbrecher-propaganda-tour-06-10-2026/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-31-zurich-eisbrecher-propaganda-tour-2027-zurich@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20271031T190000
+DTEND;TZID=Europe/Berlin:20271031T210000
+SUMMARY:Eisbrecher – Propaganda Tour 2027: Zürich (unconfirmed)
+DESCRIPTION:Eisbrecher headline show\nEisbrecher\nHours: 19:00\nPrice: n/a
+ \nStatus: unconfirmed (ms-aktuell.de)\nhttps://ms-aktuell.de/welt/eisbrec
+ her-propaganda-tour-06-10-2026/
+LOCATION:Volkshaus Zürich\, Stauffacherstrasse 60\, 8004 Zürich
+URL:https://ms-aktuell.de/welt/eisbrecher-propaganda-tour-06-10-2026/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-osnabruck-stahlmann-schwarz-wie-der-tod-tour-2026-osnabruck
+ @events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T193000
+DTEND;TZID=Europe/Berlin:20261120T213000
+SUMMARY:Stahlmann – Schwarz wie der Tod Tour 2026: Osnabrück
+DESCRIPTION:Stahlmann club show\nStahlmann\nHours: 19:30\nPrice: n/a\nStat
+ us: ok (regioactive.de)\nhttps://www.eventim.de/en/artist/stahlmann/stahl
+ mann-schwarz-wie-der-tod-tour-2026-4109097/
+LOCATION:Hyde Park\, Osnabrück
+URL:https://www.eventim.de/en/artist/stahlmann/stahlmann-schwarz-wie-der-t
+ od-tour-2026-4109097/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-viersen-stahlmann-schwarz-wie-der-tod-tour-2026-viersen@eve
+ nts-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T213000
+DTEND;TZID=Europe/Berlin:20261127T233000
+SUMMARY:Stahlmann – Schwarz wie der Tod Tour 2026: Viersen
+DESCRIPTION:Stahlmann club show\nStahlmann\nHours: 21:30\nPrice: n/a\nStat
+ us: ok (regioactive.de)\nhttps://www.eventim.de/en/artist/stahlmann/stahl
+ mann-schwarz-wie-der-tod-tour-2026-4109097/
+LOCATION:Rockschicht\, Viersen
+URL:https://www.eventim.de/en/artist/stahlmann/stahlmann-schwarz-wie-der-t
+ od-tour-2026-4109097/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-forst-lausitz-stahlmann-schwarz-wie-der-tod-tour-2026-forst
+ -lausitz@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261205T210000
+DTEND;TZID=Europe/Berlin:20261205T230000
+SUMMARY:Stahlmann – Schwarz wie der Tod Tour 2026: Forst (Lausitz)
+DESCRIPTION:Stahlmann club show\nStahlmann\nHours: 21:00\nPrice: n/a\nStat
+ us: ok (regioactive.de)\nhttps://www.eventim.de/en/artist/stahlmann/stahl
+ mann-schwarz-wie-der-tod-tour-2026-4109097/
+LOCATION:MANITU Liveclub\, Forst (Lausitz)
+URL:https://www.eventim.de/en/artist/stahlmann/stahlmann-schwarz-wie-der-t
+ od-tour-2026-4109097/
+CATEGORIES:industrial,metal
 END:VEVENT
 END:VCALENDAR

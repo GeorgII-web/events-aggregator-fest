@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-21-alsfeld-eisbrecher-kaltfront-show-2026-alsfeld",
+ "name": "Eisbrecher – Kaltfront Show 2026: Alsfeld",
+ "description": "Eisbrecher headline show",
+ "start": "2026-11-21",
+ "end": "2026-11-21",
+ "hours": "20:00",
+ "place": "Hessenhalle Alsfeld",
+ "address": "An der Hessenhalle 1, 36304 Alsfeld",
+ "city": "Alsfeld",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.eventim.de/en/cityd/alsfeld-2710/konzerte-1/",
+ "source": "eventim.de",
+ "details": "One-off hall show in the Alles auf Laut series, listed on Eventim; face value not found.",
+ "bands": [
+  "Eisbrecher"
+ ],
+ "tags": [
+  "industrial",
+  "metal"
+ ],
+ "note": "Eisbrecher",
+ "checked": "2026-11-01",
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T18:53:43.144Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eisbrecher+%E2%80%93+Kaltfront+Show+2026%3A+Alsfeld&dates=20261121T200000%2F20261121T220000&details=Eisbrecher+headline+show%0AEisbrecher%0AHours%3A+20%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28eventim.de%29%0Ahttps%3A%2F%2Fwww.eventim.de%2Fen%2Fcityd%2Falsfeld-2710%2Fkonzerte-1%2F&location=Hessenhalle+Alsfeld%2C+An+der+Hessenhalle+1%2C+36304+Alsfeld&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=An%20der%20Hessenhalle%201%2C%2036304%20Alsfeld",
+ "priceValue": null
+}
