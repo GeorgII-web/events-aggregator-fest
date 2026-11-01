@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Big festivals abroad</title>
+<title>Big festivals</title>
 <base target="_blank">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -33,8 +33,8 @@ body{background:var(--bs-tertiary-bg)}
 <button type="button" class="btn btn-sm btn-light" id="signin" disabled><i class="bi bi-google"></i> Sign in</button>
 <div class="dropdown d-none" id="user"><button type="button" class="btn btn-sm btn-light dropdown-toggle d-flex align-items-center gap-2" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Account"><img id="avatar" class="rounded-circle d-none" width="22" height="22" alt="" referrerpolicy="no-referrer"><i class="bi bi-person-circle" id="noavatar"></i><span id="uname" class="text-truncate" style="max-width:10rem"></span></button>
 <ul class="dropdown-menu dropdown-menu-end shadow"><li><span class="dropdown-item-text small text-body-secondary" id="umail"></span></li><li><hr class="dropdown-divider"></li><li><button type="button" class="dropdown-item" id="signout"><i class="bi bi-box-arrow-right"></i> Sign out</button></li></ul></div></div>
-<h1 class="display-6 fw-semibold mb-1"><i class="bi bi-calendar2-heart"></i> Big festivals abroad</h1>
-<p class="lead mb-2">Festivals in other countries worth the trip</p>
+<h1 class="display-6 fw-semibold mb-1"><i class="bi bi-calendar2-heart"></i> Big festivals</h1>
+<p class="lead mb-2">Festivals worth the trip</p>
 <div class="d-flex flex-wrap gap-2 align-items-center small">
 <a class="btn btn-light btn-sm" href="events.ics" data-bs-toggle="tooltip" data-bs-title="Calendar feed with all events of up to 3 days; longer ones (exhibitions, month-long markets) are not in it, add them with their own Add button. Subscribe to the URL to get updates automatically"><i class="bi bi-calendar-plus"></i> Subscribe (.ics)</a>
 <span class="opacity-75 text-break">Google Calendar → From URL: <code class="user-select-all">https://georgii-web.github.io/events-aggregator-fest/events.ics</code></span>
@@ -2267,7 +2267,7 @@ body{background:var(--bs-tertiary-bg)}
 </div></div>
 <div class="list-group-item text-center text-body-secondary py-4 empty d-none"><i class="bi bi-funnel"></i> No events match the filters.</div>
 </div></div></section>
-<p class="small text-body-secondary mb-5"><i class="bi bi-info-circle"></i> "unconfirmed" = seen on an aggregator only, check the event page before going.</p>
+<p class="small text-body-secondary mb-5 d-flex flex-wrap align-items-baseline column-gap-3 row-gap-1"><span><i class="bi bi-info-circle"></i> "unconfirmed" = <span class="d-none d-sm-inline">seen on an </span>aggregator only<span class="d-none d-sm-inline">, check the event page before going</span>.</span><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none text-nowrap" id="cookieset"><i class="bi bi-cookie"></i> <span class="d-sm-none">Cookies</span><span class="d-none d-sm-inline">Cookie settings</span></button></p>
 </main>
 <script>
 const $=id=>document.getElementById(id), F={from:$('from'),to:$('to'),city:$('city'),free:$('free'),min:$('min'),max:$('max'),unk:$('unk'),nw:$('newonly'),fav:$('favonly'),txt:$('txt')};
@@ -2379,8 +2379,7 @@ const hideAll=x=>tt.forEach(t=>{if(t!==x)t.hide()});
 document.addEventListener('show.bs.tooltip',e=>hideAll(bootstrap.Tooltip.getInstance(e.target)));
 ['click','scroll','touchstart'].forEach(ev=>addEventListener(ev,()=>hideAll(),{passive:true,capture:true}))}
 addEventListener('DOMContentLoaded',initTips);
-</script><div class="container small mb-4"><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none" id="cookieset"><i class="bi bi-cookie"></i> Cookie settings</button></div>
-<div class="position-fixed bottom-0 start-0 end-0 p-3 d-none" id="consent" style="z-index:1090" role="dialog" aria-label="Cookie consent"><div class="card shadow-lg mx-auto" style="max-width:38rem"><div class="card-body">
+</script><div class="position-fixed bottom-0 start-0 end-0 p-3 d-none" id="consent" style="z-index:1090" role="dialog" aria-label="Cookie consent"><div class="card shadow-lg mx-auto" style="max-width:38rem"><div class="card-body">
 <h2 class="h6"><i class="bi bi-cookie"></i> Cookies and sign-in</h2>
 <p class="small mb-2">Your favorites, saved filters and this choice are kept in cookies in this browser only; the site needs them for these features. No tracking, no ads.</p>
 <p class="small mb-3">With <b>Accept</b> you can also sign in with Google: your name, e-mail, picture, favorites and saved filters are then stored in Google Firebase to sync them between devices. <b>Necessary only</b> keeps everything in this browser and turns sign-in off. Change it any time under "Cookie settings" at the bottom of the page.</p>
