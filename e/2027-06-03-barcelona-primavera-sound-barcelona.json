@@ -27,8 +27,42 @@
  "dateNote": "full run 2-6 Jun",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "bands": [
+     null,
+     [
+      "Doechii",
+      "Phoebe Bridgers",
+      "Fontaines D.C.",
+      "Massive Attack",
+      "Turnstile",
+      "FKA twigs",
+      "The Chemical Brothers",
+      "Robyn",
+      "Pavement",
+      "Skrillex"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "Doechii",
+  "Phoebe Bridgers",
+  "Fontaines D.C.",
+  "Massive Attack",
+  "Turnstile",
+  "FKA twigs",
+  "The Chemical Brothers",
+  "Robyn",
+  "Pavement",
+  "Skrillex"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

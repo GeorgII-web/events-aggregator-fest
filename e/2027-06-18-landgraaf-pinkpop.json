@@ -21,14 +21,64 @@
   "open-air",
   "pop",
   "rock",
-  "electronic",
-  "prodigy"
+  "electronic"
  ],
  "note": "THE PRODIGY (Fri 18 June)",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "tags": [
+     [
+      "music-festival",
+      "open-air",
+      "pop",
+      "rock",
+      "electronic",
+      "prodigy"
+     ],
+     [
+      "music-festival",
+      "open-air",
+      "pop",
+      "rock",
+      "electronic"
+     ]
+    ],
+    "bands": [
+     null,
+     [
+      "The Prodigy",
+      "blink-182",
+      "Mumford & Sons",
+      "RAYE",
+      "Royal Blood",
+      "Bastille",
+      "Sting",
+      "Foals",
+      "Turnstile",
+      "5 Seconds of Summer"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "The Prodigy",
+  "blink-182",
+  "Mumford & Sons",
+  "RAYE",
+  "Royal Blood",
+  "Bastille",
+  "Sting",
+  "Foals",
+  "Turnstile",
+  "5 Seconds of Summer"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

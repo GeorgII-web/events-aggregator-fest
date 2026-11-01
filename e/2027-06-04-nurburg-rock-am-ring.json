@@ -20,16 +20,60 @@
   "open-air",
   "rock",
   "metal",
-  "punk",
-  "prodigy",
-  "bring-me-the-horizon"
+  "punk"
  ],
  "note": "THE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182, Die Toten Hosen",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.222Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "tags": [
+     [
+      "music-festival",
+      "open-air",
+      "rock",
+      "metal",
+      "punk",
+      "prodigy",
+      "bring-me-the-horizon"
+     ],
+     [
+      "music-festival",
+      "open-air",
+      "rock",
+      "metal",
+      "punk"
+     ]
+    ],
+    "bands": [
+     null,
+     [
+      "The Prodigy",
+      "Bring Me The Horizon",
+      "blink-182",
+      "Die Toten Hosen",
+      "Parkway Drive",
+      "Turnstile",
+      "Faith No More"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "The Prodigy",
+  "Bring Me The Horizon",
+  "blink-182",
+  "Die Toten Hosen",
+  "Parkway Drive",
+  "Turnstile",
+  "Faith No More"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

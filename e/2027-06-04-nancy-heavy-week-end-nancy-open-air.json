@@ -16,7 +16,6 @@
  "source": "official",
  "details": "Marilyn Manson headlines Sunday 6 June with Slash feat. Myles Kennedy, The Cult and Jayler. Friday: Helloween, Amon Amarth, Kreator; Saturday: Falling in Reverse. 3-day passes on sale, day tickets coming.",
  "tags": [
-  "marilyn-manson",
   "metal",
   "rock",
   "industrial",
@@ -27,8 +26,55 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.295Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "tags": [
+     [
+      "marilyn-manson",
+      "metal",
+      "rock",
+      "industrial",
+      "music-festival",
+      "open-air"
+     ],
+     [
+      "metal",
+      "rock",
+      "industrial",
+      "music-festival",
+      "open-air"
+     ]
+    ],
+    "bands": [
+     null,
+     [
+      "Marilyn Manson",
+      "Slash",
+      "The Cult",
+      "Jayler",
+      "Helloween",
+      "Amon Amarth",
+      "Kreator",
+      "Falling in Reverse"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "Marilyn Manson",
+  "Slash",
+  "The Cult",
+  "Jayler",
+  "Helloween",
+  "Amon Amarth",
+  "Kreator",
+  "Falling in Reverse"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

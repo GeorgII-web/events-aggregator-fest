@@ -25,8 +25,30 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.222Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "bands": [
+     null,
+     [
+      "The Neighbourhood",
+      "Tokio Hotel",
+      "Fontaines D.C.",
+      "Judas Priest"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "The Neighbourhood",
+  "Tokio Hotel",
+  "Fontaines D.C.",
+  "Judas Priest"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

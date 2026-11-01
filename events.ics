@@ -175,8 +175,7 @@ DESCRIPTION:Germany's biggest rock festival at the Nürburgring race track
  nly\nStatus: ok (official)\nhttps://www.rock-am-ring.com/
 LOCATION:Nürburgring\, 53520 Nürburg
 URL:https://www.rock-am-ring.com/
-CATEGORIES:music-festival,open-air,rock,metal,punk,prodigy,bring-me-the-ho
- rizon
+CATEGORIES:music-festival,open-air,rock,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nuremberg-rock-im-park@events-search
@@ -190,8 +189,7 @@ DESCRIPTION:Twin festival of Rock am Ring at Nuremberg Zeppelinfeld\nTHE P
   (official)\nhttps://www.rock-im-park.com/
 LOCATION:Zeppelinfeld\, Nürnberg
 URL:https://www.rock-im-park.com/
-CATEGORIES:music-festival,open-air,rock,metal,punk,prodigy,bring-me-the-ho
- rizon
+CATEGORIES:music-festival,open-air,rock,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-scheessel-hurricane-festival@events-search
@@ -258,7 +256,7 @@ DESCRIPTION:Polish metal festival moving to new Letnica site\nMARILYN MANS
  ival.pl/en/
 LOCATION:Letnica (Polsat Plus Arena grounds)\, Gdańsk
 URL:https://www.mysticfestival.pl/en/
-CATEGORIES:music-festival,open-air,metal,marilyn-manson
+CATEGORIES:music-festival,open-air,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-13-eindhoven-dynamo-metalfest@events-search
@@ -311,7 +309,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
  no/en/arrangementer/the-prodigy/
 LOCATION:Unity Arena\, Oslo
 URL:https://unityarena.no/en/arrangementer/the-prodigy/
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-stockholm-the-prodigy-european-tour-2026-stockholm@events-s
@@ -325,7 +323,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
  s://aviciiarena.se/en/events/music-show/the-prodigy/
 LOCATION:Avicii Arena\, Globentorget 2\, 121 77 Johanneshov\, Stockholm
 URL:https://aviciiarena.se/en/events/music-show/the-prodigy/
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-copenhagen-the-prodigy-european-tour-2026-copenhagen@events
@@ -339,7 +337,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
  ena.dk/en/all-events/the-prodigy-tickets-ae8441
 LOCATION:Royal Arena\, Hannemanns Allé 18\, 2300 København S
 URL:https://www.royalarena.dk/en/all-events/the-prodigy-tickets-ae8441
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-dusseldorf-the-prodigy-european-tour-2026-dusseldorf@events
@@ -356,7 +354,7 @@ LOCATION:Mitsubishi Electric Halle\, Siegburger Str. 15\, 40591 Düsseldor
  f
 URL:https://www.eventim.de/event/the-prodigy-mitsubishi-electric-halle-214
  95202/
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-stuttgart-the-prodigy-european-tour-2026-stuttgart@events-s
@@ -373,7 +371,7 @@ LOCATION:Hanns-Martin-Schleyer-Halle\, Mercedesstraße 69\, 70372 Stuttgar
  t
 URL:https://www.eventim.de/event/the-prodigy-hanns-martin-schleyer-halle-2
  1497078/
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-berlin-the-prodigy-european-tour-2026-berlin@events-search
@@ -388,7 +386,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
 LOCATION:Velodrom\, Paul-Heyse-Straße 26\, 10407 Berlin
 URL:https://www.berlin.de/en/tickets/electronic-dance/the-prodigy-the-euro
  pean-tour-2026-14456dcf-cd6b-4bcb-9fb6-b2339fb34f06/
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-prague-the-prodigy-european-tour-2026-prague@events-search
@@ -401,7 +399,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
  n.cz/event/the-prodigy-prague-tickets-edp1663140
 LOCATION:O2 arena\, Českomoravská 2345/17a\, 190 00 Praha 9
 URL:https://www.livenation.cz/event/the-prodigy-prague-tickets-edp1663140
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-vienna-the-prodigy-european-tour-2026-vienna@events-search
@@ -414,7 +412,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
  nhttps://www.barracudamusic.at/71498/
 LOCATION:Wiener Stadthalle\, Halle D\, Roland-Rainer-Platz 1\, 1150 Wien
 URL:https://www.barracudamusic.at/71498/
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-brussels-the-prodigy-european-tour-2026-brussels@events-sea
@@ -429,7 +427,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
 LOCATION:Forest National / Vorst Nationaal\, Avenue Victor Rousseau 208\, 
  1190 Forest (Brussels)
 URL:https://www.livenation.be/the-prodigy-brussels-edp1663290
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-amsterdam-the-prodigy-european-tour-2026-amsterdam@events-s
@@ -443,7 +441,7 @@ DESCRIPTION:The Prodigy arena headline show\, European tour 2026\nTHE PROD
  ter.nl/event/2090976842
 LOCATION:Ziggo Dome\, De Passage 100\, 1101 AX Amsterdam
 URL:https://www.ticketmaster.nl/event/2090976842
-CATEGORIES:prodigy,electronic,big-beat
+CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nancy-heavy-week-end-nancy-open-air@events-search
@@ -457,7 +455,7 @@ DESCRIPTION:Three-night open-air metal festival\, one stage\nMARILYN MANSO
 LOCATION:Nancy Open Air (Zénith de Nancy site)\, Rue du Zénith\, 54320 M
  axéville
 URL:https://www.heavyweekend.live/
-CATEGORIES:marilyn-manson,metal,rock,industrial,music-festival,open-air
+CATEGORIES:metal,rock,industrial,music-festival,open-air
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-vitoria-gasteiz-azkena-rock-festival-25th-edition@events-se
@@ -471,7 +469,7 @@ DESCRIPTION:Rock festival in the Basque Country\, 25th anniversary\nMARILY
  atus: ok (official)\nhttps://www.azkenarockfestival.com/
 LOCATION:Mendizabala\, Vitoria-Gasteiz
 URL:https://www.azkenarockfestival.com/
-CATEGORIES:marilyn-manson,rock,metal,music-festival,open-air
+CATEGORIES:rock,metal,music-festival,open-air
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-barcelona-sonar-barcelona@events-search
@@ -563,7 +561,7 @@ DESCRIPTION:Oldest Dutch pop/rock festival\, The Prodigy on Friday\nTHE PR
  y 155 EUR\nStatus: ok (official)\nhttps://www.pinkpop.nl/
 LOCATION:Megaland\, Landgraaf
 URL:https://www.pinkpop.nl/
-CATEGORIES:music-festival,open-air,pop,rock,electronic,prodigy
+CATEGORIES:music-festival,open-air,pop,rock,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-17-berlin-lollapalooza-berlin@events-search

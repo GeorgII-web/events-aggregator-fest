@@ -26,8 +26,32 @@
  "note": "Tame Impala",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "bands": [
+     null,
+     [
+      "Tame Impala",
+      "Kacey Musgraves",
+      "Caroline Polachek",
+      "Patti Smith",
+      "Neurosis"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "Tame Impala",
+  "Kacey Musgraves",
+  "Caroline Polachek",
+  "Patti Smith",
+  "Neurosis"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

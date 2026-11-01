@@ -24,8 +24,30 @@
  "note": "Lost Frequencies, Steve Aoki",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "bands": [
+     null,
+     [
+      "Lost Frequencies",
+      "Steve Aoki",
+      "Don Diablo",
+      "BUNT."
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "Lost Frequencies",
+  "Steve Aoki",
+  "Don Diablo",
+  "BUNT."
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

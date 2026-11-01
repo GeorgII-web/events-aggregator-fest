@@ -16,7 +16,6 @@
  "source": "official",
  "details": "Third German headline date of the November 2026 tour; tickets still orderable.",
  "tags": [
-  "prodigy",
   "electronic",
   "big-beat"
  ],
@@ -24,8 +23,35 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.295Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "tags": [
+     [
+      "prodigy",
+      "electronic",
+      "big-beat"
+     ],
+     [
+      "electronic",
+      "big-beat"
+     ]
+    ],
+    "bands": [
+     null,
+     [
+      "The Prodigy"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "The Prodigy"
+ ],
  "topic": "festivals",
  "groups": [
   "electronic"

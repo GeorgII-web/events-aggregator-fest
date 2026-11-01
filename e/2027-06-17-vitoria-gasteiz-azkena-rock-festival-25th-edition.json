@@ -16,7 +16,6 @@
  "source": "official",
  "details": "Marilyn Manson is one of five headliners with Patti Smith, Bad Religion, Slash and Wilco; about 60 artists expected. His day is not announced yet.",
  "tags": [
-  "marilyn-manson",
   "rock",
   "metal",
   "music-festival",
@@ -26,8 +25,47 @@
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.295Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "tags": [
+     [
+      "marilyn-manson",
+      "rock",
+      "metal",
+      "music-festival",
+      "open-air"
+     ],
+     [
+      "rock",
+      "metal",
+      "music-festival",
+      "open-air"
+     ]
+    ],
+    "bands": [
+     null,
+     [
+      "Marilyn Manson",
+      "Patti Smith",
+      "Bad Religion",
+      "Slash",
+      "Wilco"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "Marilyn Manson",
+  "Patti Smith",
+  "Bad Religion",
+  "Slash",
+  "Wilco"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",

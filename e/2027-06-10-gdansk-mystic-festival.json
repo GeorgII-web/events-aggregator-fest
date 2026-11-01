@@ -18,15 +18,55 @@
  "tags": [
   "music-festival",
   "open-air",
-  "metal",
-  "marilyn-manson"
+  "metal"
  ],
  "note": "MARILYN MANSON (11 June); Faith No More, Helloween",
  "checked": "2026-11-01",
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T18:03:57.222Z",
- "history": [],
+ "updatedAt": "2026-11-01T18:48:58.905Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T18:48:58.905Z",
+   "changes": {
+    "tags": [
+     [
+      "music-festival",
+      "open-air",
+      "metal",
+      "marilyn-manson"
+     ],
+     [
+      "music-festival",
+      "open-air",
+      "metal"
+     ]
+    ],
+    "bands": [
+     null,
+     [
+      "Marilyn Manson",
+      "Faith No More",
+      "Helloween",
+      "Children of Bodom",
+      "Lorna Shore",
+      "Watain",
+      "Converge"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "Marilyn Manson",
+  "Faith No More",
+  "Helloween",
+  "Children of Bodom",
+  "Lorna Shore",
+  "Watain",
+  "Converge"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",
