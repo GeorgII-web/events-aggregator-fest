@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-27-weissenhauser-strand-metal-hammer-paradise",
+ "name": "Metal Hammer Paradise",
+ "description": "Indoor metal festival in a Baltic Sea holiday park",
+ "start": "2026-11-27",
+ "end": "2026-11-28",
+ "hours": "n/a",
+ "place": "Weissenhäuser Strand holiday park",
+ "address": "Seestraße 1, 23758 Wangels",
+ "city": "Weissenhäuser Strand",
+ "country": "Germany",
+ "price": "festival pass without accommodation about 167 EUR; packages with apartment",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.metal-hammer-paradise.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Two-day metal festival on three indoor stages in the Weissenhäuser Strand holiday park on the Baltic coast; most visitors book an apartment package.\n\nFriday: Kreator, The Halo Effect, Destruction, Tiamat, Freedom Call. Saturday: Doro, Knorkator, The New Roses, Sacred Reich, Unleashed, Flotsam and Jetsam. Pass price from hamburg-tourism.de; the ticket shop lists festival pass, day pass and VIP.",
+ "note": "Kreator, Doro, The Halo Effect",
+ "tags": [
+  "music-festival",
+  "metal"
+ ],
+ "bands": [
+  "Kreator",
+  "Doro",
+  "The Halo Effect",
+  "Destruction",
+  "Tiamat",
+  "Knorkator",
+  "Sacred Reich",
+  "Unleashed",
+  "Flotsam and Jetsam",
+  "The New Roses"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Metal+Hammer+Paradise&dates=20261127%2F20261129&details=Indoor+metal+festival+in+a+Baltic+Sea+holiday+park%0AKreator%2C+Doro%2C+The+Halo+Effect%0AHours%3A+n%2Fa%0APrice%3A+festival+pass+without+accommodation+about+167+EUR%3B+packages+with+apartment%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.metal-hammer-paradise.de%2F&location=Weissenh%C3%A4user+Strand+holiday+park%2C+Seestra%C3%9Fe+1%2C+23758+Wangels&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Seestra%C3%9Fe%201%2C%2023758%20Wangels",
+ "priceValue": 167
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2027-03-20-alpe-d-huez-tomorrowland-winter",
+ "name": "Tomorrowland Winter",
+ "description": "Ski week with Tomorrowland stages in Alpe d'Huez",
+ "start": "2027-03-20",
+ "end": "2027-03-27",
+ "hours": "n/a",
+ "place": "Alpe d'Huez ski resort",
+ "address": "38750 Huez (Alpe d'Huez), Isère",
+ "city": "Alpe d'Huez",
+ "country": "France",
+ "price": "n/a (7-day and 4-day packages and single festival passes)",
+ "size": "big",
+ "status": "unconfirmed",
+ "link": "https://winter.tomorrowland.com/",
+ "source": "edmidentity.com",
+ "checked": "2026-11-01",
+ "details": "Seventh edition of the winter edition of Tomorrowland: a week of skiing and electronic music stages on the slopes and in the resort. Packages include accommodation, a lift pass and festival access; 7-day packages went on sale 3 Oct 2026, 4-day packages and standalone tickets on 10 Oct 2026.\n\nLine-up not announced yet. The official site could not be read (JS only), the dates come from music press (edmidentity, weraveyou, djmag).",
+ "note": "line-up not out yet",
+ "tags": [
+  "music-festival",
+  "electronic",
+  "edm"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tomorrowland+Winter&dates=20270320%2F20270328&details=Ski+week+with+Tomorrowland+stages+in+Alpe+d%27Huez%0Aline-up+not+out+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%287-day+and+4-day+packages+and+single+festival+passes%29%0AStatus%3A+unconfirmed+%28edmidentity.com%29%0Ahttps%3A%2F%2Fwinter.tomorrowland.com%2F&location=Alpe+d%27Huez+ski+resort%2C+38750+Huez+%28Alpe+d%27Huez%29%2C+Is%C3%A8re&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=38750%20Huez%20(Alpe%20d'Huez)%2C%20Is%C3%A8re",
+ "priceValue": 7
+}

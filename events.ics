@@ -2234,4 +2234,129 @@ LOCATION:Karl-Marx-Allee (Strausberger Platz - Frankfurter Tor)\, Karl-Mar
 URL:https://www.bierfestival-berlin.de
 CATEGORIES:beer-festival,food-festival,city-festival
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-mannheim-time-warp-germany@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270405
+SUMMARY:Time Warp Germany
+DESCRIPTION:Techno marathon in the Maimarkthalle\, 19 hours on 5 floors\nR
+ hein-Neckar; line-up not out yet\nHours: Sat 19:00 - Sun 14:00\nPrice: n/
+ a (ticket shop shows off-sale\, presale not open yet)\nStatus: ok (offici
+ al)\nhttps://www.time-warp.de/
+LOCATION:Maimarkthalle (Maimarkt grounds)\, Xaver-Fuhr-Straße 101\, 68163
+  Mannheim
+URL:https://www.time-warp.de/
+CATEGORIES:music-festival,electronic,techno,rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-amsterdam-dgtl-amsterdam@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270329
+SUMMARY:DGTL Amsterdam
+DESCRIPTION:Electronic music festival in the NDSM docklands over Easter we
+ ekend\nEaster weekend; line-up not out yet\nHours: Fri 22-05\, Sat 12-23 
+ + 23-05\, Sun 13-23 + 23-05\nPrice: n/a (ticket sale starts end of 2026)\
+ nStatus: ok (official)\nhttps://dgtl-festival.com/en/dgtl-amsterdam/
+LOCATION:NDSM Docklands\, NDSM-Plein 85\, 1033 WC Amsterdam
+URL:https://dgtl-festival.com/en/dgtl-amsterdam/
+CATEGORIES:music-festival,electronic,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-30-dortmund-mayday@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270502
+SUMMARY:MAYDAY
+DESCRIPTION:Germany's classic big indoor rave\, 12 hours on four floors\nt
+ ickets on sale; line-up not out yet\nHours: 19:00 - 07:00\nPrice: 79 EUR 
+ (phase 2; Comfort 179 EUR)\nStatus: ok (official)\nhttps://www.mayday.de/
+LOCATION:Westfalenhallen\, Rheinlanddamm 200\, 44139 Dortmund
+URL:https://www.mayday.de/
+CATEGORIES:electronic,techno,rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-04-frankfurt-am-main-world-club-dome@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:World Club Dome
+DESCRIPTION:Big electronic festival in and around the Frankfurt football s
+ tadium\nBoris Brejcha (last German festival shows)\nHours: n/a\nPrice: n/
+ a (ticket shop linked\, no prices on the page)\nStatus: ok (official)\nht
+ tps://www.worldclubdome.com/
+LOCATION:Deutsche Bank Park\, Mörfelder Landstraße 362\, 60528 Frankfurt
+  am Main
+URL:https://www.worldclubdome.com/
+CATEGORIES:music-festival,electronic,edm,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-24-ysselsteyn-jera-on-air@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270627
+SUMMARY:Jera On Air
+DESCRIPTION:Punk\, hardcore and metalcore festival near the German border\
+ nLorna Shore\, Dropkick Murphys\, Simple Plan\nHours: n/a\nPrice: 3-day e
+ arly bird 219 EUR\, regular 239 EUR; camping extra\nStatus: ok (official)
+ \nhttps://www.jeraonair.nl/
+LOCATION:Jera On Air festival site\, Ysselsteyn (Venray)\, Limburg
+URL:https://www.jeraonair.nl/
+CATEGORIES:music-festival,open-air,punk,metalcore,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-02-turin-kappa-futurfestival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:Kappa FuturFestival
+DESCRIPTION:Open-air techno festival in a former industrial park in Turin\
+ nline-up not out yet\nHours: 12:00 - 24:00\nPrice: 3-day pass from 180 EU
+ R (tier 1)\nStatus: ok (official)\nhttps://www.kappafuturfestival.it/
+LOCATION:Parco Dora\, Turin
+URL:https://www.kappafuturfestival.it/
+CATEGORIES:music-festival,open-air,electronic,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-weissenhauser-strand-metal-hammer-paradise@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:Metal Hammer Paradise
+DESCRIPTION:Indoor metal festival in a Baltic Sea holiday park\nKreator\, 
+ Doro\, The Halo Effect\nHours: n/a\nPrice: festival pass without accommod
+ ation about 167 EUR; packages with apartment\nStatus: ok (official)\nhttp
+ s://www.metal-hammer-paradise.de/
+LOCATION:Weissenhäuser Strand holiday park\, Seestraße 1\, 23758 Wangels
+URL:https://www.metal-hammer-paradise.de/
+CATEGORIES:music-festival,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-karlsruhe-knock-out-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Knock Out Festival
+DESCRIPTION:One-day indoor heavy metal festival\nW.A.S.P.\, Queensrÿche\n
+ Hours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.knockout-festi
+ val.de/
+LOCATION:Schwarzwaldhalle\, Hermann-Levi-Platz 1\, 76137 Karlsruhe
+URL:https://www.knockout-festival.de/
+CATEGORIES:music-festival,metal,hard-rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-14-gelsenkirchen-rock-hard-festival@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270517
+SUMMARY:Rock Hard Festival
+DESCRIPTION:Metal festival in an open-air amphitheatre on Pentecost weeken
+ d\nPentecost; first bands confirmed\nHours: n/a\nPrice: 3 days about 155 
+ EUR\nStatus: ok (official)\nhttps://www.rockhard.de/rhfestival
+LOCATION:Amphitheater Gelsenkirchen\, Grothusstraße 201\, 45883 Gelsenkir
+ chen
+URL:https://www.rockhard.de/rhfestival
+CATEGORIES:music-festival,open-air,metal,rock
+END:VEVENT
 END:VCALENDAR

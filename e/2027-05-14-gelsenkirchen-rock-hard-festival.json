@@ -1,0 +1,38 @@
+{
+ "id": "2027-05-14-gelsenkirchen-rock-hard-festival",
+ "name": "Rock Hard Festival",
+ "description": "Metal festival in an open-air amphitheatre on Pentecost weekend",
+ "start": "2027-05-14",
+ "end": "2027-05-16",
+ "hours": "n/a",
+ "place": "Amphitheater Gelsenkirchen",
+ "address": "Grothusstraße 201, 45883 Gelsenkirchen",
+ "city": "Gelsenkirchen",
+ "country": "Germany",
+ "price": "3 days about 155 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.rockhard.de/rhfestival",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Three-day festival of the Rock Hard magazine in the amphitheatre on the Rhine-Herne Canal, about 7,000 visitors, camping next to the site.\n\nPresale has started and first bands are confirmed (names only in the official Spotify playlist, not on the page). Price from festivalhopper.de.",
+ "note": "Pentecost; first bands confirmed",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "metal",
+  "rock"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+Hard+Festival&dates=20270514%2F20270517&details=Metal+festival+in+an+open-air+amphitheatre+on+Pentecost+weekend%0APentecost%3B+first+bands+confirmed%0AHours%3A+n%2Fa%0APrice%3A+3+days+about+155+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rockhard.de%2Frhfestival&location=Amphitheater+Gelsenkirchen%2C+Grothusstra%C3%9Fe+201%2C+45883+Gelsenkirchen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Grothusstra%C3%9Fe%20201%2C%2045883%20Gelsenkirchen",
+ "priceValue": 3
+}

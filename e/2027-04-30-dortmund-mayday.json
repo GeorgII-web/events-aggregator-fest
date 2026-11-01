@@ -1,0 +1,36 @@
+{
+ "id": "2027-04-30-dortmund-mayday",
+ "name": "MAYDAY",
+ "description": "Germany's classic big indoor rave, 12 hours on four floors",
+ "start": "2027-04-30",
+ "end": "2027-05-01",
+ "hours": "19:00 - 07:00",
+ "place": "Westfalenhallen",
+ "address": "Rheinlanddamm 200, 44139 Dortmund",
+ "city": "Dortmund",
+ "country": "Germany",
+ "price": "79 EUR (phase 2; Comfort 179 EUR)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.mayday.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "MAYDAY, \"The Mother of All Raves\", runs on the night into 1 May in the Westfalenhallen Dortmund, from 19:00 to 07:00.\n\nTickets for 2027 are on sale: regular 79 EUR (the 69 EUR phase is sold out), Comfort 179 EUR with fast lane, locker and lounge, 5-person group 69 EUR each. Every ticket includes VRR public transport to and from the event. Line-up not out yet.",
+ "note": "tickets on sale; line-up not out yet",
+ "tags": [
+  "electronic",
+  "techno",
+  "rave"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MAYDAY&dates=20270430%2F20270502&details=Germany%27s+classic+big+indoor+rave%2C+12+hours+on+four+floors%0Atickets+on+sale%3B+line-up+not+out+yet%0AHours%3A+19%3A00+-+07%3A00%0APrice%3A+79+EUR+%28phase+2%3B+Comfort+179+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.mayday.de%2F&location=Westfalenhallen%2C+Rheinlanddamm+200%2C+44139+Dortmund&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rheinlanddamm%20200%2C%2044139%20Dortmund",
+ "priceValue": 79
+}

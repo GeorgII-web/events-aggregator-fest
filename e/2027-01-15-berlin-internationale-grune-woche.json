@@ -1,0 +1,39 @@
+{
+ "id": "2027-01-15-berlin-internationale-grune-woche",
+ "name": "Internationale Grüne Woche",
+ "description": "World's biggest food and farming fair, food from regions and countries",
+ "start": "2027-01-15",
+ "end": "2027-01-24",
+ "hours": "daily 10-18, Fri 22 Jan 10-20",
+ "place": "Messe Berlin",
+ "address": "Messedamm 22, 14055 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "day pass 17 EUR online (18 EUR on site), Mon-Fri after 14:00 12 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.gruenewoche.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Ten-day public food, farming and gardening fair in the Berlin exhibition halls: the Markthalle, German regions and the World-Tour halls with food and drink from many countries, flower hall and farm animals.\n\nDay pass 17 EUR online, Sunday pass 15 EUR, family ticket 39 EUR; cash is not accepted on site.",
+ "note": "tasting halls of German regions and countries",
+ "tags": [
+  "food-festival",
+  "food",
+  "beer",
+  "wine"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "beer",
+  "food"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Internationale+Gr%C3%BCne+Woche&dates=20270115%2F20270125&details=World%27s+biggest+food+and+farming+fair%2C+food+from+regions+and+countries%0Atasting+halls+of+German+regions+and+countries%0AHours%3A+daily+10-18%2C+Fri+22+Jan+10-20%0APrice%3A+day+pass+17+EUR+online+%2818+EUR+on+site%29%2C+Mon-Fri+after+14%3A00+12+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.gruenewoche.de%2F&location=Messe+Berlin%2C+Messedamm+22%2C+14055+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Messedamm%2022%2C%2014055%20Berlin",
+ "priceValue": 17
+}

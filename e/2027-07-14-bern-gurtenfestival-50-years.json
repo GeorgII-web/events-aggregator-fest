@@ -1,0 +1,41 @@
+{
+ "id": "2027-07-14-bern-gurtenfestival-50-years",
+ "name": "Gurtenfestival (50 years)",
+ "description": "Bern's big mixed-genre festival on the Gurten hill, 5 days for the 50th",
+ "start": "2027-07-14",
+ "end": "2027-07-18",
+ "hours": "n/a",
+ "place": "Gurten (Bern's local mountain)",
+ "address": "Gurten-Kulm, 3084 Wabern bei Bern",
+ "city": "Bern",
+ "country": "Switzerland",
+ "price": "n/a (5-day pass presale 4 Nov 2026, 4-day early bird 25 Nov 2026)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://gurtenfestival.ch/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Anniversary edition: the Gurtenfestival turns 50 and runs five days instead of four, with the Sunday back. 2026 drew a record 104,750 visitors (27,000 per sold-out day). Reached by funicular or on foot from Wabern; camping on the hill.\n\nTwo headliners are booked, the first act is revealed on 3 Dec 2026, the line-up in mid-December. Patent Ochsner play the Sunday. Ticket presale: 5-day passes from 4 Nov 2026 17:00, 4-day early bird from 25 Nov 2026.",
+ "note": "50th anniversary, 5 days; line-up from 3 Dec",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "rock"
+ ],
+ "bands": [
+  "Patent Ochsner"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gurtenfestival+%2850+years%29&dates=20270714%2F20270719&details=Bern%27s+big+mixed-genre+festival+on+the+Gurten+hill%2C+5+days+for+the+50th%0A50th+anniversary%2C+5+days%3B+line-up+from+3+Dec%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%285-day+pass+presale+4+Nov+2026%2C+4-day+early+bird+25+Nov+2026%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fgurtenfestival.ch%2F&location=Gurten+%28Bern%27s+local+mountain%29%2C+Gurten-Kulm%2C+3084+Wabern+bei+Bern&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gurten-Kulm%2C%203084%20Wabern%20bei%20Bern",
+ "priceValue": 5
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2027-07-02-turin-kappa-futurfestival",
+ "name": "Kappa FuturFestival",
+ "description": "Open-air techno festival in a former industrial park in Turin",
+ "start": "2027-07-02",
+ "end": "2027-07-04",
+ "hours": "12:00 - 24:00",
+ "place": "Parco Dora",
+ "address": "Parco Dora, Turin",
+ "city": "Turin",
+ "country": "Italy",
+ "price": "3-day pass from 180 EUR (tier 1)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.kappafuturfestival.it/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "14th edition of Italy's biggest electronic music festival, held between the steel structures of the former Fiat/Michelin sites in Parco Dora, noon to midnight each day, 18+.\n\nGeneral, VIP, Gold and group tickets are on sale; tier-1 three-day passes from 180 EUR (technoairlines.com, the official page shows no prices). Line-up not out yet.",
+ "note": "line-up not out yet",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic",
+  "techno"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kappa+FuturFestival&dates=20270702%2F20270705&details=Open-air+techno+festival+in+a+former+industrial+park+in+Turin%0Aline-up+not+out+yet%0AHours%3A+12%3A00+-+24%3A00%0APrice%3A+3-day+pass+from+180+EUR+%28tier+1%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.kappafuturfestival.it%2F&location=Parco+Dora%2C+Turin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Parco%20Dora%2C%20Turin",
+ "priceValue": 3
+}

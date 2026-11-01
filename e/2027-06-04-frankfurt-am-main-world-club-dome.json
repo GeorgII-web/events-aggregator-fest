@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-04-frankfurt-am-main-world-club-dome",
+ "name": "World Club Dome",
+ "description": "Big electronic festival in and around the Frankfurt football stadium",
+ "start": "2027-06-04",
+ "end": "2027-06-06",
+ "hours": "n/a",
+ "place": "Deutsche Bank Park",
+ "address": "Mörfelder Landstraße 362, 60528 Frankfurt am Main",
+ "city": "Frankfurt am Main",
+ "country": "Germany",
+ "price": "n/a (ticket shop linked, no prices on the page)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.worldclubdome.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "World Club Dome returns to the Deutsche Bank Park (Waldstadion) for three days of EDM, techno and hardstyle.\n\nConfirmed so far: Boris Brejcha, billed as his last festival shows in Germany before he retires in 2028, and an UNREAL takeover of all three days. Same weekend as Rock am Ring / Rock im Park.",
+ "note": "Boris Brejcha (last German festival shows)",
+ "tags": [
+  "music-festival",
+  "electronic",
+  "edm",
+  "techno"
+ ],
+ "bands": [
+  "Boris Brejcha"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=World+Club+Dome&dates=20270604%2F20270607&details=Big+electronic+festival+in+and+around+the+Frankfurt+football+stadium%0ABoris+Brejcha+%28last+German+festival+shows%29%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%28ticket+shop+linked%2C+no+prices+on+the+page%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.worldclubdome.com%2F&location=Deutsche+Bank+Park%2C+M%C3%B6rfelder+Landstra%C3%9Fe+362%2C+60528+Frankfurt+am+Main&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=M%C3%B6rfelder%20Landstra%C3%9Fe%20362%2C%2060528%20Frankfurt%20am%20Main",
+ "priceValue": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2027-03-26-amsterdam-dgtl-amsterdam",
+ "name": "DGTL Amsterdam",
+ "description": "Electronic music festival in the NDSM docklands over Easter weekend",
+ "start": "2027-03-26",
+ "end": "2027-03-28",
+ "hours": "Fri 22-05, Sat 12-23 + 23-05, Sun 13-23 + 23-05",
+ "place": "NDSM Docklands",
+ "address": "NDSM-Plein 85, 1033 WC Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "n/a (ticket sale starts end of 2026)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://dgtl-festival.com/en/dgtl-amsterdam/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "Techno and house festival on the former shipyard at NDSM, with a Friday night and day plus night sessions on Saturday and Sunday (Easter Sunday is 28 March).\n\nTicket sale opens at the end of 2026; tickets are sealed and sent to the main buyer on 24 March 2027, resale only via TicketSwap within 20% of the original price. Line-up not out yet.",
+ "note": "Easter weekend; line-up not out yet",
+ "tags": [
+  "music-festival",
+  "electronic",
+  "techno"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DGTL+Amsterdam&dates=20270326%2F20270329&details=Electronic+music+festival+in+the+NDSM+docklands+over+Easter+weekend%0AEaster+weekend%3B+line-up+not+out+yet%0AHours%3A+Fri+22-05%2C+Sat+12-23+%2B+23-05%2C+Sun+13-23+%2B+23-05%0APrice%3A+n%2Fa+%28ticket+sale+starts+end+of+2026%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fdgtl-festival.com%2Fen%2Fdgtl-amsterdam%2F&location=NDSM+Docklands%2C+NDSM-Plein+85%2C+1033+WC+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=NDSM-Plein%2085%2C%201033%20WC%20Amsterdam",
+ "priceValue": 2026
+}

@@ -1,0 +1,50 @@
+{
+ "id": "2027-06-24-ysselsteyn-jera-on-air",
+ "name": "Jera On Air",
+ "description": "Punk, hardcore and metalcore festival near the German border",
+ "start": "2027-06-24",
+ "end": "2027-06-26",
+ "hours": "n/a",
+ "place": "Jera On Air festival site",
+ "address": "Ysselsteyn (Venray), Limburg",
+ "city": "Ysselsteyn",
+ "country": "Netherlands",
+ "price": "3-day early bird 219 EUR, regular 239 EUR; camping extra",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.jeraonair.nl/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "33rd edition of \"Holland's finest Punk, Hardcore & Metalcore festival\" in Ysselsteyn, about an hour from Düsseldorf.\n\nAnnounced: Lorna Shore, Dropkick Murphys, Motionless In White, Simple Plan, The Interrupters, Comeback Kid, Fit For A King, grandson, Blood For Blood and more. Camping on site; prices from festivalhopper.de (the official page shows no prices).",
+ "note": "Lorna Shore, Dropkick Murphys, Simple Plan",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "punk",
+  "metalcore",
+  "metal"
+ ],
+ "bands": [
+  "Lorna Shore",
+  "Dropkick Murphys",
+  "Motionless In White",
+  "Simple Plan",
+  "The Interrupters",
+  "Comeback Kid",
+  "Fit For A King",
+  "grandson",
+  "Blood For Blood"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jera+On+Air&dates=20270624%2F20270627&details=Punk%2C+hardcore+and+metalcore+festival+near+the+German+border%0ALorna+Shore%2C+Dropkick+Murphys%2C+Simple+Plan%0AHours%3A+n%2Fa%0APrice%3A+3-day+early+bird+219+EUR%2C+regular+239+EUR%3B+camping+extra%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.jeraonair.nl%2F&location=Jera+On+Air+festival+site%2C+Ysselsteyn+%28Venray%29%2C+Limburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ysselsteyn%20(Venray)%2C%20Limburg",
+ "priceValue": 3
+}

@@ -1,0 +1,36 @@
+{
+ "id": "2027-02-26-munich-starkbierfest-am-nockherberg",
+ "name": "Starkbierfest am Nockherberg",
+ "description": "Munich's strong-beer season in the Paulaner beer hall",
+ "start": "2027-02-26",
+ "end": "2027-03-21",
+ "hours": "daily 12-24 (restaurant hours)",
+ "place": "Paulaner am Nockherberg",
+ "address": "Hochstraße 77, 81541 München",
+ "city": "Munich",
+ "country": "Germany",
+ "price": "n/a (presale via SNAPTICKET)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.paulaner-nockherberg.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "details": "The Starkbierfest is Munich's Lent beer festival: Salvator strong beer, brass bands and Bavarian food in the big Nockherberg hall, opened with the televised \"Derblecken\" political roast.\n\n2027 runs 26 Feb - 21 Mar; ticket presale has started via the SNAPTICKET shop linked on the official page.",
+ "note": "Salvator strong beer, 3 weeks",
+ "tags": [
+  "beer-festival",
+  "food-festival"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "beer",
+  "food"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Starkbierfest+am+Nockherberg&dates=20270226%2F20270322&details=Munich%27s+strong-beer+season+in+the+Paulaner+beer+hall%0ASalvator+strong+beer%2C+3+weeks%0AHours%3A+daily+12-24+%28restaurant+hours%29%0APrice%3A+n%2Fa+%28presale+via+SNAPTICKET%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.paulaner-nockherberg.com%2F&location=Paulaner+am+Nockherberg%2C+Hochstra%C3%9Fe+77%2C+81541+M%C3%BCnchen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hochstra%C3%9Fe%2077%2C%2081541%20M%C3%BCnchen",
+ "priceValue": null
+}

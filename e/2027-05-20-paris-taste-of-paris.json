@@ -1,0 +1,38 @@
+{
+ "id": "2027-05-20-paris-taste-of-paris",
+ "name": "Taste of Paris",
+ "description": "Top Paris chefs run pop-up restaurants under the Grand Palais glass roof",
+ "start": "2027-05-20",
+ "end": "2027-05-23",
+ "hours": "lunch and dinner sessions",
+ "place": "Grand Palais",
+ "address": "3 Avenue du Général Eisenhower, 75008 Paris",
+ "city": "Paris",
+ "country": "France",
+ "price": "2026: dated tickets from 25 EUR, VIP from 65 EUR",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://paris.tastefestivals.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "dateNote": "2027 not out; 2026 was 21-24 May",
+ "details": "Food festival where well-known and up-and-coming Paris chefs run temporary restaurants serving signature dishes in tasting portions, plus a producers' market, in lunch and dinner sessions.\n\nThe official site still shows the 2026 edition (21-24 May 2026); the 2027 dates here are last year's shifted to the same weekend.",
+ "note": "2027 dates not out",
+ "tags": [
+  "food-festival",
+  "food",
+  "wine"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.017Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Taste+of+Paris&dates=20270520%2F20270524&details=Top+Paris+chefs+run+pop-up+restaurants+under+the+Grand+Palais+glass+roof%0A2027+dates+not+out%0ADates%3A+2027+not+out%3B+2026+was+21-24+May%0AHours%3A+lunch+and+dinner+sessions%0APrice%3A+2026%3A+dated+tickets+from+25+EUR%2C+VIP+from+65+EUR%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fparis.tastefestivals.com%2F&location=Grand+Palais%2C+3+Avenue+du+G%C3%A9n%C3%A9ral+Eisenhower%2C+75008+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=3%20Avenue%20du%20G%C3%A9n%C3%A9ral%20Eisenhower%2C%2075008%20Paris",
+ "priceValue": 2026
+}
