@@ -2232,21 +2232,6 @@ URL:https://www.bierfestival-berlin.de
 CATEGORIES:beer-festival,food-festival,city-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-04-03-mannheim-time-warp-germany@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270405
-SUMMARY:Time Warp Germany
-DESCRIPTION:Techno marathon in the Maimarkthalle\, 19 hours on 5 floors\nR
- hein-Neckar; line-up not out yet\nHours: Sat 19:00 - Sun 14:00\nPrice: n/
- a (ticket shop shows off-sale\, presale not open yet)\nStatus: ok (offici
- al)\nhttps://www.time-warp.de/
-LOCATION:Maimarkthalle (Maimarkt grounds)\, Xaver-Fuhr-Straße 101\, 68163
-  Mannheim
-URL:https://www.time-warp.de/
-CATEGORIES:music-festival,electronic,techno,rave
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-03-26-amsterdam-dgtl-amsterdam@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270326
