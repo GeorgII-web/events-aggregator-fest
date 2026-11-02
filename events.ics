@@ -38,7 +38,7 @@ CATEGORIES:beer-festival,craft-beer,city-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-kortrijk-zythos-beer-festival-zbf@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:Zythos Beer Festival (ZBF) (no dates yet)
@@ -80,7 +80,7 @@ CATEGORIES:beer-festival,craft-beer
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-12-amsterdam-rollende-keukens@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270515
 SUMMARY:Rollende Keukens (unconfirmed)
@@ -97,7 +97,7 @@ CATEGORIES:street-food,food-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-25-bunol-la-tomatina@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270825T120000
 DTEND;TZID=Europe/Berlin:20270825T140000
 SUMMARY:La Tomatina (no dates yet)
@@ -111,7 +111,7 @@ CATEGORIES:food-festival,city-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-25-vienna-wiener-weinwandertag@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270927
 SUMMARY:Wiener Weinwandertag (no dates yet)
@@ -223,7 +223,7 @@ CATEGORIES:music-festival,open-air,rock,indie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-grafenhainichen-full-force@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Full Force (no dates yet)
@@ -477,7 +477,7 @@ CATEGORIES:rock,metal,music-festival,open-air
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-barcelona-sonar-barcelona@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270620
 SUMMARY:Sónar Barcelona (unconfirmed)
@@ -582,7 +582,7 @@ CATEGORIES:music-festival,open-air,pop,indie,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-16-paris-lollapalooza-paris@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270719
 SUMMARY:Lollapalooza Paris (no dates yet)
@@ -647,7 +647,7 @@ CATEGORIES:music-festival,open-air,indie,pop
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-27-zagreb-inmusic-festival@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270630
 SUMMARY:INmusic Festival (unconfirmed)
@@ -811,17 +811,14 @@ CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-berlin-placebo-30th-anniversary-tour-berlin@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20261116T200000
 DTEND;TZID=Europe/Berlin:20261116T220000
-SUMMARY:Placebo – 30th Anniversary Tour: Berlin (unconfirmed)
+SUMMARY:Placebo – 30th Anniversary Tour: Berlin
 DESCRIPTION:Placebo anniversary arena show\nPlacebo\nHours: 20:00\nPrice: 
- n/a\nStatus: unconfirmed (regioactive.de)\nhttps://www.regioactive.de/kon
- zert/placebo-30th-anniversary-tour-berlin-uber-arena-2026-11-16-txffT1KXf
- G
-LOCATION:Uber Arena\, Berlin
-URL:https://www.regioactive.de/konzert/placebo-30th-anniversary-tour-berli
- n-uber-arena-2026-11-16-txffT1KXfG
+ from 89.15 EUR\nStatus: ok (official)\nhttps://www.uber-arena.de/events
+LOCATION:Uber Arena\, Mercedes-Platz 1\, 10243 Berlin
+URL:https://www.uber-arena.de/events
 CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
@@ -2043,7 +2040,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-16-hamburg-eisbrecher-propaganda-tour-2027-hamburg@events-sear
  ch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20271016T190000
 DTEND;TZID=Europe/Berlin:20271016T210000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Hamburg
@@ -2221,7 +2218,7 @@ CATEGORIES:music-festival,open-air,rock,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-06-berlin-internationales-berliner-bierfestival@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270809
 SUMMARY:Internationales Berliner Bierfestival (no dates yet)
@@ -2358,5 +2355,20 @@ LOCATION:Amphitheater Gelsenkirchen\, Grothusstraße 201\, 45883 Gelsenkir
  chen
 URL:https://www.rockhard.de/rhfestival
 CATEGORIES:music-festival,open-air,metal,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-12-sulingen-reload-festival@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270815
+SUMMARY:Reload Festival
+DESCRIPTION:Metal and metalcore open air in Lower Saxony\nElectric Callboy
+ \, Heaven Shall Burn; Children of Bodom\nHours: n/a\nPrice: about 199 EUR
+  + fee (festivalhopper.de)\nStatus: ok (official)\nhttps://www.reload-fes
+ tival.de/reload-2027-das-naechste-kapitel-beginnt
+LOCATION:Reload festival site\, Sulingen
+URL:https://www.reload-festival.de/reload-2027-das-naechste-kapitel-beginn
+ t
+CATEGORIES:music-festival,open-air,metal
 END:VEVENT
 END:VCALENDAR

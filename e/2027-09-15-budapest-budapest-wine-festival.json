@@ -1,0 +1,36 @@
+{
+ "id": "2027-09-15-budapest-budapest-wine-festival",
+ "name": "Budapest Wine Festival",
+ "description": "Hungarian wine festival in Buda Castle",
+ "start": "2027-09-15",
+ "end": "2027-09-18",
+ "hours": "n/a",
+ "place": "Buda Castle",
+ "address": "Buda Castle, Budapest",
+ "city": "Budapest",
+ "country": "Hungary",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://aborfesztival.hu",
+ "source": "official",
+ "details": "Hungarian wineries pour wine in the Buda Castle courtyards above the Danube, with food stalls and concerts. The official site gives 15-18 Sep 2027 (Wednesday to Saturday); 2027 ticket prices not out yet. The 2026 edition was the 35th.",
+ "tags": [
+  "wine",
+  "food-festival"
+ ],
+ "note": "Buda Castle",
+ "checked": "2026-11-02",
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:43:55.346Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "wine",
+  "food"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Budapest+Wine+Festival&dates=20270915%2F20270919&details=Hungarian+wine+festival+in+Buda+Castle%0ABuda+Castle%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Faborfesztival.hu&location=Buda+Castle%2C+Budapest&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Buda%20Castle%2C%20Budapest",
+ "priceValue": null
+}
