@@ -2330,19 +2330,6 @@ URL:https://www.metal-hammer-paradise.de/
 CATEGORIES:music-festival,metal
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-12-karlsruhe-knock-out-festival@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:Knock Out Festival
-DESCRIPTION:One-day indoor heavy metal festival\nW.A.S.P.\, Queensrÿche\n
- Hours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.knockout-festi
- val.de/
-LOCATION:Schwarzwaldhalle\, Hermann-Levi-Platz 1\, 76137 Karlsruhe
-URL:https://www.knockout-festival.de/
-CATEGORIES:music-festival,metal,hard-rock
-END:VEVENT
-BEGIN:VEVENT
 UID:2027-05-14-gelsenkirchen-rock-hard-festival@events-search
 DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20270514
