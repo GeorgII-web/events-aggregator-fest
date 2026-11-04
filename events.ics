@@ -169,7 +169,7 @@ CATEGORIES:wine,city-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nurburg-rock-am-ring@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock am Ring
@@ -183,7 +183,7 @@ CATEGORIES:music-festival,open-air,rock,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nuremberg-rock-im-park@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock im Park
@@ -223,7 +223,7 @@ CATEGORIES:music-festival,open-air,rock,indie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-grafenhainichen-full-force@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Full Force (no dates yet)
@@ -237,20 +237,20 @@ CATEGORIES:music-festival,open-air,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-29-czaplinek-pol-and-rock-festival@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270801
 SUMMARY:Pol'and'Rock Festival (unconfirmed)
 DESCRIPTION:Huge free rock festival by Jurek Owsiak\, 33rd edition\nKula S
- haker\, Halestorm; venue TBA\nHours: n/a\nPrice: free\nStatus: unconfirme
- d (ebilet.pl)\nhttps://polandrockfestival.pl/
-LOCATION:Venue TBA (2025-26: Czaplinek-Broczyno airfield)\, Czaplinek
+ haker\, Halestorm\nHours: n/a\nPrice: free\nStatus: unconfirmed (ebilet.p
+ l)\nhttps://polandrockfestival.pl/
+LOCATION:Former airfield Czaplinek-Broczyno\, Czaplinek
 URL:https://polandrockfestival.pl/
 CATEGORIES:music-festival,open-air,rock,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-10-gdansk-mystic-festival@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270613
 SUMMARY:Mystic Festival
@@ -304,7 +304,7 @@ CATEGORIES:music-festival,open-air,pop
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-oslo-the-prodigy-european-tour-2026-oslo@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261114T180000
 DTEND;TZID=Europe/Berlin:20261114T200000
 SUMMARY:The Prodigy – European Tour 2026: Oslo
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-stockholm-the-prodigy-european-tour-2026-stockholm@events-s
  earch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261115T193000
 DTEND;TZID=Europe/Berlin:20261115T213000
 SUMMARY:The Prodigy – European Tour 2026: Stockholm
@@ -332,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-copenhagen-the-prodigy-european-tour-2026-copenhagen@events
  -search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261117T200000
 DTEND;TZID=Europe/Berlin:20261117T220000
 SUMMARY:The Prodigy – European Tour 2026: Copenhagen
@@ -346,7 +346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-dusseldorf-the-prodigy-european-tour-2026-dusseldorf@events
  -search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:The Prodigy – European Tour 2026: Düsseldorf
@@ -363,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-stuttgart-the-prodigy-european-tour-2026-stuttgart@events-s
  earch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Prodigy – European Tour 2026: Stuttgart
@@ -379,7 +379,7 @@ CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-berlin-the-prodigy-european-tour-2026-berlin@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 DTEND;TZID=Europe/Berlin:20261121T220000
 SUMMARY:The Prodigy – European Tour 2026: Berlin
@@ -394,7 +394,7 @@ CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-prague-the-prodigy-european-tour-2026-prague@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:The Prodigy – European Tour 2026: Prague
@@ -407,7 +407,7 @@ CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-vienna-the-prodigy-european-tour-2026-vienna@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261124T193000
 DTEND;TZID=Europe/Berlin:20261124T213000
 SUMMARY:The Prodigy – European Tour 2026: Vienna
@@ -421,7 +421,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-brussels-the-prodigy-european-tour-2026-brussels@events-sea
  rch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20261127T183000
 DTEND;TZID=Europe/Berlin:20261127T203000
 SUMMARY:The Prodigy – European Tour 2026: Brussels
@@ -436,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-amsterdam-the-prodigy-european-tour-2026-amsterdam@events-s
  earch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Prodigy – European Tour 2026: Amsterdam
@@ -449,7 +449,7 @@ CATEGORIES:electronic,big-beat
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nancy-heavy-week-end-nancy-open-air@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Heavy Week-End (Nancy Open Air)
@@ -464,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-vitoria-gasteiz-azkena-rock-festival-25th-edition@events-se
  arch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270620
 SUMMARY:Azkena Rock Festival (25th edition)
@@ -477,7 +477,7 @@ CATEGORIES:rock,metal,music-festival,open-air
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-barcelona-sonar-barcelona@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270620
 SUMMARY:Sónar Barcelona (unconfirmed)
@@ -556,7 +556,7 @@ CATEGORIES:music-festival,open-air,indie,electronic,rock
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-landgraaf-pinkpop@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Pinkpop
@@ -582,7 +582,7 @@ CATEGORIES:music-festival,open-air,pop,indie,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-16-paris-lollapalooza-paris@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270719
 SUMMARY:Lollapalooza Paris (no dates yet)
@@ -608,7 +608,7 @@ CATEGORIES:music-festival,open-air,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-08-trencin-pohoda@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270711
 SUMMARY:Pohoda
@@ -647,7 +647,7 @@ CATEGORIES:music-festival,open-air,indie,pop
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-27-zagreb-inmusic-festival@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270630
 SUMMARY:INmusic Festival (unconfirmed)
@@ -1902,7 +1902,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-09-strasbourg-eisbrecher-propaganda-tour-2027-strasbourg@event
  s-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Strasbourg (unconfirmed)
@@ -1915,7 +1915,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-13-paris-eisbrecher-propaganda-tour-2027-paris@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270913
 DTEND;VALUE=DATE:20270914
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Paris (unconfirmed)
@@ -1928,7 +1928,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-rennes-eisbrecher-propaganda-tour-2027-rennes@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Rennes (unconfirmed)
@@ -1942,7 +1942,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-24-wiesbaden-eisbrecher-propaganda-tour-2027-wiesbaden@events-
  search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20270924T200000
 DTEND;TZID=Europe/Berlin:20270924T220000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Wiesbaden (unconfirmed)
@@ -1956,7 +1956,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-25-hannover-eisbrecher-propaganda-tour-2027-hannover@events-se
  arch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20270925T200000
 DTEND;TZID=Europe/Berlin:20270925T220000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Hannover (unconfirmed)
@@ -1970,7 +1970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-01-munchen-eisbrecher-propaganda-tour-2027-munchen@events-sear
  ch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20271001T200000
 DTEND;TZID=Europe/Berlin:20271001T220000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: München
@@ -1984,7 +1984,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-02-munchen-eisbrecher-propaganda-tour-2027-munchen@events-sear
  ch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20271002T200000
 DTEND;TZID=Europe/Berlin:20271002T220000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: München
@@ -1998,7 +1998,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-08-dresden-eisbrecher-propaganda-tour-2027-dresden@events-sear
  ch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Dresden (unconfirmed)
@@ -2012,7 +2012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-09-ludwigsburg-eisbrecher-propaganda-tour-2027-ludwigsburg@eve
  nts-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Ludwigsburg (unconfirmed)
@@ -2026,7 +2026,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-15-leipzig-eisbrecher-propaganda-tour-2027-leipzig@events-sear
  ch
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Leipzig (unconfirmed)
@@ -2040,7 +2040,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-16-hamburg-eisbrecher-propaganda-tour-2027-hamburg@events-sear
  ch
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20271016T190000
 DTEND;TZID=Europe/Berlin:20271016T210000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Hamburg
@@ -2056,7 +2056,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-22-berlin-eisbrecher-propaganda-tour-2027-berlin@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Berlin (unconfirmed)
@@ -2069,7 +2069,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-23-bochum-eisbrecher-propaganda-tour-2027-bochum@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Bochum (unconfirmed)
@@ -2082,7 +2082,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-29-graz-eisbrecher-propaganda-tour-2027-graz@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20271029T200000
 DTEND;TZID=Europe/Berlin:20271029T220000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Graz (unconfirmed)
@@ -2095,7 +2095,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-31-zurich-eisbrecher-propaganda-tour-2027-zurich@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20271031T190000
 DTEND;TZID=Europe/Berlin:20271031T210000
 SUMMARY:Eisbrecher – Propaganda Tour 2027: Zürich (unconfirmed)
@@ -2153,7 +2153,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-29-milan-marilyn-manson-milan@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Marilyn Manson – Milan
@@ -2218,7 +2218,7 @@ CATEGORIES:music-festival,open-air,rock,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-06-berlin-internationales-berliner-bierfestival@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270809
 SUMMARY:Internationales Berliner Bierfestival (no dates yet)
@@ -2342,5 +2342,45 @@ LOCATION:Reload festival site\, Sulingen
 URL:https://www.reload-festival.de/reload-2027-das-naechste-kapitel-beginn
  t
 CATEGORIES:music-festival,open-air,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-11-01-zurich-till-lindemann-world-tour-2027-zurich@events-search
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Till Lindemann – World Tour 2027: Zürich
+DESCRIPTION:Lindemann solo arena show\, European leg\nTill Lindemann\nHour
+ s: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com
+ /
+LOCATION:Hallenstadion\, Wallisellenstrasse 45\, 8050 Zürich
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-04-paris-we-love-green@events-search
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:We Love Green
+DESCRIPTION:Big Paris pop/electronic/indie festival in the Bois de Vincenn
+ es\nAngèle\, Fontaines D.C.\nHours: n/a\nPrice: n/a (2026: day pass 64-8
+ 4 EUR)\nStatus: ok (official)\nhttps://www.welovegreen.fr/
+LOCATION:Bois de Vincennes (Plaine de la Belle Étoile)\, Paris
+URL:https://www.welovegreen.fr/
+CATEGORIES:music-festival,open-air,pop,electronic,indie
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-schijndel-paaspop@events-search
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270329
+SUMMARY:Paaspop
+DESCRIPTION:Dutch Easter festival\, 50th anniversary edition\, pop/rock/da
+ nce\n50th edition\nHours: n/a\nPrice: day from 95.50 EUR\, weekend 239 EU
+ R (camping 265 EUR) + fees\nStatus: ok (official)\nhttps://www.paaspop.nl
+ /
+LOCATION:Festivalterrein Paaspop\, Schijndel
+URL:https://www.paaspop.nl/
+CATEGORIES:music-festival,pop,rock,electronic
 END:VEVENT
 END:VCALENDAR

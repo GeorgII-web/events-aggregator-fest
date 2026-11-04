@@ -1,0 +1,47 @@
+{
+ "id": "2027-06-04-paris-we-love-green",
+ "name": "We Love Green",
+ "description": "Big Paris pop/electronic/indie festival in the Bois de Vincennes",
+ "start": "2027-06-04",
+ "end": "2027-06-06",
+ "hours": "n/a",
+ "place": "Bois de Vincennes (Plaine de la Belle Étoile)",
+ "address": "n/a",
+ "city": "Paris",
+ "country": "France",
+ "price": "n/a (2026: day pass 64-84 EUR)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.welovegreen.fr/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "details": "16th edition, Fri 4 to Sun 6 June 2027 in the Bois de Vincennes, up to 110,000 visitors; eco-focused festival with pop, rap, indie and electronic stages. First names: Fri Angèle, Lola Young, Adèle Castillon, Amélie Lens, Marlon Hoffstadt, Wallows; Sat Fontaines D.C., Boy Harsher, Underscores. Tickets on sale; 2027 prices not shown (2026 day pass 64-84 EUR). No camping: stay in Paris, metro to Château de Vincennes.",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "pop",
+  "electronic",
+  "indie"
+ ],
+ "bands": [
+  "Angèle",
+  "Fontaines D.C.",
+  "Lola Young",
+  "Amélie Lens",
+  "Wallows",
+  "Boy Harsher"
+ ],
+ "note": "Angèle, Fontaines D.C.",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:25.604Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=We+Love+Green&dates=20270604%2F20270607&details=Big+Paris+pop%2Felectronic%2Findie+festival+in+the+Bois+de+Vincennes%0AAng%C3%A8le%2C+Fontaines+D.C.%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282026%3A+day+pass+64-84+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.welovegreen.fr%2F&location=Bois+de+Vincennes+%28Plaine+de+la+Belle+%C3%89toile%29%2C+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bois%20de%20Vincennes%20(Plaine%20de%20la%20Belle%20%C3%89toile)%2C%20Paris",
+ "priceValue": 2026
+}

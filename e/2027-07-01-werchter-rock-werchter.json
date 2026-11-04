@@ -14,17 +14,17 @@
  "status": "ok",
  "link": "https://www.rockwerchter.be/en/",
  "source": "official",
- "details": "Four-day festival with about 88,000 visitors per day; camping tickets later. Announced: Tame Impala, Muse, Massive Attack, Sam Fender, Turnstile, Angèle.",
+ "details": "Four-day festival with about 88,000 visitors per day; camping tickets later. By day: Thu Massive Attack, The Neighbourhood, Turnstile; Fri Muse, Nothing But Thieves; Sat Sam Fender; Sun Tame Impala, Angèle, sombr. Line-up subject to change.",
  "tags": [
   "music-festival",
   "open-air",
   "rock"
  ],
- "note": "Tame Impala, Muse, Massive Attack",
- "checked": "2026-11-01",
+ "note": "Muse (Fri 2 Jul), Massive Attack, Tame Impala",
+ "checked": "2026-11-04",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:25.604Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -42,6 +42,37 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:25.604Z",
+   "changes": {
+    "note": [
+     "Tame Impala, Muse, Massive Attack",
+     "Muse (Fri 2 Jul), Massive Attack, Tame Impala"
+    ],
+    "bands": [
+     [
+      "Tame Impala",
+      "Muse",
+      "Massive Attack",
+      "Sam Fender",
+      "Turnstile",
+      "Angèle"
+     ],
+     [
+      "Tame Impala",
+      "Muse",
+      "Massive Attack",
+      "Sam Fender",
+      "Turnstile",
+      "Angèle",
+      "Nothing But Thieves",
+      "The Neighbourhood",
+      "sombr"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -50,14 +81,17 @@
   "Massive Attack",
   "Sam Fender",
   "Turnstile",
-  "Angèle"
+  "Angèle",
+  "Nothing But Thieves",
+  "The Neighbourhood",
+  "sombr"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+Werchter&dates=20270701%2F20270705&details=Belgium%27s+flagship+rock%2Fpop+festival%0ATame+Impala%2C+Muse%2C+Massive+Attack%0AHours%3A+n%2Fa%0APrice%3A+4-day+320+EUR%2C+2-day+259+EUR%2C+1-day+143+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rockwerchter.be%2Fen%2F&location=Festivalpark+Werchter%2C+Werchter&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+Werchter&dates=20270701%2F20270705&details=Belgium%27s+flagship+rock%2Fpop+festival%0AMuse+%28Fri+2+Jul%29%2C+Massive+Attack%2C+Tame+Impala%0AHours%3A+n%2Fa%0APrice%3A+4-day+320+EUR%2C+2-day+259+EUR%2C+1-day+143+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rockwerchter.be%2Fen%2F&location=Festivalpark+Werchter%2C+Werchter&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Festivalpark%20Werchter%2C%20Werchter",
  "priceValue": 4
 }

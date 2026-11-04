@@ -1,0 +1,38 @@
+{
+ "id": "2027-05-17-budapest-budapest-beer-week",
+ "name": "Budapest Beer Week",
+ "description": "International craft beer week with two big tasting sessions",
+ "start": "2027-05-17",
+ "end": "2027-05-23",
+ "hours": "tastings Fri-Sat 14-20",
+ "place": "Dürer Kert",
+ "address": "Öv utca 1, 1141 Budapest",
+ "city": "Budapest",
+ "country": "Hungary",
+ "price": "n/a (tickets on bpbw.hu, no prices shown yet)",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://bpbw.hu/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "details": "Week of craft beer events in Budapest: side events and tap takeovers Mon-Thu, meetup and conference Thu 20 May, main tasting sessions Fri 21 and Sat 22 May (14:00-20:00, unlimited tastings, about 45 breweries with 4 beers each), free-entry encore day Sun 23 May with tokens. Street food, after-parties and free concerts; family and dog friendly.",
+ "tags": [
+  "beer-festival",
+  "food-festival",
+  "festival"
+ ],
+ "note": "45 breweries",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:25.604Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "beer",
+  "food",
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Budapest+Beer+Week&dates=20270517%2F20270524&details=International+craft+beer+week+with+two+big+tasting+sessions%0A45+breweries%0AHours%3A+tastings+Fri-Sat+14-20%0APrice%3A+n%2Fa+%28tickets+on+bpbw.hu%2C+no+prices+shown+yet%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fbpbw.hu%2F&location=D%C3%BCrer+Kert%2C+%C3%96v+utca+1%2C+1141+Budapest&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=%C3%96v%20utca%201%2C%201141%20Budapest",
+ "priceValue": null
+}

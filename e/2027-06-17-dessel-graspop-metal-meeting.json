@@ -14,17 +14,17 @@
  "status": "ok",
  "link": "https://www.graspop.be/en/",
  "source": "official",
- "details": "Four-day metal festival with camping, about 130,000 visitors. Headliners: Parkway Drive (Thu), Faith No More and Evanescence (Fri), blink-182 and Marilyn Manson (Sat, North Stage), Mötley Crüe (Sun).",
+ "details": "Four-day metal festival with camping, about 130,000 visitors. Headliners: Helloween and Parkway Drive (Thu), Faith No More and Evanescence (Fri), blink-182 and Marilyn Manson (Sat, North Stage), Mötley Crüe and Slash feat. Myles Kennedy & The Conspirators (Sun). Presale 12 Nov, regular sale 14 Nov 2026.",
  "tags": [
   "music-festival",
   "open-air",
   "metal"
  ],
- "note": "MARILYN MANSON (Sat 19 June); blink-182, Mötley Crüe; sale 14 Nov",
- "checked": "2026-11-01",
+ "note": "MARILYN MANSON (Sat 19 June); blink-182, Mötley Crüe, Slash; sale 14 Nov",
+ "checked": "2026-11-04",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
- "updatedAt": "2026-11-01T18:48:58.905Z",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:25.604Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -55,6 +55,36 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:33:25.604Z",
+   "changes": {
+    "note": [
+     "MARILYN MANSON (Sat 19 June); blink-182, Mötley Crüe; sale 14 Nov",
+     "MARILYN MANSON (Sat 19 June); blink-182, Mötley Crüe, Slash; sale 14 Nov"
+    ],
+    "bands": [
+     [
+      "Marilyn Manson",
+      "blink-182",
+      "Parkway Drive",
+      "Faith No More",
+      "Evanescence",
+      "Mötley Crüe"
+     ],
+     [
+      "Marilyn Manson",
+      "blink-182",
+      "Parkway Drive",
+      "Faith No More",
+      "Evanescence",
+      "Mötley Crüe",
+      "Helloween",
+      "Slash feat. Myles Kennedy & The Conspirators"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -63,14 +93,16 @@
   "Parkway Drive",
   "Faith No More",
   "Evanescence",
-  "Mötley Crüe"
+  "Mötley Crüe",
+  "Helloween",
+  "Slash feat. Myles Kennedy & The Conspirators"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Graspop+Metal+Meeting&dates=20270617%2F20270621&details=Belgium%27s+biggest+metal+festival%2C+30th+edition%0AMARILYN+MANSON+%28Sat+19+June%29%3B+blink-182%2C+M%C3%B6tley+Cr%C3%BCe%3B+sale+14+Nov%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%3B+presale+12+Nov%2C+regular+sale+14+Nov+2026+10%3A00%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.graspop.be%2Fen%2F&location=Festivalpark+Stenehei%2C+Dessel&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Graspop+Metal+Meeting&dates=20270617%2F20270621&details=Belgium%27s+biggest+metal+festival%2C+30th+edition%0AMARILYN+MANSON+%28Sat+19+June%29%3B+blink-182%2C+M%C3%B6tley+Cr%C3%BCe%2C+Slash%3B+sale+14+Nov%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%3B+presale+12+Nov%2C+regular+sale+14+Nov+2026+10%3A00%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.graspop.be%2Fen%2F&location=Festivalpark+Stenehei%2C+Dessel&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Festivalpark%20Stenehei%2C%20Dessel",
  "priceValue": 12
 }

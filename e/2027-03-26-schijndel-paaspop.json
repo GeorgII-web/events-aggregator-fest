@@ -1,0 +1,47 @@
+{
+ "id": "2027-03-26-schijndel-paaspop",
+ "name": "Paaspop",
+ "description": "Dutch Easter festival, 50th anniversary edition, pop/rock/dance",
+ "start": "2027-03-26",
+ "end": "2027-03-28",
+ "hours": "n/a",
+ "place": "Festivalterrein Paaspop",
+ "address": "n/a",
+ "city": "Schijndel",
+ "country": "Netherlands",
+ "price": "day from 95.50 EUR, weekend 239 EUR (camping 265 EUR) + fees",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.paaspop.nl/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "details": "Easter-weekend festival in Schijndel (North Brabant), 50th edition, 26-28 March 2027, with tents and open-air areas (main area Apollo up to 21,000). First 50 names include Rag'n'Bone Man, Clouseau, BLØF, The Opposites, Sub Focus, De Staat and Daði Freyr; more to follow. Regular sale since 31 Oct 2026; prices per Omroep Brabant / FestivalFans. Camping on site; nearest city 's-Hertogenbosch.",
+ "tags": [
+  "music-festival",
+  "pop",
+  "rock",
+  "electronic"
+ ],
+ "bands": [
+  "Rag'n'Bone Man",
+  "Clouseau",
+  "BLØF",
+  "The Opposites",
+  "Sub Focus",
+  "De Staat"
+ ],
+ "note": "50th edition",
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:25.604Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paaspop&dates=20270326%2F20270329&details=Dutch+Easter+festival%2C+50th+anniversary+edition%2C+pop%2Frock%2Fdance%0A50th+edition%0AHours%3A+n%2Fa%0APrice%3A+day+from+95.50+EUR%2C+weekend+239+EUR+%28camping+265+EUR%29+%2B+fees%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.paaspop.nl%2F&location=Festivalterrein+Paaspop%2C+Schijndel&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Festivalterrein%20Paaspop%2C%20Schijndel",
+ "priceValue": 95.5
+}

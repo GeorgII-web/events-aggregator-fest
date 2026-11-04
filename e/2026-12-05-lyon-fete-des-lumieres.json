@@ -1,0 +1,35 @@
+{
+ "id": "2026-12-05-lyon-fete-des-lumieres",
+ "name": "Fête des Lumières",
+ "description": "Lyon light festival, 25+ light works across the city",
+ "start": "2026-12-05",
+ "end": "2026-12-08",
+ "hours": "evenings, about 18-24 (Tue to 23; travel sites)",
+ "place": "Lyon city centre (Presqu'île, Vieux Lyon, Fourvière)",
+ "address": "n/a",
+ "city": "Lyon",
+ "country": "France",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.fetedeslumieres.lyon.fr/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "details": "Four evenings, Sat 5 to Tue 8 December 2026: 27 light works by artists of 14 nationalities across Lyon, plus the 'Lumignons du Cœur' candle action for charity. Free and open-air; one of the biggest light festivals in Europe with very large crowds, so book hotels early and use public transport. Map of the works on the official site a few days before.",
+ "tags": [
+  "light-festival",
+  "city-festival",
+  "festival"
+ ],
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:25.604Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "festival"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=F%C3%AAte+des+Lumi%C3%A8res&dates=20261205%2F20261209&details=Lyon+light+festival%2C+25%2B+light+works+across+the+city%0AHours%3A+evenings%2C+about+18-24+%28Tue+to+23%3B+travel+sites%29%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.fetedeslumieres.lyon.fr%2F&location=Lyon+city+centre+%28Presqu%27%C3%AEle%2C+Vieux+Lyon%2C+Fourvi%C3%A8re%29%2C+Lyon&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lyon%20city%20centre%20(Presqu'%C3%AEle%2C%20Vieux%20Lyon%2C%20Fourvi%C3%A8re)%2C%20Lyon",
+ "priceValue": 0
+}
