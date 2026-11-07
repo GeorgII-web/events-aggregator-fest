@@ -5,7 +5,7 @@
  "start": "2027-07-29",
  "end": "2027-07-31",
  "hours": "n/a",
- "place": "Former airfield Czaplinek-Broczyno",
+ "place": "Venue TBA (2024-2026: Czaplinek-Broczyno airfield)",
  "address": "n/a",
  "city": "Czaplinek",
  "country": "Poland",
@@ -14,18 +14,18 @@
  "status": "unconfirmed",
  "link": "https://polandrockfestival.pl/",
  "source": "ebilet.pl",
- "details": "Free charity rock festival by the WOŚP foundation, hundreds of thousands of visitors and free camping. 33rd edition, 29-31 Jul 2027, again at the former airfield near Czaplinek (date and venue announced by Jurek Owsiak, per ebilet.pl; official site not reachable). Announced: Kula Shaker (main stage), Halestorm; about three quarters of the bill reportedly set.",
+ "details": "Huge free rock festival by Jurek Owsiak (WOŚP), 33rd edition, 29-31 July 2027 per ebilet.pl (3 Aug 2026). The 2027 site is not announced; Owsiak: \"we wait for you, wherever it will be\"; organisers had said Czaplinek-Broczyno would end after 2026. First act: Kula Shaker. Free entry, camping on site.",
  "tags": [
   "music-festival",
   "open-air",
   "rock",
   "punk"
  ],
- "note": "Kula Shaker, Halestorm",
- "checked": "2026-11-04",
+ "note": "Kula Shaker; venue not announced",
+ "checked": "2026-11-07",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-04",
- "updatedAt": "2026-11-04T19:33:25.604Z",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:05:59.651Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -53,6 +53,20 @@
      "Kula Shaker, Halestorm"
     ]
    }
+  },
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:05:59.651Z",
+   "changes": {
+    "place": [
+     "Former airfield Czaplinek-Broczyno",
+     "Venue TBA (2024-2026: Czaplinek-Broczyno airfield)"
+    ],
+    "note": [
+     "Kula Shaker, Halestorm",
+     "Kula Shaker; venue not announced"
+    ]
+   }
   }
  ],
  "bands": [
@@ -64,7 +78,7 @@
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pol%27and%27Rock+Festival&dates=20270729%2F20270801&details=Huge+free+rock+festival+by+Jurek+Owsiak%2C+33rd+edition%0AKula+Shaker%2C+Halestorm%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28ebilet.pl%29%0Ahttps%3A%2F%2Fpolandrockfestival.pl%2F&location=Former+airfield+Czaplinek-Broczyno%2C+Czaplinek&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=Former%20airfield%20Czaplinek-Broczyno%2C%20Czaplinek",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pol%27and%27Rock+Festival&dates=20270729%2F20270801&details=Huge+free+rock+festival+by+Jurek+Owsiak%2C+33rd+edition%0AKula+Shaker%3B+venue+not+announced%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+unconfirmed+%28ebilet.pl%29%0Ahttps%3A%2F%2Fpolandrockfestival.pl%2F&location=Venue+TBA+%282024-2026%3A+Czaplinek-Broczyno+airfield%29%2C+Czaplinek&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%20(2024-2026%3A%20Czaplinek-Broczyno%20airfield)%2C%20Czaplinek",
  "priceValue": 0
 }

@@ -1,0 +1,51 @@
+{
+ "id": "2027-07-01-cartagena-rock-imperium-festival",
+ "name": "Rock Imperium Festival",
+ "description": "Four-day rock/metal festival in a harbour park in Cartagena",
+ "start": "2027-07-01",
+ "end": "2027-07-04",
+ "hours": "n/a",
+ "place": "Parque El Batel",
+ "address": "Paseo Alfonso XII, 30202 Cartagena",
+ "city": "Cartagena",
+ "country": "Spain",
+ "price": "from 215 EUR + fees",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.madnesslive.es/en/pagina/377-rock-imperium-festival-2027",
+ "source": "official",
+ "checked": "2026-11-07",
+ "note": "MARILYN MANSON (Thu 1 Jul, welcome day); Evanescence, Children of Bodom",
+ "bands": [
+  "Marilyn Manson",
+  "Evanescence",
+  "Helloween",
+  "Bruce Dickinson",
+  "Children of Bodom",
+  "Mayhem",
+  "Motionless in White",
+  "Paradise Lost",
+  "Fear Factory",
+  "GWAR",
+  "Erik Grönwall"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock",
+  "metal"
+ ],
+ "details": "Rock Imperium is a rock and metal festival in Parque El Batel on the Cartagena waterfront; the 2026 edition drew more than 50,000 visitors. The 2027 edition runs 1-4 July: Marilyn Manson headlines the welcome day on Thursday 1 July (listed on marilynmanson.com), Evanescence headline 2-4 July. Also announced: Helloween (40th anniversary), Bruce Dickinson, Children of Bodom, Mayhem, Motionless in White, Paradise Lost, Fear Factory, GWAR. Passes from 215 EUR + fees via promoter Madness Live (sale since 6 July 2026). Hotels in Cartagena or Murcia; nearest airports Murcia and Alicante.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:05:59.651Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+Imperium+Festival&dates=20270701%2F20270705&details=Four-day+rock%2Fmetal+festival+in+a+harbour+park+in+Cartagena%0AMARILYN+MANSON+%28Thu+1+Jul%2C+welcome+day%29%3B+Evanescence%2C+Children+of+Bodom%0AHours%3A+n%2Fa%0APrice%3A+from+215+EUR+%2B+fees%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.madnesslive.es%2Fen%2Fpagina%2F377-rock-imperium-festival-2027&location=Parque+El+Batel%2C+Paseo+Alfonso+XII%2C+30202+Cartagena&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Paseo%20Alfonso%20XII%2C%2030202%20Cartagena",
+ "priceValue": 215
+}

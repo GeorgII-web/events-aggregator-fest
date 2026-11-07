@@ -1,0 +1,37 @@
+{
+ "id": "2027-07-07-neustadt-glewe-airbeat-one",
+ "name": "Airbeat One",
+ "description": "Big EDM festival on an airfield, 25th edition with theme Australia",
+ "start": "2027-07-07",
+ "end": "2027-07-11",
+ "hours": "n/a",
+ "place": "Flugplatz Neustadt-Glewe",
+ "address": "n/a",
+ "city": "Neustadt-Glewe",
+ "country": "Germany",
+ "price": "n/a (ticket phases, price rises per phase)",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.airbeat-one.de/",
+ "source": "official",
+ "checked": "2026-11-07",
+ "note": "25th anniversary, theme Australia; line-up not out yet",
+ "tags": [
+  "music-festival",
+  "open-air",
+  "electronic"
+ ],
+ "details": "Germany's biggest EDM festival on the Neustadt-Glewe airfield between Berlin and Hamburg; the 2026 edition had a record 210,000 visits. 2027 is the 25th anniversary with an extra festival day (7-11 July) and the theme \"We bring Australia to Germany\". Tickets on sale in limited phases; line-up not announced yet. Camping festival.",
+ "firstSeen": "2026-11-07",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:05:59.651Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "electronic"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Airbeat+One&dates=20270707%2F20270712&details=Big+EDM+festival+on+an+airfield%2C+25th+edition+with+theme+Australia%0A25th+anniversary%2C+theme+Australia%3B+line-up+not+out+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%28ticket+phases%2C+price+rises+per+phase%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.airbeat-one.de%2F&location=Flugplatz+Neustadt-Glewe%2C+Neustadt-Glewe&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Flugplatz%20Neustadt-Glewe%2C%20Neustadt-Glewe",
+ "priceValue": null
+}

@@ -5,33 +5,87 @@
  "start": "2027-06-17",
  "end": "2027-06-19",
  "hours": "n/a",
- "place": "TBA (2026: Fira Gran Via)",
+ "place": "Sónar by Night: Fira Gran Via; Sónar by Day: central Barcelona, venue TBA",
  "address": "n/a",
  "city": "Barcelona",
  "country": "Spain",
- "price": "n/a",
+ "price": "SonarPass 160 EUR, SonarPass+D 175 EUR, VIP 275 EUR (fees incl.)",
  "size": "big",
- "status": "unconfirmed",
+ "status": "ok",
  "link": "https://sonar.es",
- "source": "technoairlines.com",
- "checked": "2026-11-04",
- "details": "Day and night electronic festival with about 120,000 visitors. On 27 Oct 2026 the official site switched to 'Sónar is dead 1994-2026' without explanation; secondary sources still list 17-19 June 2027. The 'Sónar is dead' campaign started 27 Oct 2026 with a funeral video and a death notice in La Vanguardia, unexplained; nothing officially cancelled or refunded.",
+ "source": "official",
+ "checked": "2026-11-07",
+ "details": "Day and night electronic music and arts festival with about 120,000 visitors. The \"Sónar is dead\" teaser (27 Oct 2026) ended with the 2027 announcement on 3 Nov: Sónar by Day returns to central Barcelona (17-19 June, venue not named yet; press expects Port Vell waterfront) and Sónar by Night stays at Fira Gran Via (18-19 June). First artists: Carl Cox, Bonobo, Peggy Gou, Jessie Ware, Romy (DJ set), Yung Lean, Cornelius, Goldie (live), Honey Dijon, Tokischa. SonarPass 160 EUR; Flex option refundable until 28 Feb 2027.",
  "tags": [
   "music-festival",
   "open-air",
   "electronic"
  ],
- "note": "Future unclear",
+ "note": "Carl Cox, Bonobo, Peggy Gou, Jessie Ware",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-04",
- "updatedAt": "2026-11-01T18:04:49.317Z",
- "history": [],
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:05:59.651Z",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:05:59.651Z",
+   "changes": {
+    "place": [
+     "TBA (2026: Fira Gran Via)",
+     "Sónar by Night: Fira Gran Via; Sónar by Day: central Barcelona, venue TBA"
+    ],
+    "price": [
+     "n/a",
+     "SonarPass 160 EUR, SonarPass+D 175 EUR, VIP 275 EUR (fees incl.)"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "source": [
+     "technoairlines.com",
+     "official"
+    ],
+    "note": [
+     "Future unclear",
+     "Carl Cox, Bonobo, Peggy Gou, Jessie Ware"
+    ],
+    "bands": [
+     null,
+     [
+      "Carl Cox",
+      "Bonobo",
+      "Peggy Gou",
+      "Jessie Ware",
+      "Romy",
+      "Yung Lean",
+      "Cornelius",
+      "Goldie",
+      "Honey Dijon",
+      "Tokischa"
+     ]
+    ]
+   }
+  }
+ ],
+ "bands": [
+  "Carl Cox",
+  "Bonobo",
+  "Peggy Gou",
+  "Jessie Ware",
+  "Romy",
+  "Yung Lean",
+  "Cornelius",
+  "Goldie",
+  "Honey Dijon",
+  "Tokischa"
+ ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "electronic"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=S%C3%B3nar+Barcelona&dates=20270617%2F20270620&details=Advanced+music+and+electronic+arts+festival%0AFuture+unclear%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28technoairlines.com%29%0Ahttps%3A%2F%2Fsonar.es&location=TBA+%282026%3A+Fira+Gran+Via%29%2C+Barcelona&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=TBA%20(2026%3A%20Fira%20Gran%20Via)%2C%20Barcelona",
- "priceValue": null
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=S%C3%B3nar+Barcelona&dates=20270617%2F20270620&details=Advanced+music+and+electronic+arts+festival%0ACarl+Cox%2C+Bonobo%2C+Peggy+Gou%2C+Jessie+Ware%0AHours%3A+n%2Fa%0APrice%3A+SonarPass+160+EUR%2C+SonarPass%2BD+175+EUR%2C+VIP+275+EUR+%28fees+incl.%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fsonar.es&location=S%C3%B3nar+by+Night%3A+Fira+Gran+Via%3B+S%C3%B3nar+by+Day%3A+central+Barcelona%2C+venue+TBA%2C+Barcelona&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=S%C3%B3nar%20by%20Night%3A%20Fira%20Gran%20Via%3B%20S%C3%B3nar%20by%20Day%3A%20central%20Barcelona%2C%20venue%20TBA%2C%20Barcelona",
+ "priceValue": 160
 }

@@ -9,12 +9,12 @@
  "address": "Zeppelinfeld, Nürnberg",
  "city": "Nuremberg",
  "country": "Germany",
- "price": "weekend + camping 258/288 EUR sold out; limited day tickets",
+ "price": "weekend + camping 258/288 EUR sold out; day tickets sold out",
  "size": "big",
  "status": "ok",
  "link": "https://www.rock-im-park.com/",
  "source": "official",
- "details": "Rock am Ring's twin festival with the same line-up in a different day order. More than 50,000 weekend tickets were sold by 22 Sep 2026; a limited number of day tickets are on sale. Headliners: blink-182 (Sun), Bring Me The Horizon (Sat), Die Toten Hosen, Turnstile, Faith No More, Parkway Drive. The Prodigy are very special guest on Sunday. Arch Enemy play Saturday 5 June.",
+ "details": "Rock am Ring's twin festival with the same line-up in a different day order. More than 50,000 weekend tickets sold by 22 Sep 2026; day tickets sold out (dpa, 21 Oct 2026). Friday 4 June: Die Toten Hosen, Turnstile, Faith No More, Bad Religion, Bullet For My Valentine, Nothing But Thieves. Saturday: Bring Me The Horizon, Parkway Drive, Evanescence, Amon Amarth, Arch Enemy, Lorna Shore, Motionless In White, Jinjer. Sunday 6 June: blink-182, Falling in Reverse, Billy Talent, Pendulum, Killswitch Engage, The Prodigy (very special guest).",
  "tags": [
   "music-festival",
   "open-air",
@@ -22,11 +22,11 @@
   "metal",
   "punk"
  ],
- "note": "THE PRODIGY (Sun) + BRING ME THE HORIZON (Sat); Arch Enemy (Sat)",
- "checked": "2026-11-04",
+ "note": "THE PRODIGY (Sun, very special guest); BRING ME THE HORIZON (Sat); blink-182 (Sun), Arch Enemy (Sat)",
+ "checked": "2026-11-07",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-04",
- "updatedAt": "2026-11-01T18:52:44.678Z",
+ "lastSeen": "2026-11-07",
+ "updatedAt": "2026-11-07T21:05:59.651Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -94,6 +94,54 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-07",
+   "at": "2026-11-07T21:05:59.651Z",
+   "changes": {
+    "price": [
+     "weekend + camping 258/288 EUR sold out; limited day tickets",
+     "weekend + camping 258/288 EUR sold out; day tickets sold out"
+    ],
+    "note": [
+     "THE PRODIGY (Sun) + BRING ME THE HORIZON (Sat); Arch Enemy (Sat)",
+     "THE PRODIGY (Sun, very special guest); BRING ME THE HORIZON (Sat); blink-182 (Sun), Arch Enemy (Sat)"
+    ],
+    "bands": [
+     [
+      "The Prodigy",
+      "Bring Me The Horizon",
+      "blink-182",
+      "Die Toten Hosen",
+      "Turnstile",
+      "Faith No More",
+      "Parkway Drive",
+      "Arch Enemy"
+     ],
+     [
+      "The Prodigy",
+      "Bring Me The Horizon",
+      "blink-182",
+      "Die Toten Hosen",
+      "Parkway Drive",
+      "Turnstile",
+      "Faith No More",
+      "Evanescence",
+      "Arch Enemy",
+      "Amon Amarth",
+      "Falling in Reverse",
+      "Billy Talent",
+      "Bullet For My Valentine",
+      "Bad Religion",
+      "Nothing But Thieves",
+      "Motionless In White",
+      "Lorna Shore",
+      "Jinjer",
+      "Killswitch Engage",
+      "Pendulum"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -101,17 +149,29 @@
   "Bring Me The Horizon",
   "blink-182",
   "Die Toten Hosen",
+  "Parkway Drive",
   "Turnstile",
   "Faith No More",
-  "Parkway Drive",
-  "Arch Enemy"
+  "Evanescence",
+  "Arch Enemy",
+  "Amon Amarth",
+  "Falling in Reverse",
+  "Billy Talent",
+  "Bullet For My Valentine",
+  "Bad Religion",
+  "Nothing But Thieves",
+  "Motionless In White",
+  "Lorna Shore",
+  "Jinjer",
+  "Killswitch Engage",
+  "Pendulum"
  ],
  "topic": "festivals",
  "groups": [
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+im+Park&dates=20270604%2F20270607&details=Twin+festival+of+Rock+am+Ring+at+Nuremberg+Zeppelinfeld%0ATHE+PRODIGY+%28Sun%29+%2B+BRING+ME+THE+HORIZON+%28Sat%29%3B+Arch+Enemy+%28Sat%29%0AHours%3A+n%2Fa%0APrice%3A+weekend+%2B+camping+258%2F288+EUR+sold+out%3B+limited+day+tickets%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rock-im-park.com%2F&location=Zeppelinfeld%2C+N%C3%BCrnberg&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rock+im+Park&dates=20270604%2F20270607&details=Twin+festival+of+Rock+am+Ring+at+Nuremberg+Zeppelinfeld%0ATHE+PRODIGY+%28Sun%2C+very+special+guest%29%3B+BRING+ME+THE+HORIZON+%28Sat%29%3B+blink-182+%28Sun%29%2C+Arch+Enemy+%28Sat%29%0AHours%3A+n%2Fa%0APrice%3A+weekend+%2B+camping+258%2F288+EUR+sold+out%3B+day+tickets+sold+out%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rock-im-park.com%2F&location=Zeppelinfeld%2C+N%C3%BCrnberg&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zeppelinfeld%2C%20N%C3%BCrnberg",
  "priceValue": 258
 }

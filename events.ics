@@ -169,28 +169,30 @@ CATEGORIES:wine,city-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nurburg-rock-am-ring@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock am Ring
 DESCRIPTION:Germany's biggest rock festival at the Nürburgring race track
- \nTHE PRODIGY (Fri) + BRING ME THE HORIZON; blink-182\, Arch Enemy (Sun)\
- nHours: n/a\nPrice: weekend about 269 EUR excl. camping; weekend tickets 
- only\nStatus: ok (official)\nhttps://www.rock-am-ring.com/
+ \nTHE PRODIGY (Fri\, very special guest); BRING ME THE HORIZON (Sun); bli
+ nk-182 (Fri)\, Arch Enemy (Sun)\nHours: n/a\nPrice: weekend about 269 EUR
+  excl. camping; weekend tickets only\nStatus: ok (official)\nhttps://www.
+ rock-am-ring.com/
 LOCATION:Nürburgring\, 53520 Nürburg
 URL:https://www.rock-am-ring.com/
 CATEGORIES:music-festival,open-air,rock,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nuremberg-rock-im-park@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock im Park
 DESCRIPTION:Twin festival of Rock am Ring at Nuremberg Zeppelinfeld\nTHE P
- RODIGY (Sun) + BRING ME THE HORIZON (Sat); Arch Enemy (Sat)\nHours: n/a\n
- Price: weekend + camping 258/288 EUR sold out; limited day tickets\nStatu
- s: ok (official)\nhttps://www.rock-im-park.com/
+ RODIGY (Sun\, very special guest); BRING ME THE HORIZON (Sat); blink-182 
+ (Sun)\, Arch Enemy (Sat)\nHours: n/a\nPrice: weekend + camping 258/288 EU
+ R sold out; day tickets sold out\nStatus: ok (official)\nhttps://www.rock
+ -im-park.com/
 LOCATION:Zeppelinfeld\, Nürnberg
 URL:https://www.rock-im-park.com/
 CATEGORIES:music-festival,open-air,rock,metal,punk
@@ -223,7 +225,7 @@ CATEGORIES:music-festival,open-air,rock,indie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-grafenhainichen-full-force@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Full Force (no dates yet)
@@ -237,14 +239,14 @@ CATEGORIES:music-festival,open-air,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-29-czaplinek-pol-and-rock-festival@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270801
 SUMMARY:Pol'and'Rock Festival (unconfirmed)
 DESCRIPTION:Huge free rock festival by Jurek Owsiak\, 33rd edition\nKula S
- haker\, Halestorm\nHours: n/a\nPrice: free\nStatus: unconfirmed (ebilet.p
- l)\nhttps://polandrockfestival.pl/
-LOCATION:Former airfield Czaplinek-Broczyno\, Czaplinek
+ haker; venue not announced\nHours: n/a\nPrice: free\nStatus: unconfirmed 
+ (ebilet.pl)\nhttps://polandrockfestival.pl/
+LOCATION:Venue TBA (2024-2026: Czaplinek-Broczyno airfield)\, Czaplinek
 URL:https://polandrockfestival.pl/
 CATEGORIES:music-festival,open-air,rock,punk
 END:VEVENT
@@ -477,14 +479,16 @@ CATEGORIES:rock,metal,music-festival,open-air
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-barcelona-sonar-barcelona@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270620
-SUMMARY:Sónar Barcelona (unconfirmed)
-DESCRIPTION:Advanced music and electronic arts festival\nFuture unclear\nH
- ours: n/a\nPrice: n/a\nStatus: unconfirmed (technoairlines.com)\nhttps://
+SUMMARY:Sónar Barcelona
+DESCRIPTION:Advanced music and electronic arts festival\nCarl Cox\, Bonobo
+ \, Peggy Gou\, Jessie Ware\nHours: n/a\nPrice: SonarPass 160 EUR\, SonarP
+ ass+D 175 EUR\, VIP 275 EUR (fees incl.)\nStatus: ok (official)\nhttps://
  sonar.es
-LOCATION:TBA (2026: Fira Gran Via)\, Barcelona
+LOCATION:Sónar by Night: Fira Gran Via; Sónar by Day: central Barcelona\
+ , venue TBA\, Barcelona
 URL:https://sonar.es
 CATEGORIES:music-festival,open-air,electronic
 END:VEVENT
@@ -556,7 +560,7 @@ CATEGORIES:music-festival,open-air,indie,electronic,rock
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-landgraaf-pinkpop@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Pinkpop
@@ -582,7 +586,7 @@ CATEGORIES:music-festival,open-air,pop,indie,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-16-paris-lollapalooza-paris@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270719
 SUMMARY:Lollapalooza Paris (no dates yet)
@@ -647,15 +651,16 @@ CATEGORIES:music-festival,open-air,indie,pop
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-27-zagreb-inmusic-festival@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270630
-SUMMARY:INmusic Festival (unconfirmed)
-DESCRIPTION:Croatia's biggest rock/indie festival on Lake Jarun\nDates unv
- erified\nHours: n/a\nPrice: n/a (2026: 3-day 139 EUR)\nStatus: unconfirme
- d (efestivals.co.uk)\nhttps://www.inmusicfestival.com/en
+SUMMARY:INmusic Festival
+DESCRIPTION:Croatia's biggest rock/indie festival on Lake Jarun\nThe Neigh
+ bourhood; 19th edition\nHours: n/a\nPrice: 3-day 129 EUR (132 EUR with fe
+ es); camping 69 EUR\nStatus: ok (official)\nhttps://www.inmusicfestival.c
+ om/en/shop/tickets
 LOCATION:Youth Island\, Lake Jarun\, Zagreb
-URL:https://www.inmusicfestival.com/en
+URL:https://www.inmusicfestival.com/en/shop/tickets
 CATEGORIES:music-festival,open-air,rock,indie
 END:VEVENT
 BEGIN:VEVENT
@@ -778,21 +783,6 @@ DESCRIPTION:Second Muse night at PSD Bank Dome\nMuse\nHours: n/a\nPrice: n
 LOCATION:PSD Bank Dome\, Düsseldorf
 URL:https://www.eventim.de/event/muse-the-wow-signal-europa-tour-psd-bank-
  dome-21859349/
-CATEGORIES:rock
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-02-koln-placebo-30th-anniversary-tour-koln@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;TZID=Europe/Berlin:20261102T200000
-DTEND;TZID=Europe/Berlin:20261102T220000
-SUMMARY:Placebo – 30th Anniversary Tour: Köln
-DESCRIPTION:Placebo anniversary arena show\nPlacebo\nHours: 20:00\nPrice: 
- n/a\nStatus: ok (regioactive.de)\nhttps://www.regioactive.de/konzert/plac
- ebo-30th-anniversary-tour-koeln-lanxess-arena-2026-11-02-tickets-Y65QFL9K
- ct
-LOCATION:LANXESS arena\, Willy-Brandt-Platz\, 50679 Köln
-URL:https://www.regioactive.de/konzert/placebo-30th-anniversary-tour-koeln
- -lanxess-arena-2026-11-02-tickets-Y65QFL9Kct
 CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
@@ -2153,7 +2143,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-29-milan-marilyn-manson-milan@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Marilyn Manson – Milan
@@ -2382,5 +2372,99 @@ DESCRIPTION:Dutch Easter festival\, 50th anniversary edition\, pop/rock/da
 LOCATION:Festivalterrein Paaspop\, Schijndel
 URL:https://www.paaspop.nl/
 CATEGORIES:music-festival,pop,rock,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-saarbrucken-unheilig-meilenweit-tour-saarbrucken@events-sea
+ rch
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Unheilig – Meilenweit Tour: Saarbrücken
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:SB Open Air 2027 (am E-Werk)\, Saarbrücken
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-16-bonn-unheilig-meilenweit-tour-bonn@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Unheilig – Meilenweit Tour: Bonn
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Kunst!Rasen\, Bonn
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-05-schaffhausen-unheilig-meilenweit-tour-schaffhausen@events-s
+ earch
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Unheilig – Meilenweit Tour: Schaffhausen
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Stars in Town\, Schaffhausen
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-fussen-unheilig-meilenweit-tour-fussen@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Unheilig – Meilenweit Tour: Füssen
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Barockgarten am Festspielhaus\, Füssen
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-26-berlin-unheilig-meilenweit-tour-berlin@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Unheilig – Meilenweit Tour: Berlin
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Parkbühne Wuhlheide\, Berlin
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-04-hamburg-unheilig-meilenweit-tour-hamburg@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Unheilig – Meilenweit Tour: Hamburg
+DESCRIPTION:Unheilig summer open air\, finale of the comeback cycle\nUnhei
+ lig\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.unheilig.
+ com/dates/
+LOCATION:Stadtpark Open Air\, Hamburg
+URL:https://www.unheilig.com/dates/
+CATEGORIES:rock,open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-plainfeld-salzburg-electric-love-festival@events-search
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270711
+SUMMARY:Electric Love Festival
+DESCRIPTION:Austria's biggest EDM festival at the Salzburgring race track\
+ nLine-up not out yet; warm-up 7 July\nHours: 16:00-04:00 (regionalsuche.a
+ t)\nPrice: festival pass from 209 EUR + fees\, phase 1 (regionalsuche.at)
+ \nStatus: ok (official)\nhttps://www.electriclove.at/
+LOCATION:Salzburgring\, 5325 Plainfeld
+URL:https://www.electriclove.at/
+CATEGORIES:music-festival,open-air,electronic
 END:VEVENT
 END:VCALENDAR
