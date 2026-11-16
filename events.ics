@@ -38,7 +38,7 @@ CATEGORIES:beer-festival,craft-beer,city-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-24-kortrijk-zythos-beer-festival-zbf@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:Zythos Beer Festival (ZBF) (no dates yet)
@@ -169,7 +169,7 @@ CATEGORIES:wine,city-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nurburg-rock-am-ring@events-search
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock am Ring
@@ -184,15 +184,15 @@ CATEGORIES:music-festival,open-air,rock,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-04-nuremberg-rock-im-park@events-search
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Rock im Park
 DESCRIPTION:Twin festival of Rock am Ring at Nuremberg Zeppelinfeld\nTHE P
  RODIGY (Sun\, very special guest); BRING ME THE HORIZON (Sat); blink-182 
- (Sun)\, Arch Enemy (Sat)\nHours: n/a\nPrice: weekend + camping 258/288 EU
- R sold out; day tickets sold out\nStatus: ok (official)\nhttps://www.rock
- -im-park.com/
+ (Sun)\, Arch Enemy (Sat)\nHours: n/a\nPrice: weekend + camping on sale (i
+ nstalment plan 12 x 31.39 EUR); day tickets sold out\nStatus: ok (officia
+ l)\nhttps://www.rock-im-park.com/
 LOCATION:Zeppelinfeld\, Nürnberg
 URL:https://www.rock-im-park.com/
 CATEGORIES:music-festival,open-air,rock,metal,punk
@@ -225,7 +225,7 @@ CATEGORIES:music-festival,open-air,rock,indie
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-grafenhainichen-full-force@events-search
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Full Force (no dates yet)
@@ -239,7 +239,7 @@ CATEGORIES:music-festival,open-air,metal,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-29-czaplinek-pol-and-rock-festival@events-search
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270801
 SUMMARY:Pol'and'Rock Festival (unconfirmed)
@@ -560,7 +560,7 @@ CATEGORIES:music-festival,open-air,indie,electronic,rock
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-landgraaf-pinkpop@events-search
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Pinkpop
@@ -586,7 +586,7 @@ CATEGORIES:music-festival,open-air,pop,indie,electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-16-paris-lollapalooza-paris@events-search
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270719
 SUMMARY:Lollapalooza Paris (no dates yet)
@@ -1774,12 +1774,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-12-rostock-till-lindemann-world-tour-2027-rostock@events-searc
  h
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
-SUMMARY:Till Lindemann – World Tour 2027: Rostock
-DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
- \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+SUMMARY:Till Lindemann – World Tour 2027: Rostock (sold out)
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann; sold out\,
+  extra show 13 Oct\nHours: n/a\nPrice: n/a\nStatus: sold out (official)\n
+ https://www.till-lindemann.com/
 LOCATION:Stadthalle Rostock\, Rostock
 URL:https://www.till-lindemann.com/
 CATEGORIES:industrial,metal
@@ -2143,7 +2144,7 @@ CATEGORIES:industrial,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-29-milan-marilyn-manson-milan@events-search
-DTSTAMP:20261107T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:Marilyn Manson – Milan
@@ -2208,7 +2209,7 @@ CATEGORIES:music-festival,open-air,rock,punk
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-06-berlin-internationales-berliner-bierfestival@events-search
-DTSTAMP:20261104T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270809
 SUMMARY:Internationales Berliner Bierfestival (no dates yet)
@@ -2466,5 +2467,74 @@ DESCRIPTION:Austria's biggest EDM festival at the Salzburgring race track\
 LOCATION:Salzburgring\, 5325 Plainfeld
 URL:https://www.electriclove.at/
 CATEGORIES:music-festival,open-air,electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-19-werchter-werchter-parklife@events-search
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Werchter Parklife
+DESCRIPTION:One-day open air at Festivalpark Werchter with Foo Fighters\nF
+ oo Fighters\, Iggy Pop\, The Hives\nHours: n/a\nPrice: GA 136 EUR\, pit 1
+ 89 EUR (fees incl.); sale 20 Nov 10:00\nStatus: ok (official)\nhttps://ww
+ w.werchterparklife.be/en/nieuws/werchter-parklife-2027-with-foo-fighters-
+ iggy-pop-and-more
+LOCATION:Festivalpark Werchter\, Werchter
+URL:https://www.werchterparklife.be/en/nieuws/werchter-parklife-2027-with-
+ foo-fighters-iggy-pop-and-more
+CATEGORIES:music-festival,open-air,rock
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-13-rostock-till-lindemann-world-tour-2027-rostock@events-searc
+ h
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:Till Lindemann – World Tour 2027: Rostock
+DESCRIPTION:Lindemann solo show\, European leg; extra show\nTill Lindemann
+ ; extra show\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://www.
+ till-lindemann.com/
+LOCATION:Stadthalle Rostock\, Rostock
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-11-11-paris-till-lindemann-world-tour-2027-paris@events-search
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Till Lindemann – World Tour 2027: Paris
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:Zénith Paris – La Villette\, 211 Av. Jean Jaurès\, 75019 Pari
+ s
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-11-13-nurnberg-till-lindemann-world-tour-2027-nurnberg@events-sea
+ rch
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Till Lindemann – World Tour 2027: Nürnberg
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:PSD Bank Nürnberg Arena\, Nürnberg
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-11-15-munchen-till-lindemann-world-tour-2027-munchen@events-searc
+ h
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Till Lindemann – World Tour 2027: München
+DESCRIPTION:Lindemann solo show\, European leg\nTill Lindemann\nHours: n/a
+ \nPrice: n/a\nStatus: ok (official)\nhttps://www.till-lindemann.com/
+LOCATION:Olympiahalle\, Spiridon-Louis-Ring 21\, 80809 München
+URL:https://www.till-lindemann.com/
+CATEGORIES:industrial,metal
 END:VEVENT
 END:VCALENDAR

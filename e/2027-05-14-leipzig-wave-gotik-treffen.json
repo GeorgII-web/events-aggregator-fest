@@ -11,23 +11,46 @@
  "country": "Germany",
  "price": "n/a (2026: 190 EUR 4-day ticket)",
  "size": "big",
- "status": "unconfirmed",
+ "status": "ok",
  "link": "https://www.wave-gotik-treffen.de",
- "source": "festivalhopper.de",
- "details": "Runs every Pentecost weekend (Fri-Mon) with about 20,000 visitors and 200+ acts at many venues across the city. The official site shows a 'WGT 2027' heading but no dates or ticket form yet.",
+ "source": "official",
+ "details": "The 34th Wave-Gotik-Treffen runs 14-17 May 2027 (Pentecost Fri-Mon) in Leipzig, per the official news page. About 20,000 visitors and 200+ gothic, dark-wave, industrial and medieval acts at the Agra-Gelände and many venues across the city. No 2027 line-up or ticket prices yet (2026: 190 EUR 4-day ticket); camping on the Agra grounds or hotels in Leipzig.",
  "tags": [
   "music-festival",
   "city-festival",
   "rock",
   "electronic"
  ],
- "note": "Pentecost weekend",
- "dateNote": "Pentecost 2027 = 16 May; listings give 14-17 May",
- "checked": "2026-11-07",
+ "note": "34th edition, Pentecost weekend",
+ "dateNote": "",
+ "checked": "2026-11-16",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-07",
- "updatedAt": "2026-11-01T19:10:58.470Z",
- "history": [],
+ "lastSeen": "2026-11-16",
+ "updatedAt": "2026-11-16T21:18:04.618Z",
+ "history": [
+  {
+   "date": "2026-11-16",
+   "at": "2026-11-16T21:18:04.618Z",
+   "changes": {
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "source": [
+     "festivalhopper.de",
+     "official"
+    ],
+    "note": [
+     "Pentecost weekend",
+     "34th edition, Pentecost weekend"
+    ],
+    "dateNote": [
+     "Pentecost 2027 = 16 May; listings give 14-17 May",
+     ""
+    ]
+   }
+  }
+ ],
  "topic": "festivals",
  "groups": [
   "festival",
@@ -35,7 +58,7 @@
   "electronic",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wave-Gotik-Treffen&dates=20270514%2F20270518&details=World%27s+largest+gothic+and+dark-wave+festival+across+Leipzig+venues%0APentecost+weekend%0ADates%3A+Pentecost+2027+%3D+16+May%3B+listings+give+14-17+May%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282026%3A+190+EUR+4-day+ticket%29%0AStatus%3A+unconfirmed+%28festivalhopper.de%29%0Ahttps%3A%2F%2Fwww.wave-gotik-treffen.de&location=Agra-Gel%C3%A4nde+and+venues+across+Leipzig%2C+Leipzig&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wave-Gotik-Treffen&dates=20270514%2F20270518&details=World%27s+largest+gothic+and+dark-wave+festival+across+Leipzig+venues%0A34th+edition%2C+Pentecost+weekend%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa+%282026%3A+190+EUR+4-day+ticket%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.wave-gotik-treffen.de&location=Agra-Gel%C3%A4nde+and+venues+across+Leipzig%2C+Leipzig&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Agra-Gel%C3%A4nde%20and%20venues%20across%20Leipzig%2C%20Leipzig",
  "priceValue": 2026
 }

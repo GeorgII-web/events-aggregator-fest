@@ -14,7 +14,7 @@
  "status": "unconfirmed",
  "link": "https://brutalassault.cz/en",
  "source": "brutalassault.cz",
- "details": "Four-day extreme metal festival inside an 18th-century fortress, with camping; the 30th edition. Announced: Knocked Loose (headliner), Heaven Shall Burn, Emperor, Carcass, Mercyful Fate, The Sisters of Mercy. The line-up page shows 63 acts, '47% confirmed'; accommodation packages are sold out. The official site gives no dates yet; 4-7 Aug comes from listings.",
+ "details": "Four-day extreme metal festival inside an 18th-century fortress, with camping; the 30th edition. Announced: Knocked Loose (headliner), Heaven Shall Burn, Emperor, Carcass, Mercyful Fate, The Sisters of Mercy, Agnostic Front, Mick Gordon, plus exclusive sets by Master's Hammer and Sinister. Accommodation packages are sold out. The official site still gives no dates; 4-7 Aug 2027 comes from listings (festivalhopper.de, goout.net).",
  "tags": [
   "music-festival",
   "open-air",
@@ -22,10 +22,10 @@
  ],
  "note": "Knocked Loose, Mercyful Fate, Emperor",
  "dateNote": "dates from festivalhopper.de",
- "checked": "2026-11-07",
+ "checked": "2026-11-16",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-07",
- "updatedAt": "2026-11-01T19:12:00.278Z",
+ "lastSeen": "2026-11-16",
+ "updatedAt": "2026-11-16T21:18:04.618Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -88,6 +88,50 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-16",
+   "at": "2026-11-16T21:18:04.618Z",
+   "changes": {
+    "bands": [
+     [
+      "Knocked Loose",
+      "Heaven Shall Burn",
+      "Emperor",
+      "Carcass",
+      "Mercyful Fate",
+      "The Sisters of Mercy",
+      "Children of Bodom",
+      "Dismember",
+      "Destruction",
+      "Hypocrisy",
+      "Dethklok",
+      "Mgła",
+      "Agnostic Front",
+      "Gorilla Biscuits",
+      "Mick Gordon"
+     ],
+     [
+      "Knocked Loose",
+      "Heaven Shall Burn",
+      "Emperor",
+      "Carcass",
+      "Mercyful Fate",
+      "The Sisters of Mercy",
+      "Children of Bodom",
+      "Dismember",
+      "Destruction",
+      "Hypocrisy",
+      "Dethklok",
+      "Mgła",
+      "Agnostic Front",
+      "Gorilla Biscuits",
+      "Mick Gordon",
+      "Master's Hammer",
+      "Sinister"
+     ]
+    ]
+   }
   }
  ],
  "bands": [
@@ -105,7 +149,9 @@
   "Mgła",
   "Agnostic Front",
   "Gorilla Biscuits",
-  "Mick Gordon"
+  "Mick Gordon",
+  "Master's Hammer",
+  "Sinister"
  ],
  "topic": "festivals",
  "groups": [

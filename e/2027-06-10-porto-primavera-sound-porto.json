@@ -11,11 +11,11 @@
  "country": "Portugal",
  "price": "General pass 190 EUR, VIP 390 EUR (4 days)",
  "size": "big",
- "status": "unconfirmed",
+ "status": "ok",
  "link": "https://www.primaverasound.com/en/porto",
- "source": "thelineofbestfit.com",
- "checked": "2026-11-07",
- "details": "14th edition, 10-13 Jun 2027 at Parque da Cidade. First line-up of about 55 acts out since 29 Oct 2026: Fontaines D.C., Hayley Williams, FKA twigs, The Chemical Brothers, Lola Young, beabadoobee, Dinosaur Jr., DIIV. Four-day passes on sale (190 EUR general, 390 EUR VIP per press). The official site is JS-only, so dates and prices are from the press.",
+ "source": "official",
+ "checked": "2026-11-16",
+ "details": "14th edition, 10-13 Jun 2027 at Parque da Cidade (dates on primaverasound.com). First line-up of about 55 acts out since 29 Oct 2026: Fontaines D.C., Hayley Williams, FKA twigs, The Chemical Brothers, Lola Young, beabadoobee, Dinosaur Jr., DIIV. Four-day passes on sale; prices from the press (190 EUR general, 390 EUR VIP; Fever lists 170 / 275 EUR early-bird), the official ticket page shows no prices to scripts.",
  "tags": [
   "music-festival",
   "open-air",
@@ -24,8 +24,8 @@
  ],
  "note": "The Chemical Brothers",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-07",
- "updatedAt": "2026-11-04T19:33:25.604Z",
+ "lastSeen": "2026-11-16",
+ "updatedAt": "2026-11-16T21:18:04.618Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -89,6 +89,20 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-16",
+   "at": "2026-11-16T21:18:04.618Z",
+   "changes": {
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "source": [
+     "thelineofbestfit.com",
+     "official"
+    ]
+   }
   }
  ],
  "bands": [
@@ -105,7 +119,7 @@
  "groups": [
   "musicfest"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primavera+Sound+Porto&dates=20270610%2F20270614&details=Porto+sister+of+Primavera+in+a+city+park%0AThe+Chemical+Brothers%0AHours%3A+n%2Fa%0APrice%3A+General+pass+190+EUR%2C+VIP+390+EUR+%284+days%29%0AStatus%3A+unconfirmed+%28thelineofbestfit.com%29%0Ahttps%3A%2F%2Fwww.primaverasound.com%2Fen%2Fporto&location=Parque+da+Cidade%2C+Porto&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primavera+Sound+Porto&dates=20270610%2F20270614&details=Porto+sister+of+Primavera+in+a+city+park%0AThe+Chemical+Brothers%0AHours%3A+n%2Fa%0APrice%3A+General+pass+190+EUR%2C+VIP+390+EUR+%284+days%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.primaverasound.com%2Fen%2Fporto&location=Parque+da+Cidade%2C+Porto&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Parque%20da%20Cidade%2C%20Porto",
  "priceValue": 190
 }

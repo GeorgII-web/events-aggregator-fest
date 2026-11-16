@@ -1,0 +1,45 @@
+{
+ "id": "2027-06-19-werchter-werchter-parklife",
+ "name": "Werchter Parklife",
+ "description": "One-day open air at Festivalpark Werchter with Foo Fighters",
+ "start": "2027-06-19",
+ "end": "2027-06-19",
+ "hours": "n/a",
+ "place": "Festivalpark Werchter",
+ "address": "n/a",
+ "city": "Werchter",
+ "country": "Belgium",
+ "price": "GA 136 EUR, pit 189 EUR (fees incl.); sale 20 Nov 10:00",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.werchterparklife.be/en/nieuws/werchter-parklife-2027-with-foo-fighters-iggy-pop-and-more",
+ "source": "official",
+ "note": "Foo Fighters, Iggy Pop, The Hives",
+ "bands": [
+  "Foo Fighters",
+  "Iggy Pop",
+  "The Hives",
+  "Violet Grohl",
+  "Florence Road",
+  "Alice Mae"
+ ],
+ "tags": [
+  "music-festival",
+  "open-air",
+  "rock"
+ ],
+ "details": "One-day open air by the Rock Werchter organisers on Saturday 19 June 2027, headlined by Foo Fighters on their Take Cover Tour. Also on the bill: Iggy Pop, The Hives, Violet Grohl, Florence Road, Alice Mae. Tickets via ticketmaster.be from Fri 20 Nov 2026 10:00 (Live Nation presale 19 Nov): general admission 136 EUR, pit 189 EUR (front area during Foo Fighters), Hideout packages 305 / 359 EUR with hospitality and parking; all prices include fees, mobility and eco contribution. Same weekend as Graspop (Dessel, 45 km).",
+ "checked": "2026-11-16",
+ "firstSeen": "2026-11-16",
+ "lastSeen": "2026-11-16",
+ "updatedAt": "2026-11-16T21:18:04.618Z",
+ "history": [],
+ "topic": "festivals",
+ "groups": [
+  "musicfest",
+  "rock"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Werchter+Parklife&dates=20270619%2F20270620&details=One-day+open+air+at+Festivalpark+Werchter+with+Foo+Fighters%0AFoo+Fighters%2C+Iggy+Pop%2C+The+Hives%0AHours%3A+n%2Fa%0APrice%3A+GA+136+EUR%2C+pit+189+EUR+%28fees+incl.%29%3B+sale+20+Nov+10%3A00%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.werchterparklife.be%2Fen%2Fnieuws%2Fwerchter-parklife-2027-with-foo-fighters-iggy-pop-and-more&location=Festivalpark+Werchter%2C+Werchter&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Festivalpark%20Werchter%2C%20Werchter",
+ "priceValue": 136
+}

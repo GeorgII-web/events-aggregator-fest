@@ -11,11 +11,11 @@
  "country": "Czechia",
  "price": "passes from about 70 EUR (press)",
  "size": "big",
- "status": "unconfirmed",
+ "status": "ok",
  "link": "https://www.colours.cz/en",
  "source": "official",
- "checked": "2026-11-07",
- "details": "24th edition among blast furnaces. Announced: Robbie Williams, Martin Garrix, Ellie Goulding, 5 Seconds of Summer. 24th edition at Dolní Vítkovice, 21-24 Jul 2027; Robbie Williams plays 21 Jul, his first show in Czechia. Discounted passes at shop.colours.cz.",
+ "checked": "2026-11-16",
+ "details": "24th edition among the blast furnaces of Dolní Vítkovice, 21-24 July 2027 (official ticket page). Announced: Robbie Williams (21 Jul, his first show in Czechia), Martin Garrix, Ellie Goulding, 5 Seconds of Summer, David Kushner, Florence Road. Passes on sale at shop.colours.cz with prices rising per wave (from about 70 EUR per press). Camping and Chill Village on site; hotels in Ostrava.",
  "tags": [
   "music-festival",
   "open-air",
@@ -24,8 +24,8 @@
  ],
  "note": "Robbie Williams, Ellie Goulding, Martin Garrix",
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-07",
- "updatedAt": "2026-11-01T19:12:00.278Z",
+ "lastSeen": "2026-11-16",
+ "updatedAt": "2026-11-16T21:18:04.618Z",
  "history": [
   {
    "date": "2026-11-01",
@@ -72,6 +72,16 @@
      ]
     ]
    }
+  },
+  {
+   "date": "2026-11-16",
+   "at": "2026-11-16T21:18:04.618Z",
+   "changes": {
+    "status": [
+     "unconfirmed",
+     "ok"
+    ]
+   }
   }
  ],
  "bands": [
@@ -88,7 +98,7 @@
   "musicfest",
   "rock"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colours+of+Ostrava&dates=20270721%2F20270725&details=Czech+multi-genre+festival+in+an+industrial+complex%0ARobbie+Williams%2C+Ellie+Goulding%2C+Martin+Garrix%0AHours%3A+n%2Fa%0APrice%3A+passes+from+about+70+EUR+%28press%29%0AStatus%3A+unconfirmed+%28official%29%0Ahttps%3A%2F%2Fwww.colours.cz%2Fen&location=Doln%C3%AD+V%C3%ADtkovice%2C+Ostrava&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colours+of+Ostrava&dates=20270721%2F20270725&details=Czech+multi-genre+festival+in+an+industrial+complex%0ARobbie+Williams%2C+Ellie+Goulding%2C+Martin+Garrix%0AHours%3A+n%2Fa%0APrice%3A+passes+from+about+70+EUR+%28press%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.colours.cz%2Fen&location=Doln%C3%AD+V%C3%ADtkovice%2C+Ostrava&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Doln%C3%AD%20V%C3%ADtkovice%2C%20Ostrava",
  "priceValue": 70
 }
